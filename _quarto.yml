@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Evelyn Greeves"
+#  title: 
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
-      - portfolio.qmd
+  page-footer: 
+    left: 
+      - "Copyright 2023"
 
 format:
   html:
-    theme: minty
-    css: styles.css
+#    theme:
     page-layout: full
 
 editor: visual
