@@ -1,7 +1,7 @@
 ---
-title: "Self-study Courses"
+title: "Upcoming Courses"
 listing:
-  contents: self_study
+  contents: upcoming
   type: grid
   sort: "date desc"
   categories: false
