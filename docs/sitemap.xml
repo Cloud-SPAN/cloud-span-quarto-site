@@ -2,38 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/about.html</loc>
-    <lastmod>2023-08-22T10:19:27.449Z</lastmod>
+    <lastmod>2023-08-22T10:43:02.864Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs.html</loc>
-    <lastmod>2023-08-22T10:19:29.191Z</lastmod>
+    <lastmod>2023-08-22T10:43:04.186Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/index.html</loc>
-    <lastmod>2023-08-22T10:19:30.901Z</lastmod>
+    <lastmod>2023-08-22T10:48:56.014Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Create Your Own AWS Instance/index.html</loc>
+    <lastmod>2023-08-22T10:43:07.377Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Genomics/index.html</loc>
-    <lastmod>2023-08-22T10:19:32.644Z</lastmod>
+    <lastmod>2023-08-22T10:43:08.996Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Metagenomics for Microbiologists/index.html</loc>
+    <lastmod>2023-08-22T10:43:10.667Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Prenomics/index.html</loc>
-    <lastmod>2023-08-22T10:19:34.326Z</lastmod>
+    <lastmod>2023-08-22T10:43:12.484Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study_courses.html</loc>
-    <lastmod>2023-08-22T10:19:36.189Z</lastmod>
+    <lastmod>2023-08-22T10:45:39.237Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming/Core R/index.html</loc>
-    <lastmod>2023-08-22T10:19:37.712Z</lastmod>
+    <lastmod>2023-08-22T10:43:15.955Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming/NERC Metagenomics/index.html</loc>
-    <lastmod>2023-08-22T10:19:39.171Z</lastmod>
+    <lastmod>2023-08-22T10:43:17.504Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming_courses.html</loc>
-    <lastmod>2023-08-22T10:19:40.720Z</lastmod>
+    <lastmod>2023-08-22T10:43:19.179Z</lastmod>
   </url>
 </urlset>
