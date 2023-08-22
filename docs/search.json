@@ -4,34 +4,62 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure."
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Evelyn Greeves",
+    "title": "Cloud-SPAN",
     "section": "",
-    "text": "I’m a biologist and science communicator.\n\n\n\nBSc in Biology (2017-2021)\nUniversity of York\n\n\n\n\nFAIR and Community Manager (2021-present)\nUniversity of York\nCommunications & Impact Officer (2019-2020)\nScience & Technology Facilties Council"
+    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses.\nWe offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training."
   },
   {
-    "objectID": "index.html#hi-im-evelyn.",
-    "href": "index.html#hi-im-evelyn.",
-    "title": "Evelyn Greeves",
+    "objectID": "self_study/Genomics/index.html",
+    "href": "self_study/Genomics/index.html",
+    "title": "Genomics",
     "section": "",
-    "text": "I’m a biologist and science communicator.\n\n\n\nBSc in Biology (2017-2021)\nUniversity of York\n\n\n\n\nFAIR and Community Manager (2021-present)\nUniversity of York\nCommunications & Impact Officer (2019-2020)\nScience & Technology Facilties Council"
+    "text": "Info about Genomics"
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
+    "objectID": "self_study/Prenomics/index.html",
+    "href": "self_study/Prenomics/index.html",
+    "title": "Prenomics",
     "section": "",
-    "text": "Leaflets for STFC\n\n\n\nSTFC\n\n\nAdobe Illustrator\n\n\ncomputing\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Info about Prenomics"
   },
   {
-    "objectID": "posts/Leaflets/index.html",
-    "href": "posts/Leaflets/index.html",
-    "title": "Leaflets for STFC",
+    "objectID": "self_study_courses.html",
+    "href": "self_study_courses.html",
+    "title": "Self-study Courses",
     "section": "",
-    "text": "Info about leaflets"
+    "text": "Genomics\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPrenomics\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "upcoming/Core R/index.html",
+    "href": "upcoming/Core R/index.html",
+    "title": "Core R",
+    "section": "",
+    "text": "Info about Core R"
+  },
+  {
+    "objectID": "upcoming/NERC Metagenomics/index.html",
+    "href": "upcoming/NERC Metagenomics/index.html",
+    "title": "NERC Metagenomics",
+    "section": "",
+    "text": "Info about NERC Metagenomics"
+  },
+  {
+    "objectID": "upcoming_courses.html",
+    "href": "upcoming_courses.html",
+    "title": "Self-study Courses",
+    "section": "",
+    "text": "Genomics\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPrenomics\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

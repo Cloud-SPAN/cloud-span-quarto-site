@@ -3,19 +3,24 @@ project:
   output-dir: docs
 
 website:
-#  title: 
+  title: Cloud-SPAN
+  favicon: images/cloudspan_favicon_32x32.png
+  site-url: https://cloud-span.github.io/cloud-span-quarto-site/
   navbar:
     right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - self_study_courses.qmd
+      - upcoming_courses.qmd
+      - blogs.qmd
   page-footer: 
     left: 
       - "Copyright 2023"
 
 format:
   html:
-#    theme:
+#    theme: cerulean
     page-layout: full
 
 editor: visual

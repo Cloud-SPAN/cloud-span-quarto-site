@@ -1,8 +1,20 @@
 [
   {
-    "listing": "/portfolio.html",
+    "listing": "/blogs.html",
+    "items": []
+  },
+  {
+    "listing": "/self_study_courses.html",
     "items": [
-      "/posts/Leaflets/index.html"
+      "/self_study/Genomics/index.html",
+      "/self_study/Prenomics/index.html"
+    ]
+  },
+  {
+    "listing": "/upcoming_courses.html",
+    "items": [
+      "/self_study/Genomics/index.html",
+      "/self_study/Prenomics/index.html"
     ]
   }
 ]
