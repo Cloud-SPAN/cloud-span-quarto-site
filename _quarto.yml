@@ -20,7 +20,8 @@ website:
 
 format:
   html:
-#    theme: cerulean
+    theme:
+    - styles.scss
     page-layout: full
 
 editor: visual

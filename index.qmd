@@ -1,11 +1,11 @@
 ---
 title: Cloud-SPAN
-image: images/clouds_cropped.jpg
+page-layout: full
+image: /images/clouds_cropped.jpg
 about:
   template: jolla
   image-shape: rectangle
-  image-width: auto
-  
+  image-width: 70em
 ---
 
 Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses.

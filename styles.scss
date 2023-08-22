@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+
+// Colours
+$night: #141414;
+$midnight_green: #003647;
+$blue: #0086b2;
+$blue_green: #1f97bc;
+$moonstone: #54b0cc;
+$light_blue: #bce2f0;
+$alice_blue: #e3f2f8;
+$seasalt: #f7f7f7;
+
+// Base Document Colours
+$navbar-bg: $blue; // navbar
+$navbar-fg: $seasalt; // navbar foreground elements
+$navbar-hl: $light_blue; // highlight color when hovering over navbar links
+$body-bg: $seasalt; // page background 
+$body-color: $night; // page text 
+$footer-bg: $alice_blue; // footer 
+$link-color: $midnight_green; // hyperlinks 
