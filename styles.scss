@@ -1,5 +1,8 @@
 /*-- scss:defaults --*/
 
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
 // Colours
 $night: #141414;
 $midnight_green: #003647;
@@ -18,3 +21,6 @@ $body-bg: $seasalt; // page background
 $body-color: $night; // page text 
 $footer-bg: $alice_blue; // footer 
 $link-color: $midnight_green; // hyperlinks 
+
+/*-- scss:rules --*/
+
