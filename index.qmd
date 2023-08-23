@@ -1,13 +1,19 @@
 ---
-title: Cloud-SPAN
-page-layout: full
-image: images/clouds_cropped.jpg
-about:
-  template: jolla
-  image-shape: rectangle
-  image-width: 70em
+# title: Cloud-SPAN
+# image: images/clouds_cropped.jpg
+# about:
+#   template: jolla
+#   image-shape: rectangle
+#   image-width: 70em
+page-layout: custom
 ---
 
-Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses.
+<section class="hero">
+  <h1 class="home_title">Welcome to Cloud-SPAN</h1>
+</section>
 
-We offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training.
+<section class="padded">
+<p>Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses. </p>
+
+<p>We offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training. </p>
+</section>

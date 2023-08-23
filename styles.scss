@@ -24,3 +24,43 @@ $link-color: $midnight_green; // hyperlinks
 
 /*-- scss:rules --*/
 
+/* The hero image */
+
+.hero {
+    /* Sizing */
+    width: 100vw;
+    height: 50vh;
+    
+    /* Flexbox stuff */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* Text styles */
+    text-align: center;
+    color: white;
+    
+    /* Background styles */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url('images/clouds_cropped.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.home_title {
+    /* Text styles */
+    font-size: 5em;
+    
+    /* Margins */
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    
+    vertical-align: text-bottom;
+}
+
+.padded {
+  margin-left: 22em;
+  margin-right: 22em;
+  margin-top: 3em;
+}
