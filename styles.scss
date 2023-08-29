@@ -54,7 +54,7 @@ $link-color: $midnight_green; // hyperlinks
     
     /* Margins */
     margin-top: 0;
-    margin-bottom: 0.5em;
+    margin-bottom: 0em;
     vertical-align: text-bottom;
 }
 
@@ -73,21 +73,12 @@ h2 {
 
 /* from W3 schools responsive image gallery tutorial */
 .gallery {
-  border: 1px solid #ccc;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
+  border: 1px solid $seasalt;
 }
 
 div.gallery img {
   width: 100%;
   height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
 }
 
 * {
