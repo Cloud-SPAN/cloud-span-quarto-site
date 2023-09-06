@@ -11,7 +11,7 @@ page-layout: custom
   <h1 class="home_title">Welcome to Cloud-SPAN</h1>
 </section>
 
-<section class="padded_22em">
+<section class="padded_12vw">
 <p>Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses. </p>
 
 <p>We offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training. </p>
@@ -22,8 +22,7 @@ page-layout: custom
 Challenges in Environmental 'Omics
 </h2>
 
-<section class="padded_22em">
-
+<section class="padded_12vw">
 <div class="responsive gallery">
   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
     <img src="images/software_icon.png" alt="Software" width="400" height="auto">
@@ -48,6 +47,6 @@ Challenges in Environmental 'Omics
   </a>
 </div>
 
+</section>
 <div class="clearfix"></div>
 
-</section>

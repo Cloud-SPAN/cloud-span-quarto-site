@@ -50,7 +50,7 @@ $link-color: $midnight_green; // hyperlinks
 
 .home_title {
     /* Text styles */
-    font-size: 5em;
+    font-size: 5vw;
     
     /* Margins */
     margin-top: 0;
@@ -58,10 +58,10 @@ $link-color: $midnight_green; // hyperlinks
     vertical-align: text-bottom;
 }
 
-.padded_22em {
-  margin-left: 22em;
-  margin-right: 22em;
-  margin-top: 3em;
+.padded_12vw {
+  margin-left: 12vw;
+  margin-right: 12vw;
+  margin-top: 3vw;
 }
 
 h2 {
@@ -72,16 +72,13 @@ h2 {
 }
 
 /* from W3 schools responsive image gallery tutorial */
-.gallery {
-  border: 1px solid $seasalt;
-}
-
 div.gallery img {
   width: 100%;
   height: auto;
 }
 
 * {
+
   box-sizing: border-box;
 }
 
