@@ -11,42 +11,93 @@ page-layout: custom
   <h1 class="home_title">Welcome to Cloud-SPAN</h1>
 </section>
 
-<section class="padded_12vw">
-<p>Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses. </p>
+<div class="blue_bkg">
+  <div class="padded_12vw">
+  <p>Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised     analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses. </p>
 
-<p>We offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training. </p>
+  <p>We offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training. </p>
+  </div>
 
-</section>
+</div>
 
 <h2>
 Challenges in Environmental 'Omics
 </h2>
 
-<section class="padded_12vw">
-<div class="responsive gallery">
-  <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
-    <img src="images/software_icon.png" alt="Software" width="400" height="auto">
-  </a>
-</div>
+  <section class="padded_12vw">
+   <div class="responsive gallery">
+   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
+      <img src="images/software_icon.png" alt="Software" width="300" height="auto">
+    </a>
+  </div>
 
-<div class="responsive gallery">
-  <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
-    <img src="images/hardware_icon.png" alt="Hardware" width="400" height="auto">
-  </a>
-</div>
+  <div class="responsive gallery">
+   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
+      <img src="images/hardware_icon.png" alt="Hardware" width="300" height="auto">
+    </a>
+  </div>
 
-<div class="responsive gallery">
-  <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
-    <img src="images/time_icon.png" alt="Time" width="400" height="auto">
-  </a>
-</div>
+  <div class="responsive gallery">
+   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
+      <img src="images/time_icon.png" alt="Time" width="300" height="auto">
+    </a>
+  </div>
 
-<div class="responsive gallery">
-  <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
-    <img src="images/skills_icon.png" alt="Skills" width="400" height="auto">
-  </a>
-</div>
+  <div class="responsive gallery">
+   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
+      <img src="images/skills_icon.png" alt="Skills" width="300" height="auto">
+    </a>
+  </div>
+
+</class>
 
 </section>
 <div class="clearfix"></div>
 
+<h2>
+Our Solutions
+</h2>
+
+<section class="padded_12vw">
+   <div class="responsive gallery">
+   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
+      <img src="images/cloud_icon.png" alt="Cloud HPC" width="300" height="auto">
+    </a>
+    </div>
+
+    <div class="responsive gallery">
+   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
+      <img src="images/training_solution_icon.png" alt="Training" width="300" height="auto">
+    </a>
+    </div>
+
+</class>
+</section>
+<div class="clearfix"></div>
+
+<h2>
+Our Approach
+</h2>
+
+<section class="padded_12vw">
+  <div class="responsive gallery">
+   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
+     <img src="images/training_approach_icon.png" alt="Training" width="300" height="auto">
+    </a>
+  </div>
+
+  <div class="responsive gallery">
+   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
+     <img src="images/community_icon.png" alt="Icon" width="300" height="auto">
+    </a>
+  </div>
+
+  <div class="responsive gallery">
+   <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
+     <img src="images/fair_icon.png" alt="FAIR" width="300" height="auto">
+    </a>
+  </div>
+</class>
+</section>
+
+<div class="clearfix"></div>

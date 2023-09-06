@@ -71,6 +71,26 @@ h2 {
     color: $blue_green;
 }
 
+.blue_bkg {
+  /* Sizing */
+  width: 100vw;
+  height: 15em;
+    
+  /* Flexbox stuff */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    
+  /* Text styles */
+  text-align: left;
+  color: white;
+    
+  /* Background styles */
+  background-color: $blue;
+  background-size: cover;
+  background-position: center center;
+}
+
 /* from W3 schools responsive image gallery tutorial */
 div.gallery img {
   width: 100%;
@@ -78,7 +98,6 @@ div.gallery img {
 }
 
 * {
-
   box-sizing: border-box;
 }
 
