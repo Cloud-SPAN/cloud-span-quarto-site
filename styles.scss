@@ -48,9 +48,9 @@ $link-color: $midnight_green; // hyperlinks
     background-attachment: fixed;
 }
 
-.home_title {
+.home-title {
     /* Text styles */
-    font-size: 5vw;
+    font-size: 20em;
     
     /* Margins */
     margin-top: 0;
@@ -58,23 +58,23 @@ $link-color: $midnight_green; // hyperlinks
     vertical-align: text-bottom;
 }
 
-.padded_12vw {
-  margin-left: 12vw;
-  margin-right: 12vw;
-  margin-top: 3vw;
+.side-padding {
+  margin-left: 16vw;
+  margin-right: 16vw;
+  margin-top: 1vw;
 }
 
 h2 {
    /* Text styles */
     text-align: center;
-    font-size: 2em;
+    font-size: 2vw;
     color: $blue_green;
 }
 
-.blue_bkg {
+.blue-bkg {
   /* Sizing */
   width: 100vw;
-  height: 15em;
+  height: 15vw;
     
   /* Flexbox stuff */
   display: flex;
@@ -84,9 +84,10 @@ h2 {
   /* Text styles */
   text-align: left;
   color: white;
+  font-size: 1.1vw;
     
   /* Background styles */
-  background-color: $blue;
+  background-color: $moonstone;
   background-size: cover;
   background-position: center center;
 }
@@ -95,6 +96,12 @@ h2 {
 div.gallery img {
   width: 100%;
   height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-size: 1vw;
 }
 
 * {
