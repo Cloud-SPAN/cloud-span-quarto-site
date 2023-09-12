@@ -1,7 +1,13 @@
 [
   {
     "listing": "/blogs.html",
-    "items": []
+    "items": [
+      "/blogs/Course Update/index.html",
+      "/blogs/blog post 2/index.html",
+      "/blogs/blog post 3/index.html",
+      "/blogs/blog post 4/index.html",
+      "/blogs/blog post 5/index.html"
+    ]
   },
   {
     "listing": "/self_study_courses.html",
