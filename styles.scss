@@ -29,16 +29,18 @@ $link-color: $midnight_green; // hyperlinks
 .hero {
     /* Sizing */
     width: 100vw;
-    height: 50vh;
+    height: auto;
+    
+        /* Padding */
+    padding-top: 10%;
+    padding-bottom: 10%;
     
     /* Flexbox stuff */
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    /* Text styles */
+    vertical-align: middle;
     text-align: center;
-    color: white;
     
     /* Background styles */
     background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url('images/clouds_cropped.jpg');
@@ -50,12 +52,11 @@ $link-color: $midnight_green; // hyperlinks
 
 .home-title {
     /* Text styles */
-    font-size: 20em;
+    //font-size: 20rem;
     
     /* Margins */
-    margin-top: 0;
-    margin-bottom: 0em;
-    vertical-align: text-bottom;
+    vertical-align: middle;
+    text-align: center;
 }
 
 .side-padding {
@@ -64,17 +65,10 @@ $link-color: $midnight_green; // hyperlinks
   margin-top: 1vw;
 }
 
-h2 {
-   /* Text styles */
-    text-align: center;
-    font-size: 2vw;
-    color: $blue_green;
-}
-
 .blue-bkg {
   /* Sizing */
   width: 100vw;
-  height: 15vw;
+  height: auto;
     
   /* Flexbox stuff */
   display: flex;
@@ -101,7 +95,7 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
-  font-size: 1vw;
+  font-size: 1rem;
 }
 
 * {
@@ -131,4 +125,79 @@ div.desc {
   content: "";
   display: table;
   clear: both;
+}
+
+//screen size variables
+$mobile: 500px; // Screen min
+$desktop: 1200px; // Screen max
+$screen-diff: ($desktop / 1px - $mobile / 1px);
+
+//font size variables for h1 text
+$font-min-h1: 20px; 
+$font-max-h1: 80px;
+$font-diff-h1: ($font-max-h1 / 1px - $font-min-h1 / 1px);
+
+h1 {
+  text-align: centre;
+  color: $seasalt;
+  
+  // Mobile
+  @media (max-width: 599px) {
+    font-size: $font-min-h1;
+  }
+  
+  // Everything in between mobile (600px) to desktop (1200px)
+  @media (min-width: 600px) and (max-width: 1200px) {
+    font-size: calc(#{$font-min-h1} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-h1});
+  }
+// Desktop
+  @media (min-width: 1201px) {
+    font-size: $font-max-h1;
+  }
+}
+
+//font size variables for h2 text
+$font-min-h2: 20px; 
+$font-max-h2: 40px;
+$font-diff-h2: ($font-max-h2 / 1px - $font-min-h2 / 1px);
+
+h2 {
+  text-align: center;
+  color: $blue_green;
+  // Mobile
+  @media (max-width: 599px) {
+    font-size: $font-min-h2;
+  }
+  
+  // Everything in between mobile (600px) to desktop (1200px)
+  @media (min-width: 600px) and (max-width: 1200px) {
+    font-size: calc(#{$font-min-h2} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-h2});
+  }
+// Desktop
+  @media (min-width: 1201px) {
+    font-size: $font-max-h2;
+  }
+}
+
+//font size variables for p text
+$font-min-p: 16px; 
+$font-max-p: 20px;
+$font-diff-p: ($font-max-p / 1px - $font-min-p / 1px);
+
+p {
+  text-align: center;
+  color: $seasalt;
+  // Mobile
+  @media (max-width: 599px) {
+    font-size: $font-min-p;
+  }
+  
+  // Everything in between mobile (600px) to desktop (1200px)
+  @media (min-width: 600px) and (max-width: 1200px) {
+    font-size: calc(#{$font-min-p} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-p});
+  }
+// Desktop
+  @media (min-width: 1201px) {
+    font-size: $font-max-p;
+  }
 }
