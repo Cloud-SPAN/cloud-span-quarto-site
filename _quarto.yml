@@ -8,7 +8,7 @@ website:
   site-url: https://cloud-span.github.io/cloud-span-quarto-site/
   navbar:
     title: false
-    logo: images/logo_text_only_W.png
+    logo: images/logo_cloud_only.png
     right:
       - text: Home
         href: index.qmd
