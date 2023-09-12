@@ -8,16 +8,15 @@
 page-layout: custom
 ---
 <section class="hero">
-  <h1 class="home_title">Welcome to Cloud-SPAN</h1>
+  <div class="home-title">Welcome to Cloud-SPAN</div>
 </section>
 
 <div class="blue-bkg">
   <div class="side-padding">
-  <p>Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised     analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses. </p>
-
-  <p>We offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training. </p>
+  <p class="p-blue">Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses. </p>
+  
+  <p class="p-blue">We offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training. </p>
   </div>
-
 </div>
 
 <h2>
@@ -70,14 +69,13 @@ Our Solutions
     <div class="desc">We use **cloud-based containerised** instances with **pre-installed software** which are scalable and easy to access.</div>
   </div>
 
-    <div class="responsive gallery">
+  <div class="responsive gallery">
    <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
       <img src="images/training_solution_icon.png" alt="Training" width="300" height="auto">
     </a>
     <div class="desc">We deliver high quality training with a **low barrier to participation** - absolutely zero previous experience needed!</div>
-    </div>
 
-</class>
+</div>
 </section>
 <div class="clearfix"></div>
 

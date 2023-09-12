@@ -50,15 +50,6 @@ $link-color: $midnight_green; // hyperlinks
     background-attachment: fixed;
 }
 
-.home-title {
-    /* Text styles */
-    //font-size: 20rem;
-    
-    /* Margins */
-    vertical-align: middle;
-    text-align: center;
-}
-
 .side-padding {
   margin-left: 16vw;
   margin-right: 16vw;
@@ -75,21 +66,22 @@ $link-color: $midnight_green; // hyperlinks
   justify-content: center;
   align-items: center;
     
-  /* Text styles */
-  text-align: left;
-  color: white;
-  font-size: 1.1vw;
-    
   /* Background styles */
   background-color: $moonstone;
   background-size: cover;
   background-position: center center;
 }
 
-/* from W3 schools responsive image gallery tutorial */
+/* IMAGE GALLERY (based on W3 schools responsive image gallery tutorial) */
 div.gallery img {
   width: 100%;
   height: auto;
+}
+
+div.gallery-center {
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
 }
 
 div.desc {
@@ -106,6 +98,7 @@ div.desc {
   padding: 0 6px;
   float: left;
   width: 24.99999%;
+  text-align: center;
 }
 
 @media only screen and (max-width: 700px) {
@@ -127,36 +120,39 @@ div.desc {
   clear: both;
 }
 
+/* TEXT SIZE (based on https://medium.com/@jamesweee/minimum-maximum-responsive-font-sizing-in-css-38793acc9f8f) */
 //screen size variables
 $mobile: 500px; // Screen min
 $desktop: 1200px; // Screen max
 $screen-diff: ($desktop / 1px - $mobile / 1px);
 
-//font size variables for h1 text
-$font-min-h1: 20px; 
-$font-max-h1: 80px;
-$font-diff-h1: ($font-max-h1 / 1px - $font-min-h1 / 1px);
+//font size variables for title text (in hero image on homepage)
+$font-min-home-title: 20px; 
+$font-max-home-title: 80px;
+$font-diff-home-title: ($font-max-home-title / 1px - $font-min-home-title / 1px);
 
-h1 {
-  text-align: centre;
+.home-title {
+  vertical-align: middle;
+  text-align: center;
+  font-weight: bold;
   color: $seasalt;
   
   // Mobile
   @media (max-width: 599px) {
-    font-size: $font-min-h1;
+    font-size: $font-min-home-title;
   }
   
   // Everything in between mobile (600px) to desktop (1200px)
   @media (min-width: 600px) and (max-width: 1200px) {
-    font-size: calc(#{$font-min-h1} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-h1});
+    font-size: calc(#{$font-min-home-title} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-home-title});
   }
 // Desktop
   @media (min-width: 1201px) {
-    font-size: $font-max-h1;
+    font-size: $font-max-home-title;
   }
 }
 
-//font size variables for h2 text
+//font size variables for h2 text (section titles on homepage)
 $font-min-h2: 20px; 
 $font-max-h2: 40px;
 $font-diff-h2: ($font-max-h2 / 1px - $font-min-h2 / 1px);
@@ -179,25 +175,27 @@ h2 {
   }
 }
 
-//font size variables for p text
-$font-min-p: 16px; 
-$font-max-p: 20px;
-$font-diff-p: ($font-max-p / 1px - $font-min-p / 1px);
+//font size variables for p-blue text (p text inside blue flexbox)
+$font-min-p-blue: 16px; 
+$font-max-p-blue: 20px;
+$font-diff-p-blue: ($font-max-p-blue / 1px - $font-min-p-blue / 1px);
 
-p {
-  text-align: center;
+.p-blue {
+  text-align: left;
   color: $seasalt;
+  margin-top: 5px;
+  margin-bottom: 25px;
   // Mobile
   @media (max-width: 599px) {
-    font-size: $font-min-p;
+    font-size: $font-min-p-blue;
   }
   
   // Everything in between mobile (600px) to desktop (1200px)
   @media (min-width: 600px) and (max-width: 1200px) {
-    font-size: calc(#{$font-min-p} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-p});
+    font-size: calc(#{$font-min-p-blue} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-p-blue});
   }
 // Desktop
   @media (min-width: 1201px) {
-    font-size: $font-max-p;
+    font-size: $font-max-p-blue;
   }
 }
