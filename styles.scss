@@ -205,3 +205,8 @@ $font-diff-p-blue: ($font-max-p-blue / 1px - $font-min-p-blue / 1px);
     font-size: $font-max-p-blue;
   }
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}

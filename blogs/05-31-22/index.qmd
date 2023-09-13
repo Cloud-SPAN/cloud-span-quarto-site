@@ -1,0 +1,49 @@
+---
+title: "What is FAIR data?"
+date: 05-31-22
+author: Evelyn Greeves
+categories:
+  - Open science
+---
+
+At Cloud-SPAN we care deeply about making science as open as possible. A lot of this comes down to project management and data organisation - which we teach as part of our Genomics course. Today we want to introduce you to the FAIR data principles, which are a framework for thinking about how to ensure the scientific community gets the most out of the data we produce. In this case, this means making it easier for people to find and reuse our hard-earned data!
+
+The FAIR framework aims to encourage data reuse by both humans and computers by improving the findability, accessibility, interoperability and reusability of data and other resources. So what are the steps involved in FAIR-ifying data?
+
+<img src="FAIR acronym graphic with attr.png" alt="A graphic showing the 4 FAIR Principles: Findable (illustrated with a magnifying glass), Accessible (illustrated with an open lock), Interoperable (illustrated with interlocking gears) and Reusable (illustrated with a green recycling symbol)" width="600">
+
+### F is for Findable
+
+Before data can be reused, we need to make sure it can be found. One way to do this is by tagging it with **metadata** (information about the data), such as what type of data it is, who collected it, the conditions used, and so on. This allows it to be indexed in a **searchable registry** so more people will see it. Metadata is important for both helping people find your data and for understanding the context they were generated in.
+
+Another key way to make sure data is findable is by assigning it a **persistent identifier**. This is a long-lasting digital reference which ensures a resource can always be found, no matter where it\'s stored. **DOIs** (digital object identifiers) are one type of persistent identifier that you have probably heard of before - they can be applied to things like journal articles, data sets and other publications.
+
+### A is for Accessible
+
+Once we\'ve made sure people can find our data, we need to make sure they can access it if they have permission. This means making it retrievable using some kind of **standardised protocol**, without any need for specialised or proprietary tools. We also need to tell people how they can get access, so we should include this as one of our metadata fields.
+
+A common misconception is that all FAIR data is \'open\' or \'free\'. Heavily protected or private data can still be FAIR as long as it is clear under which conditions the data is accessible.
+
+### I is for Interoperable
+
+So now we\'ve made it possible for someone to find and access our data. How can we make sure they can actually use it? There are two aspects to interoperability. The first is using **standardised and open formats** so that data can be exchanged and used across multiple different applications and systems. This means avoiding proprietary formats and conforming with **field-specific standards** about what format data should come in.
+
+The second relates to how computers understand our data in comparison with other data. This is possible using a **\'controlled vocabulary\'** or **\'ontology\'** which ensures that everyone is using the same words for the same thing. Again, we should try and conform with field-specific standards around ontologies.
+
+### R is for Reusable
+
+This final principle emphasises the idea that by following the previous three principles- findable, accessible, interoperable- we should be aiming to make our data as reusable as possible. This means using accurate and richly described metadata that gives a full overview of our experimental process and data analysis workflow.
+
+We should also make it clear what rights the discoverer has when reusing our data. This is achieved by applying a **licence**, and clearly specifying this in the metadata. For example, a **Creative Commons Attribution 4.0 International** licence (or CC-BY for short) lets anyone reuse, remix and adapt material as long as credit is given to the original creator. 
+
+### **Summary**
+
+The FAIR framework guides us through ensuring that our data is easy to find, easy to understand and easy to reuse. This ensures that our data is used to the fullest extent possible.
+
+The FAIR principles apply to digital objects beyond just data. At Cloud-SPAN we are working hard to make sure our learning resources are as FAIR as possible. Find out what we\'re doing to achieve this by [visiting our handbook](https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html#what-is-fair-data), or look out for our next blog post!
+
+**Further reading:**
+
+-   [The 10 FAIR Principles](https://www.go-fair.org/fair-principles/)
+
+-   [Paper in Nature: The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)

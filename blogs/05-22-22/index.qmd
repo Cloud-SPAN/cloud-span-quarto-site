@@ -1,0 +1,41 @@
+---
+title: "Genomics Self-Study now LIVE! 🧬"
+date: 05-22-22
+author: Evelyn Greeves
+image: stock_dna.jpg
+categories:
+  - Genomics
+  - Announcements
+---
+
+**We are pleased to announce that the registration for Genomics self-study is now live!** 
+
+Here at Cloud-SPAN we recognise that all learners are individuals with specific needs and different levels of ability. This is why we have developed a Genomics 'self-study' option, where you can create your own schedule and learn at your own pace. These modules teach data management and analytical skills for genomic research. 
+
+Here's how to get involved:
+
+### Step 1 - [Register!](https://forms.gle/pgiBx3EbRdB9j6XX9)📝
+
+The educational materials are available free of charge, however we ask that you complete the registration form so we are able to send you updates and useful information. 
+
+### Step 2 - [Create your own instance](https://cloud-span.github.io/create-aws-instance-0-overview/)⛅
+
+Start with the 'Create your own instance' module, where you receive a step by step guide to creating your own Amazon Web Services instance. You will go on to use this instance to complete the subsequent Prenomics and Genomics modules.  
+
+### Step 3 - [Prenomics](https://cloud-span.github.io/prenomics00-intro/) 💻
+
+If you are new to the realm of navigating file systems and using the command line we recommend that you complete the Prenomics module. We have designed this module to allow more time for those with less experience to cover some foundation concepts. If you aren't sure how to gauge your skills take the [self-assessment quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/#section-why) to help you decide. 
+
+### **Step 4 - [Genomics](https://cloud-span.github.io/00genomics/)🧬**
+
+ The Genomics module allows you to move on to the more fun stuff as you develop your skills in managing data. You will tackle tasks such as assessing read quality, trimming and filtering, and variant calling. 
+
+### Step 5 - Community 🤸‍♂️
+
+After completing the modules we hope that you will be able to attend one of our regular [code retreats](https://cloud-span.york.ac.uk/community#h.ma5203jptwz0), where our course instructors will be on-hand to help solve any issues you encounter while applying your new skills to your own datasets. We also strongly encourage you to take advantage of our welcoming Cloud-SPAN community, so don't be afraid to lean on your peers for help or discussions on our [forum](https://cloudspan.peerboard.com/). 
+
+### Need support?
+
+*Join the Cloud-SPAN Slack workspace (you will receive a link upon registering), post on the [forum](https://cloudspan.peerboard.com/) or follow us on [social media](https://twitter.com/SpanCloud). All three are good options for you to continue on your mission to master the art of genomics!*
+
+*View the [website](https://cloud-span.york.ac.uk/home) for further information or drop us an email at cloud-span-project\@york.ac.uk if you have any questions.*

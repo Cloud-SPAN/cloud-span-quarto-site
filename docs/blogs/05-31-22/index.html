@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Evelyn Greeves">
-<meta name="dcterms.date" content="2022-02-12">
+<meta name="dcterms.date" content="2022-05-31">
 
-<title>Cloud-SPAN - Course Update</title>
+<title>Cloud-SPAN - What is FAIR data?</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -119,8 +119,11 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Course Update</h1>
-</div>
+<h1 class="title">What is FAIR data?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Open science</div>
+  </div>
+  </div>
 
 
 
@@ -136,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">February 12, 2022</p>
+      <p class="date">May 31, 2022</p>
     </div>
   </div>
   
@@ -146,42 +149,38 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Well, it’s been a couple of weeks since we ran our first course and we’ve certainly learned a lot from it! Most of the problems we stumbled into were minor teething issues, but we’re also going to be making some fairly major changes based on what we learned. Here’s a bit of an update:</p>
-<section id="first-things-first...-positive-feedback" class="level3">
-<h3 class="anchored" data-anchor-id="first-things-first...-positive-feedback">First thing’s first... positive feedback!</h3>
-<p>We had some amazing feedback from our first run-through! We asked our participants to rate their level of comfort with a number of topics before and after completing the course.</p>
-<p>As you can see in the graph below, on average our participants felt that their level of comfort had improved after taking the course <strong>for all topics</strong>. This is great news!</p>
-<p>In particular, participants ended the course feeling really comfortable with using the command line to navigate file directories, create and modify files and search for keywords.</p>
-<p><img src="dumbbell plot g_11_21.png" alt="A dumbbell plot with each topic covered in the course on its own line. The graph indicates the rating given before the course was taken and the score after, with a line joining the two. For all topics the score increases, usually by two or so points." width="800" height="auto"></p>
+<p>At Cloud-SPAN we care deeply about making science as open as possible. A lot of this comes down to project management and data organisation - which we teach as part of our Genomics course. Today we want to introduce you to the FAIR data principles, which are a framework for thinking about how to ensure the scientific community gets the most out of the data we produce. In this case, this means making it easier for people to find and reuse our hard-earned data!</p>
+<p>The FAIR framework aims to encourage data reuse by both humans and computers by improving the findability, accessibility, interoperability and reusability of data and other resources. So what are the steps involved in FAIR-ifying data?</p>
+<p><img src="FAIR acronym graphic with attr.png" alt="A graphic showing the 4 FAIR Principles: Findable (illustrated with a magnifying glass), Accessible (illustrated with an open lock), Interoperable (illustrated with interlocking gears) and Reusable (illustrated with a green recycling symbol)" width="600"></p>
+<section id="f-is-for-findable" class="level3">
+<h3 class="anchored" data-anchor-id="f-is-for-findable">F is for Findable</h3>
+<p>Before data can be reused, we need to make sure it can be found. One way to do this is by tagging it with <strong>metadata</strong> (information about the data), such as what type of data it is, who collected it, the conditions used, and so on. This allows it to be indexed in a <strong>searchable registry</strong> so more people will see it. Metadata is important for both helping people find your data and for understanding the context they were generated in.</p>
+<p>Another key way to make sure data is findable is by assigning it a <strong>persistent identifier</strong>. This is a long-lasting digital reference which ensures a resource can always be found, no matter where it's stored. <strong>DOIs</strong> (digital object identifiers) are one type of persistent identifier that you have probably heard of before - they can be applied to things like journal articles, data sets and other publications.</p>
 </section>
-<section id="the-big-problem-time-flies" class="level3">
-<h3 class="anchored" data-anchor-id="the-big-problem-time-flies">The BIG Problem: Time flies</h3>
-<p>The biggest problem we ran into was time. We just didn’t have enough of it...</p>
-<p>...and that means we need to seriously rethink how we structure the content of our course. You can see from the graph above that the topics people felt they had improved their confidence the least in were those relating to genomics - assessing read quality, trimming and filtering, and variant calling.</p>
-<p>That’s because before we could teach those topics, we had to make sure people felt really comfortable using the command line and organising their files. Unfortunately, as we got more and more behind schedule, this meant the genomics topics got less and less time allocated to them.</p>
-<p>This is a problem, <strong>because the title of the course was Foundational Genomics</strong>. If participants are finishing our course feeling like they are not comfortable with variant calling (which is what a score of 3 means) then we need to make some changes. Plus, the genomics bit is meant to be the fun bit!</p>
-<p>The written feedback we had from participants after the course, while mostly positive, generally reflected this sentiment too.</p>
+<section id="a-is-for-accessible" class="level3">
+<h3 class="anchored" data-anchor-id="a-is-for-accessible">A is for Accessible</h3>
+<p>Once we've made sure people can find our data, we need to make sure they can access it if they have permission. This means making it retrievable using some kind of <strong>standardised protocol</strong>, without any need for specialised or proprietary tools. We also need to tell people how they can get access, so we should include this as one of our metadata fields.</p>
+<p>A common misconception is that all FAIR data is 'open' or 'free'. Heavily protected or private data can still be FAIR as long as it is clear under which conditions the data is accessible.</p>
 </section>
-<section id="the-big-solution-course-structure" class="level3">
-<h3 class="anchored" data-anchor-id="the-big-solution-course-structure">The BIG Solution: Course structure</h3>
-<p>In light of this feedback, we’ve decided to split our 4 x half-day Foundational Genomics course into two shorter courses: one 2 x half-day “Prenomics” course and one 4 x half-day “Genomics” course.</p>
-<p>The <strong>Prenomics course</strong> will be aimed at complete beginners and will be a gentle introduction to file directories, working paths and basic command line commands. By giving ourselves two half-days to cover this content we should be able to ensure all participants are fully on board before we move onto anything more complex.</p>
-<p>This course will also be optional for those who already have some basic experience using the command line. We plan to screen potential attendees using a self-test to help them determine whether they would benefit from attending the Prenomics course, or skipping straight to Genomics.</p>
-<p>The <strong>Genomics course</strong> will follow directly on from Prenomics, using many of the same commands and building on them further. We should have much more time to cover essential topics such as read quality and variant calling which were rushed last time, allowing us to offer a much better educational experience.</p>
+<section id="i-is-for-interoperable" class="level3">
+<h3 class="anchored" data-anchor-id="i-is-for-interoperable">I is for Interoperable</h3>
+<p>So now we've made it possible for someone to find and access our data. How can we make sure they can actually use it? There are two aspects to interoperability. The first is using <strong>standardised and open formats</strong> so that data can be exchanged and used across multiple different applications and systems. This means avoiding proprietary formats and conforming with <strong>field-specific standards</strong> about what format data should come in.</p>
+<p>The second relates to how computers understand our data in comparison with other data. This is possible using a <strong>'controlled vocabulary'</strong> or <strong>'ontology'</strong> which ensures that everyone is using the same words for the same thing. Again, we should try and conform with field-specific standards around ontologies.</p>
 </section>
-<section id="some-smaller-problems-which-this-change-also-solves..." class="level3">
-<h3 class="anchored" data-anchor-id="some-smaller-problems-which-this-change-also-solves...">Some smaller problems which this change also solves...</h3>
+<section id="r-is-for-reusable" class="level3">
+<h3 class="anchored" data-anchor-id="r-is-for-reusable">R is for Reusable</h3>
+<p>This final principle emphasises the idea that by following the previous three principles- findable, accessible, interoperable- we should be aiming to make our data as reusable as possible. This means using accurate and richly described metadata that gives a full overview of our experimental process and data analysis workflow.</p>
+<p>We should also make it clear what rights the discoverer has when reusing our data. This is achieved by applying a <strong>licence</strong>, and clearly specifying this in the metadata. For example, a <strong>Creative Commons Attribution 4.0 International</strong> licence (or CC-BY for short) lets anyone reuse, remix and adapt material as long as credit is given to the original creator.&nbsp;</p>
+</section>
+<section id="summary" class="level3">
+<h3 class="anchored" data-anchor-id="summary"><strong>Summary</strong></h3>
+<p>The FAIR framework guides us through ensuring that our data is easy to find, easy to understand and easy to reuse. This ensures that our data is used to the fullest extent possible.</p>
+<p>The FAIR principles apply to digital objects beyond just data. At Cloud-SPAN we are working hard to make sure our learning resources are as FAIR as possible. Find out what we're doing to achieve this by <a href="https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html#what-is-fair-data">visiting our handbook</a>, or look out for our next blog post!</p>
+<p><strong>Further reading:</strong></p>
 <ul>
-<li><p>We plan to run the Genomics course over two weeks, with 2 x half days per week. This, combined with a hopefully much less stressful volume of content to cover, will decrease pressure on our instructors and helpers, most of whom have multiple other work and teaching commitments.</p></li>
-<li><p>Some of our participants felt the course went far too slowly; others felt it went too fast. By screening for those who have the least experience working in the command line, we should be able to both provide more support to those who need it and stop more experienced participants from getting bored.</p></li>
+<li><p><a href="https://www.go-fair.org/fair-principles/">The 10 FAIR Principles</a></p></li>
+<li><p><a href="https://www.nature.com/articles/sdata201618">Paper in Nature: The FAIR Guiding Principles for scientific data management and stewardship</a></p></li>
 </ul>
-</section>
-<section id="other-updates-in-the-pipeline" class="level3">
-<h3 class="anchored" data-anchor-id="other-updates-in-the-pipeline">Other updates in the pipeline</h3>
-<p>These two new courses, Prenomics and Genomics, will make up the ‘Foundational’ element of our content. We still have plans to developed ‘Advanced’ modules on topics such as automation and setting up cloud instances. We asked our participants to let us know what they’d like to see, and we’ll be taking these suggestions into account as we go.</p>
-<p>We also have plans to run some (hopefully) in-person ‘hack days’ for alumni of our Foundational courses, where we can help participants apply the skills learned in the course to their own problems, and assist in troubleshooting any problems. We hope this will help develop our community of practice further by providing opportunities for networking and building relationships.</p>
-<p>And that’s it. Thanks for reading this far - we hope it explains some of our rationale for why the course is structured the way it is. We’re really proud of our achievements with our first ever course, and we’re looking forward to trying some new stuff out next time.</p>
-<p>Till next time! 👋</p>
 
 
 </section>

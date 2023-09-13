@@ -1,7 +1,10 @@
 ---
 title: "Course Update"
-date: 14-12-21
+date: 12-14-21
 author: Evelyn Greeves
+categories:
+ - Genomics
+ - Behind-the-scenes
 ---
 
 Well, it's been a couple of weeks since we ran our first course and we've certainly learned a lot from it! Most of the problems we stumbled into were minor teething issues, but we're also going to be making some fairly major changes based on what we learned. Here's a bit of an update:
@@ -14,7 +17,7 @@ As you can see in the graph below, on average our participants felt that their l
 
 In particular, participants ended the course feeling really comfortable with using the command line to navigate file directories, create and modify files and search for keywords.
 
-<img src="dumbbell plot g_11_21.png" alt="A dumbbell plot with each topic covered in the course on its own line. The graph indicates the rating given before the course was taken and the score after, with a line joining the two. For all topics the score increases, usually by two or so points." width="800" height="auto">
+<img src="dumbbell plot g_11_21.png" alt="A dumbbell plot with each topic covered in the course on its own line. The graph indicates the rating given before the course was taken and the score after, with a line joining the two. For all topics the score increases, usually by two or so points." width="800" height="auto"/>
 
 ### The BIG Problem: Time flies
 
