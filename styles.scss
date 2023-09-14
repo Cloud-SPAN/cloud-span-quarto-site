@@ -81,20 +81,7 @@ $link-color: $midnight_green; // hyperlinks
 
 
 /* IMAGE GALLERY (based on W3 schools responsive image gallery tutorial) */
-.container {
-  display: flex;
-  justify-content: center;
-  margin-left: 16vw;
-  margin-right: 16vw;
-}
-
-.container > div {
-  margin-top: 1vw;
-  text-align: center;
-  flex: 1;
-}
-
-div.container img {
+div.gallery img {
   width: 100%;
   height: auto;
 }
@@ -134,7 +121,6 @@ div.desc {
     width: 100%;
   }
 }
-
 
 .clearfix:after {
   content: "";
