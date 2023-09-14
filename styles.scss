@@ -44,6 +44,7 @@ $link-color: $midnight_green; // hyperlinks
     /* Flexbox stuff */
     display: flex;
     justify-content: center;
+    align-content: center;
     align-items: center;
     vertical-align: middle;
     text-align: center;
@@ -78,8 +79,22 @@ $link-color: $midnight_green; // hyperlinks
   background-position: center center;
 }
 
+
 /* IMAGE GALLERY (based on W3 schools responsive image gallery tutorial) */
-div.gallery img {
+.container {
+  display: flex;
+  justify-content: center;
+  margin-left: 16vw;
+  margin-right: 16vw;
+}
+
+.container > div {
+  margin-top: 1vw;
+  text-align: center;
+  flex: 1;
+}
+
+div.container img {
   width: 100%;
   height: auto;
 }
@@ -119,6 +134,7 @@ div.desc {
     width: 100%;
   }
 }
+
 
 .clearfix:after {
   content: "";
@@ -210,3 +226,4 @@ img {
   max-width: 100%;
   height: auto;
 }
+
