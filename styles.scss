@@ -81,20 +81,7 @@ $link-color: $midnight_green; // hyperlinks
 
 
 /* IMAGE GALLERY (based on W3 schools responsive image gallery tutorial) */
-.container {
-  display: flex;
-  justify-content: center;
-  margin-left: 16vw;
-  margin-right: 16vw;
-}
-
-.container > div {
-  margin-top: 1vw;
-  text-align: center;
-  flex: 1;
-}
-
-div.container img {
+div.gallery img {
   width: 100%;
   height: auto;
 }
@@ -135,7 +122,6 @@ div.desc {
   }
 }
 
-
 .clearfix:after {
   content: "";
   display: table;
@@ -175,7 +161,7 @@ $font-diff-home-title: ($font-max-home-title / 1px - $font-min-home-title / 1px)
 }
 
 //font size variables for h2 text (section titles on homepage)
-$font-min-h2: 20px; 
+$font-min-h2: 30px; 
 $font-max-h2: 40px;
 $font-diff-h2: ($font-max-h2 / 1px - $font-min-h2 / 1px);
 
