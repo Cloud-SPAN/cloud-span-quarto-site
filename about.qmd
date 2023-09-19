@@ -3,4 +3,6 @@ title: "About"
 title-block-banner: true
 ---
 
-Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Hello
+Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.
+
+Testing automatic workflow
