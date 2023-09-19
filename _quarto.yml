@@ -18,7 +18,7 @@ website:
       - blogs.qmd
   page-footer: 
     left: 
-      - "Copyright 2023"
+      - "Copyright 2023, Cloud-SPAN"
 
 format:
   html:
