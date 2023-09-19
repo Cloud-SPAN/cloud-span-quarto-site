@@ -16,9 +16,21 @@ website:
       - self_study_courses.qmd
       - upcoming_courses.qmd
       - blogs.qmd
-  page-footer: 
+  page-footer:
     left: 
-      - "Copyright 2023, Cloud-SPAN"
+      All content licensed under {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}
+      [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    center:
+      - href: https://github.com/Cloud-SPAN
+        icon: github
+        aria-label: GitHub
+      - href: https://twitter.com/SpanCloud
+        icon: twitter
+        aria-label: Twitter
+      - href: mailto:cloud-span-project@york.ac.uk
+        icon: envelope
+    right: 
+      Built with {{< fa heart title="a heart" >}} and [Quarto](https://quarto.org/)
 
 format:
   html:
