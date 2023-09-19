@@ -27,10 +27,7 @@ We offer Diversity Scholarships to cover travel and/or childcare to enable membe
 ::: {.h2}
 Challenges in Environmental 'Omics
 :::
-<<<<<<< HEAD
 
-=======
->>>>>>> 3f1e44b3d116cdb7e483bbe1e209f88cdd9c60f8
 <section class="side-padding">
    <div class="responsive gallery">
    <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
