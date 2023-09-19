@@ -1,6 +1,6 @@
 ---
 title: "NERC Metagenomics"
-date: 11- 6th to 11th -2023
+date: 11-6-2023
 ---
 
 Info about NERC Metagenomics
@@ -17,15 +17,16 @@ UK based Environmental Science researchers at any career stage or anyone with an
 
 Check out testimonials from previous attendees! 
 
-:speech_balloon: This course was fantastic in both helping me to understand the concepts behind metagenomic polishing/assembly processes and in actually learning how to do it ourselves. I have learnt a lot that I can confidently go and apply to my own research.
+> : speech_balloon : This course was fantastic in both helping me to understand the concepts behind metagenomic polishing/assembly processes and in actually learning how to do it ourselves. I have learnt a lot that I can confidently go and apply to my own research.
 
-:speech_balloon: Really recommend this course! The content was great, covering command line fundamentals and the whole metagenomics workflow in a way that was really easy to understand. The team were super engaged and helpful throughout!
+>> :speech_balloon: Really recommend this course! The content was great, covering command line fundamentals and the whole metagenomics workflow in a way that was really easy to understand. The team were super engaged and helpful throughout!
 
-:speech_balloon: Really pleased with how the course was ran. The instructors were clear and patient, and the online course materials were thorough. I really enjoyed the taxonomic analysis as it brought everything we learned together. This course is super applicable for when I collect and analyse my data further into my PhD project. :)
+>>> :speech_balloon: Really pleased with how the course was ran. The instructors were clear and patient, and the online course materials were thorough. I really enjoyed the taxonomic analysis as it brought everything we learned together. This course is super applicable for when I collect and analyse my data further into my PhD project. :)
 
 # Registration
 
-There are 30 places available for this online workshop, please register using [the online form] (https://forms.gle/eJ3xWAb3Cy6wZVyk8). Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge. 
+There are 30 places available for this online workshop, please register using [the online form](https://forms.gle/eJ3xWAb3Cy6wZVyk8). 
+Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge. 
 
 Application deadline: 12pm Wednesday 18th October. Applicants will be notified by Monday 23rd October if they have been allocated a place. Scholarships and funding for headsets and monitors will be available.
 
@@ -40,19 +41,19 @@ We start by teaching the essential tools used in High Performance computing such
 # Programme 
 
 **Week 1**
-|---|---|---|
+|------|------|------|
 | Monday 6th November | 1400 - 1600 | Introduction. Command-line programming: File systems, files and directories|
-| Tuesday 7th November | 1400 - 1600 Command-line programming: Using the command line |
-| Thursday 9th November | 1000 -1330 An introduction to metagenomics, Quality Control and Assembly. Offline time for the assembly to complete |
+| Tuesday 7th November | 1400 - 1600 | Command-line programming: Using the command line |
+| Thursday 9th November | 1000 -1330 | An introduction to metagenomics, Quality Control and Assembly. Offline time for the assembly to complete |
 
 **Week 2**
 |---|---|---|
-| Monday 13th November  1400-1500 | Online troubleshooting drop-in session (optional) |
+| Monday 13th November | 1400-1500 | Online troubleshooting drop-in session (optional) |
 | Wednesday 15th November | 1000 - 1130 | Polishing your metagenome assembly. Offline time for the polishing to complete |
 | Friday November 17th | 1400 - 1500 | Online troubleshooting drop-in session (optional) |
 
 **Week 3**
-|---|---|---|
+|------------|------------|---------------|
 | Tuesday 21st November | 1000 - 1130 | Binning a metagenome assembly into individual genomes (MAGS). Offline time for the binning to complete |
 | Thursday 23rd November | 1000 - 1100 | Online troubleshooting drop-in session (optional) |
 | Friday 24th November | 1300 -1600 | Taxonomic Assignment and Analysis |
@@ -63,7 +64,7 @@ We recommend workshop participants have a second monitor and a headset. Dual mon
 
 # Pre-requisites
 
-You will need familiarity with biological concepts, including the concept of microbiome.  We assume no prior experience of command line or high performance computing.  We assume no prior experience of the command line or high performance computing. Windows users will need to install GitBash.
+You will need familiarity with biological concepts, including the concept of microbiome.  We assume no prior experience of the command line or high performance computing. Windows users will need to install GitBash.
 
 You don't need to worry about installing metagenomics software or putting the data on your own computer! You will have access to an Amazon Web Services instance with all the data and software and will only need to log in to it. 
 
