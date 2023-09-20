@@ -14,9 +14,9 @@ $alice_blue: #e3f2f8;
 $seasalt: #f7f7f7;
 
 // Base Document Colours
-$navbar-bg: $night; // navbar
-$navbar-fg: $seasalt; // navbar foreground elements
-$navbar-hl: $alice_blue; // highlight color when hovering over navbar links
+$navbar-bg: $seasalt; // navbar
+$navbar-fg: $midnight_green; // navbar foreground elements
+$navbar-hl: $blue; // highlight color when hovering over navbar links
 $body-bg: $seasalt; // page background 
 $body-color: $night; // page text 
 $footer-bg: $alice_blue; // footer 
@@ -25,7 +25,7 @@ $link-color: $midnight_green; // hyperlinks
 /*-- scss:rules --*/
 // resize logo (top left corner) (from https://github.com/samanthacsik/samanthacsik.github.io/blob/main/green_theme.scss)
 .navbar-brand img { 
-  max-height: 55px;
+  max-height: 50px;
   width: auto;
   margin-left: 10px;
 }
@@ -211,5 +211,9 @@ $font-diff-p-blue: ($font-max-p-blue / 1px - $font-min-p-blue / 1px);
 img {
   max-width: 100%;
   height: auto;
+}
+
+h1 {
+  color: $blue;
 }
 
