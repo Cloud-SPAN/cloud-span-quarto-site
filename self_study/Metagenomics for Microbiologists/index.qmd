@@ -1,6 +1,0 @@
----
-title: "Metagenomics for Microbiologists"
-date: 01-1-2020
----
-
-Info about Metagenomics for Microbiologists
