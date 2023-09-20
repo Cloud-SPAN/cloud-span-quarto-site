@@ -25,7 +25,7 @@ Check out testimonials from previous attendees!
 
 # Registration
 
-There are 30 places available for this online workshop, please register using [the online form](https://forms.gle/eJ3xWAb3Cy6wZVyk8). Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
+There are 30 places available for this online workshop, please register using **[the online form]**(https://forms.gle/eJ3xWAb3Cy6wZVyk8). Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
 
 Application deadline: 12pm Wednesday 18th October. Applicants will be notified by Monday 23rd October if they have been allocated a place. Scholarships and funding for headsets and monitors will be available.
 
@@ -34,6 +34,7 @@ Application deadline: 12pm Wednesday 18th October. Applicants will be notified b
 We start by teaching the essential tools used in High Performance computing such as file systems and the command-line to connect to and use cloud computing for file navigation and script writing. We then introduce metagenomics and building a metagenomic assembly. In the second week, you will learn how to improve your assembly by 'polishing', separate your assembled metagenome into individual genomes (MAGS) and conduct taxonomic assignment and analysis. But if you can't get something to work, we have a Slack channel and a weekly drop-in to help.
 
 **Win £25 in Amazon vouchers for showing commitment to your learning!** 
+
 At Cloud-SPAN we know it's difficult to find time to train so we've come up with a little incentive for learners signed up for the online course. For the Metagenomics course there will be a prize draw and two people will win a £25 Amazon voucher! All you have to do to enter the prize draw is go through the exercises - we will use your command history to verify your efforts. It doesn't matter if you make mistakes or can't get something to work, it is your commitment that matters!
 
 *Happy learning!*
@@ -80,10 +81,10 @@ You don't need to worry about installing metagenomics software or putting the da
 # Learning outcomes
 
 Following completion of this course, learners will be able to: 
-\* explain the hierarchical structure of a file system and describe the files and file structure used in the course 
-\* explain what is meant by a working directory, a path and a relative path and write down paths that they will need for the course 
-\* start a Terminal (Mac) or Git Bash Terminal (Windows) 
-\* navigate a file system using the command line 
+* explain the hierarchical structure of a file system and describe the files and file structure used in the course 
+* explain what is meant by a working directory, a path and a relative path and write down paths that they will need for the course 
+* start a Terminal (Mac) or Git Bash Terminal (Windows) 
+* navigate a file system using the command line 
 \* log in to and exit their AWS instance (the cloud) 
 \* use common commands such as ls, pwd and cd, on the command line 
 \* know the difference between genomics and metagenomics 
