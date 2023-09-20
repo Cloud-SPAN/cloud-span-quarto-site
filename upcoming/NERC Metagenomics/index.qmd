@@ -25,7 +25,7 @@ Check out testimonials from previous attendees!
 
 # Registration
 
-There are 30 places available for this online workshop, please register using **[the online form]**(https://forms.gle/eJ3xWAb3Cy6wZVyk8). Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
+There are 30 places available for this online workshop, please register using **[the online form](https://forms.gle/eJ3xWAb3Cy6wZVyk8)**. [**the online form**](https://forms.gle/eJ3xWAb3Cy6wZVyk8) Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
 
 Application deadline: 12pm Wednesday 18th October. Applicants will be notified by Monday 23rd October if they have been allocated a place. Scholarships and funding for headsets and monitors will be available.
 
@@ -86,15 +86,14 @@ Following completion of this course, learners will be able to:
 * explain what is meant by a working directory, a path and a relative path and write down paths that they will need for the course 
 * start a Terminal (Mac) or Git Bash Terminal (Windows) 
 * navigate a file system using the command line 
-
-\* log in to and exit their AWS instance (the cloud) 
-\* use common commands such as ls, pwd and cd, on the command line 
-\* know the difference between genomics and metagenomics 
-\* describe the steps in a metagenomic workflow 
-\* perform quality control on reads and assemble them into a metagenome 
-\* perform polishing to improve an assembly 
-\* use binning to separate the metagenome into different species or MAGs (Metagenome-Assembled Genomes) 
-\* use Kraken 2 to assign taxonomy to reads and contigs and phyloseq in R to analyse taxonomic diversity
+* log in to and exit their AWS instance (the cloud) 
+* use common commands such as ls, pwd and cd, on the command line 
+* know the difference between genomics and metagenomics 
+* describe the steps in a metagenomic workflow 
+* perform quality control on reads and assemble them into a metagenome 
+* perform polishing to improve an assembly 
+* use binning to separate the metagenome into different species or MAGs (Metagenome-Assembled Genomes) 
+* use Kraken 2 to assign taxonomy to reads and contigs and phyloseq in R to analyse taxonomic diversity
 
 # Scholarships and additional support
 
