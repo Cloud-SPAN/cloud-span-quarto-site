@@ -11,7 +11,7 @@ This online module will be delivered over a three-week period from Monday 6th to
 
 Metagenomics analyses involve a lot of data and can take hours to days to complete! But don't worry! The format of the workshop takes account of this. For longer analyses there will be scheduled online zoom sessions to cover concepts and get started followed by offline time for the analysis run and for you to complete some exercises. These will be supported by online drop-ins and a Slack channel for trouble-shooting.
 
-## Target audience
+# Target audience
 
 UK based Environmental Science researchers at any career stage or anyone with an interest in Metagenomics. We assume no prior experience of the command line or high performance computing. Due to our funding, we prioritise places to researchers within the NERC remit.
 
@@ -33,7 +33,8 @@ Application deadline: 12pm Wednesday 18th October. Applicants will be notified b
 
 We start by teaching the essential tools used in High Performance computing such as file systems and the command-line to connect to and use cloud computing for file navigation and script writing. We then introduce metagenomics and building a metagenomic assembly. In the second week, you will learn how to improve your assembly by 'polishing', separate your assembled metagenome into individual genomes (MAGS) and conduct taxonomic assignment and analysis. But if you can't get something to work, we have a Slack channel and a weekly drop-in to help.
 
-**Win £25 in Amazon vouchers for showing commitment to your learning!** At Cloud-SPAN we know it's difficult to find time to train so we've come up with a little incentive for learners signed up for the online course. For the Metagenomics course there will be a prize draw and two people will win a £25 Amazon voucher! All you have to do to enter the prize draw is go through the exercises - we will use your command history to verify your efforts. It doesn't matter if you make mistakes or can't get something to work, it is your commitment that matters!
+**Win £25 in Amazon vouchers for showing commitment to your learning!** 
+At Cloud-SPAN we know it's difficult to find time to train so we've come up with a little incentive for learners signed up for the online course. For the Metagenomics course there will be a prize draw and two people will win a £25 Amazon voucher! All you have to do to enter the prize draw is go through the exercises - we will use your command history to verify your efforts. It doesn't matter if you make mistakes or can't get something to work, it is your commitment that matters!
 
 *Happy learning!*
 
@@ -43,28 +44,28 @@ We start by teaching the essential tools used in High Performance computing such
 
 |                       |               |                                                                |
 |------------------|------------------|------------------------------------|
-| Monday 6th November   | 14:00 - 16:00 | Command-line programming: file systems, files and directories  |
-| Tuesday 7th November  | 14:00 - 16:00 | Command-line programming: using the command line               |
-| Thursday 9th November | 10:00 -13:30  | An introduction to metagenomics, quality control and assembly. |
-|                       |               | Offline time for assembly to complete.                         |
+| Monday 6 November   | 14:00 - 16:00 | Command-line programming: file systems, files and directories  |
+| Tuesday 7 November  | 14:00 - 16:00 | Command-line programming: using the command line               |
+| Thursday 9 November | 10:00 - 13:30 | An introduction to metagenomics, quality control and assembly. |
+|                     |               | Offline time for assembly to complete.                         |
 
 **Week 2**
 
 |                         |               |                                                   |
 |------------------|------------------|------------------------------------|
-| Monday 13th November    | 14:00-15:00   | Online troubleshooting drop-in session (optional) |
-| Wednesday 15th November | 10:00 - 11:30 | Polishing your metagenome assembly.               |
+| Monday 13 November    | 14:00 - 15:00 | Online troubleshooting drop-in session (optional) |
+| Wednesday 15 November | 10:00 - 11:30 | Polishing your metagenome assembly.               |
 |                         |               | Offline time for the polishing to complete        |
-| Friday 17th November    | 14:00 - 15:00 | Online troubleshooting drop-in session (optional) |
+| Friday 17 November    | 14:00 - 15:00 | Online troubleshooting drop-in session (optional) |
 
 **Week 3**
 
 |                       |               |                                                              |
 |---------------------|------------------|---------------------------------|
-| Tuesday 21st November | 10:00 - 11:30 | Binning a metagenome assembly into individual genomes (MAGS) |
-|                       |               | Offline time for the binning to complete                     |
-| Tuesday 21st November | 10:00 - 11:00 | Online troubleshooting drop-in session (optional)            |
-| Friday 24th November  | 13:00 -16:00  | Taxonomic Assignment and Analysis                            |
+| Tuesday 21 November | 10:00 - 11:30 | Binning a metagenome assembly into individual genomes (MAGS) |
+|                     |               | Offline time for the binning to complete                     |
+| Tuesday 21 November | 10:00 - 11:00 | Online troubleshooting drop-in session (optional)            |
+| Friday 24 November  | 13:00 - 16:00 | Taxonomic Assignment and Analysis                            |
 
 If you are unable to attend an online session, recordings will be distributed. You will have access to your instance until Friday 1 December (one week after the course is completed) to give you time to consolidate your learning. Usage of the instances will be monitored; instances which are inactive will be closed down as a daily charge is incurred.
 
@@ -78,7 +79,19 @@ You don't need to worry about installing metagenomics software or putting the da
 
 # Learning outcomes
 
-Following completion of this course, learners will be able to: \* explain the hierarchical structure of a file system and describe the files and file structure used in the course \* explain what is meant by a working directory, a path and a relative path and write down paths that they will need for the course \* start a Terminal (Mac) or Git Bash Terminal (Windows) \* navigate a file system using the command line \* log in to and exit their AWS instance (the cloud) \* use common commands such as ls, pwd and cd, on the command line \* know the difference between genomics and metagenomics \* describe the steps in a metagenomic workflow \* perform quality control on reads and assemble them into a metagenome \* perform polishing to improve an assembly \* use binning to separate the metagenome into different species or MAGs (Metagenome-Assembled Genomes) \* use Kraken 2 to assign taxonomy to reads and contigs and phyloseq in R to analyse taxonomic diversity
+Following completion of this course, learners will be able to: 
+\* explain the hierarchical structure of a file system and describe the files and file structure used in the course 
+\* explain what is meant by a working directory, a path and a relative path and write down paths that they will need for the course 
+\* start a Terminal (Mac) or Git Bash Terminal (Windows) 
+\* navigate a file system using the command line 
+\* log in to and exit their AWS instance (the cloud) 
+\* use common commands such as ls, pwd and cd, on the command line 
+\* know the difference between genomics and metagenomics 
+\* describe the steps in a metagenomic workflow 
+\* perform quality control on reads and assemble them into a metagenome 
+\* perform polishing to improve an assembly 
+\* use binning to separate the metagenome into different species or MAGs (Metagenome-Assembled Genomes) 
+\* use Kraken 2 to assign taxonomy to reads and contigs and phyloseq in R to analyse taxonomic diversity
 
 # Scholarships and additional support
 
