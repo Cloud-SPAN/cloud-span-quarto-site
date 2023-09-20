@@ -10,12 +10,13 @@ This online two-hour workshop is an introduction to R for complete beginners.  I
 
 # Learning outcomes 
 
-Join us for this free online two-hour workshop which provides an introduction to R for complete beginners. By the end of the course you will be able to;
-- find your way around RStudio
-- use the basic data types and structures in R
-- organise your work with scripts and projects
-- import data, summarise it and create and format a graph
-- The workshop assumes no prior experience of coding.
+By the end of the course you will be able to;
+
+* find your way around RStudio
+* use the basic data types and structures in R
+* organise your work with scripts and projects
+* import data, summarise it and create and format a graph
+* The workshop assumes no prior experience of coding.
 
 # Registration
 Registration for this course is now closed. 
@@ -27,6 +28,6 @@ Scholarships and additional support
 
 We recommend workshop participants have a second monitor and a headset. Dual monitors allow you to engage with the trainers, view materials shared on screen and other participants on one monitor while doing the activities on another. To support you with your learning we have funding to provide you with a headset and a monitor if you require this. To request this additional funding please indicate this in the registration form. Funds for the monitors and headsets will be distributed at the end of workshop to those participants who attend the session. 
 
-We offer Diversity and Hardship Scholarships to enable members of underrepresented groups and those with financial difficulties to participate in our training courses.  To apply for a scholarship please complete the relevant questions in the registration form before the deadline. Submissions after this date will not be considered. All applicants will be notified of the results 2-3 days after the submission deadline.
+We offer Scholarships to enable members of underrepresented groups and those with financial difficulties to participate in our training courses.  To apply for a scholarship please complete the relevant questions in the registration form before the deadline. Submissions after this date will not be considered. All applicants will be notified of the results 2-3 days after the submission deadline.
 
 
