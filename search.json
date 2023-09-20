@@ -32,7 +32,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure."
+    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.\n\nChallenges in Environmental ’Omics\n\n\n  \n\nSoftware installation for data analysis is complex and involves multiple dependencies.\n\n\n\n  \n\nHPC architectures vary between institutions and accessibility is a lottery.\n\n\n\n  \n\nMetagenomic analyses involve large datasets and take a long time to run.\n\n\n\n  \n\nBig data ’omics analyses using HPC are not core skills for researchers and have a steep learning curve.\n\n\n\n\n\n\n\nSolutions\n\n\n  \n\nWe use cloud-based containerised instances with pre-installed software which are scalable and easy to access.\n\n\n\n  \n\nWe deliver high quality training with a low barrier to participation - absolutely zero previous experience needed!\n\n\n\n\n\n\nOur Approach\n\n\n  \n\nWe offer training in both self-study and workshop formats, with a mix of online and in-person teaching\n\n\n\n  \n\nWe are building a community of practice: a community of bioinformaticians who can support one another.\n\n\n\n  \n\nWe are following open science principles and making our resources FAIR (findable, accessible, interoperable, reusable)."
   },
   {
     "objectID": "upcoming/NERC Metagenomics/index.html",
