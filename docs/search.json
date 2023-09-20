@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Hello"
+    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.\nTesting automatic workflow #3"
   },
   {
     "objectID": "blogs/05-22-22/index.html",
@@ -109,55 +109,13 @@
     "href": "upcoming/NERC Metagenomics/index.html#target-audience",
     "title": "NERC Metagenomics",
     "section": "Target audience",
-    "text": "Target audience\nUK based Environmental Science researchers at any career stage or anyone with an interest in Metagenomics. We assume no prior experience of the command line or high performance computing. Due to our funding, we prioritise places to researchers within the NERC remit.\nCheck out testimonials from previous attendees!\n:speech_balloon: This course was fantastic in both helping me to understand the concepts behind metagenomic polishing/assembly processes and in actually learning how to do it ourselves. I have learnt a lot that I can confidently go and apply to my own research.\n:speech_balloon: Really recommend this course! The content was great, covering command line fundamentals and the whole metagenomics workflow in a way that was really easy to understand. The team were super engaged and helpful throughout!\n:speech_balloon: Really pleased with how the course was ran. The instructors were clear and patient, and the online course materials were thorough. I really enjoyed the taxonomic analysis as it brought everything we learned together. This course is super applicable for when I collect and analyse my data further into my PhD project. :)"
-  },
-  {
-    "objectID": "upcoming/NERC Metagenomics/index.html#registration",
-    "href": "upcoming/NERC Metagenomics/index.html#registration",
-    "title": "NERC Metagenomics",
-    "section": "Registration",
-    "text": "Registration\nThere are 30 places available for this online workshop, please register using [the online form] (https://forms.gle/eJ3xWAb3Cy6wZVyk8). Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.\nApplication deadline: 12pm Wednesday 18th October. Applicants will be notified by Monday 23rd October if they have been allocated a place. Scholarships and funding for headsets and monitors will be available."
-  },
-  {
-    "objectID": "upcoming/NERC Metagenomics/index.html#programme",
-    "href": "upcoming/NERC Metagenomics/index.html#programme",
-    "title": "NERC Metagenomics",
-    "section": "Programme",
-    "text": "Programme\nWe start by teaching the essential tools used in High Performance computing such as file systems and the command-line to connect to and use cloud computing for file navigation and script writing. We then introduce metagenomics and building a metagenomic assembly. In the second week, you will learn how to improve your assembly by ‘polishing’, separate your assembled metagenome into individual genomes (MAGS) and conduct taxonomic assignment and analysis. But if you can’t get something to work, we have a Slack channel and a weekly drop-in to help.\nWin £25 in Amazon vouchers for showing commitment to your learning! At Cloud-SPAN we know it’s difficult to find time to train so we’ve come up with a little incentive for learners signed up for the online course! For the Metagenomics course there will be a prize draw and two people will win a £25 Amazon voucher! All you have to do to enter the prize draw is go through the exercises - we will use your command history to verify your efforts. It doesn’t matter if you make mistakes or can’t get something to work, it is your commitment that matters!\n\nHappy learning!"
-  },
-  {
-    "objectID": "upcoming/NERC Metagenomics/index.html#programme-1",
-    "href": "upcoming/NERC Metagenomics/index.html#programme-1",
-    "title": "NERC Metagenomics",
-    "section": "Programme",
-    "text": "Programme\nWeek 1 | Monday 6th November | 1400 - 1600 | Introduction. Command-line programming: File systems, files and directories| | Tuesday 7th November | 1400 - 1600 Command-line programming: Using the command line | | Thursday 9th November | 1000 -1330 An introduction to metagenomics, Quality Control and Assembly. Offline time for the assembly to complete |\nWeek 2\nMonday 13th November 1400-1500 | Online troubleshooting drop-in session (optional) |\nWednesday 15th November | 1000 - 1130 | Polishing your metagenome assembly. Offline time for the polishing to complete |\nFriday November 17th | 1400 - 1500 | Online troubleshooting drop-in session (optional) |\nWeek 3 | Tuesday 21st November | 1000 - 1130 | Binning a metagenome assembly into individual genomes (MAGS). Offline time for the binning to complete | | Thursday 23rd November | 1000 - 1100 | Online troubleshooting drop-in session (optional) | | Friday 24th November | 1300 -1600 | Taxonomic Assignment and Analysis |\nIf you are unable to attend an online session, recordings will be distributed. You will have access to your instance until Friday 1 December (one week after the course is completed) to give you time to consolidate your learning. Usage of the instances will be monitored; instances which are inactive will be closed down as a daily charge is incurred.\nWe recommend workshop participants have a second monitor and a headset. Dual monitors allow you to engage with the trainers, view materials shared on screen and other participants on one monitor while doing the activities on another. To support you with your learning we have funding to provide you with a headset and a monitor if you require this. To request this additional funding please indicate this in the registration form. Funds for the monitors and headsets will be distributed at the end of course to those participants who regularly attended the online sessions."
-  },
-  {
-    "objectID": "upcoming/NERC Metagenomics/index.html#pre-requisites",
-    "href": "upcoming/NERC Metagenomics/index.html#pre-requisites",
-    "title": "NERC Metagenomics",
-    "section": "Pre-requisites",
-    "text": "Pre-requisites\nYou will need familiarity with biological concepts, including the concept of microbiome. We assume no prior experience of command line or high performance computing. We assume no prior experience of the command line or high performance computing. Windows users will need to install GitBash.\nYou don’t need to worry about installing metagenomics software or putting the data on your own computer! You will have access to an Amazon Web Services instance with all the data and software and will only need to log in to it."
-  },
-  {
-    "objectID": "upcoming/NERC Metagenomics/index.html#learning-outcomes",
-    "href": "upcoming/NERC Metagenomics/index.html#learning-outcomes",
-    "title": "NERC Metagenomics",
-    "section": "Learning outcomes",
-    "text": "Learning outcomes\n\nFollowing completion of this course, learners will be able to:\nexplain the hierarchical structure of a file system and describe the files and file structure used in the course\nexplain what is meant by a working directory, a path and a relative path and write down paths that they will need for the course\nstart a Terminal (Mac) or Git Bash Terminal (Windows)\nnavigate a file system using the command line\nlog in to and exit their AWS instance (the cloud)\nuse common commands such as ls, pwd and cd, on the command line\nknow the difference between genomics and metagenomics\ndescribe the steps in a metagenomic workflow\nperform quality control on reads and assemble them into a metagenome\nperform polishing to improve an assembly\nuse binning to separate the metagenome into different species or MAGs (Metagenome-Assembled Genomes)\nuse Kraken 2 to assign taxonomy to reads and contigs and phyloseq in R to analyse taxonomic diversity"
-  },
-  {
-    "objectID": "upcoming/NERC Metagenomics/index.html#scholarships-and-additional-support",
-    "href": "upcoming/NERC Metagenomics/index.html#scholarships-and-additional-support",
-    "title": "NERC Metagenomics",
-    "section": "Scholarships and additional support",
-    "text": "Scholarships and additional support\nWe recommend workshop participants have a second monitor and a headset. Dual monitors allow you to engage with the trainers, view materials shared on screen and other participants on one monitor while doing the activities on another. To support you with your learning we have funding to provide you with a headset and a monitor if you require this. To request this additional funding please indicate this in the registration form. Funds for the monitors and headsets will be distributed at the end of course to those participants who regularly attended the online sessions.\nWe offer scholarships to enable members of underrepresented groups and those with financial difficulties to participate in our training courses. Please complete the relevant section in the application form before 12pm on Wednesday 18th October."
+    "text": "Target audience\nUK based Environmental Science researchers at any career stage or anyone with an interest in Metagenomics. We assume no prior experience of the command line or high performance computing. Due to our funding, we prioritise places to researchers within the NERC remit.\nCheck out testimonials from previous attendees!\n\n“This course was fantastic in both helping me to understand the concepts behind metagenomic polishing/assembly processes and in actually learning how to do it ourselves. I have learnt a lot that I can confidently go and apply to my own research.”\n\n\n“Really recommend this course! The content was great, covering command line fundamentals and the whole metagenomics workflow in a way that was really easy to understand. The team were super engaged and helpful throughout!”\n\n\n“Really pleased with how the course was ran. The instructors were clear and patient, and the online course materials were thorough. I really enjoyed the taxonomic analysis as it brought everything we learned together. This course is super applicable for when I collect and analyse my data further into my PhD project. :)”"
   },
   {
     "objectID": "upcoming_courses.html",
     "href": "upcoming_courses.html",
     "title": "Upcoming Courses",
     "section": "",
-    "text": "Code Retreat\n\n\n\n\n\n\n\n\n\nDec 8, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCore R\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nNERC Metagenomics\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Code Retreat\n\n\n\n\n\n\n\n\n\nDec 8, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNERC Metagenomics\n\n\n\n\n\n\n\n\n\nNov 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCore R\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
