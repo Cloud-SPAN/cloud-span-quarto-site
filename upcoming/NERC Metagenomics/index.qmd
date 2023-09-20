@@ -81,10 +81,12 @@ You don't need to worry about installing metagenomics software or putting the da
 # Learning outcomes
 
 Following completion of this course, learners will be able to: 
+
 * explain the hierarchical structure of a file system and describe the files and file structure used in the course 
 * explain what is meant by a working directory, a path and a relative path and write down paths that they will need for the course 
 * start a Terminal (Mac) or Git Bash Terminal (Windows) 
 * navigate a file system using the command line 
+
 \* log in to and exit their AWS instance (the cloud) 
 \* use common commands such as ls, pwd and cd, on the command line 
 \* know the difference between genomics and metagenomics 
