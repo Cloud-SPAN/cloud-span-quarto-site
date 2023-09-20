@@ -58,8 +58,8 @@ $link-color: $midnight_green; // hyperlinks
 }
 
 .side-padding {
-  margin-left: 16vw;
-  margin-right: 16vw;
+  margin-left: 22vw;
+  margin-right: 22vw;
   margin-top: 1vw;
 }
 
@@ -82,7 +82,7 @@ $link-color: $midnight_green; // hyperlinks
 
 /* IMAGE GALLERY (based on W3 schools responsive image gallery tutorial) */
 div.gallery img {
-  width: 100%;
+  width: 75%;
   height: auto;
 }
 
@@ -160,26 +160,27 @@ $font-diff-home-title: ($font-max-home-title / 1px - $font-min-home-title / 1px)
   }
 }
 
-//font size variables for h2 text (section titles on homepage)
-$font-min-h2: 30px; 
-$font-max-h2: 40px;
-$font-diff-h2: ($font-max-h2 / 1px - $font-min-h2 / 1px);
+//font size variables for home-sub text (section titles on homepage)
+$font-min-home-sub: 30px; 
+$font-max-home-sub: 40px;
+$font-diff-home-sub: ($font-max-home-sub / 1px - $font-min-home-sub / 1px);
 
-h2 {
+.home-sub {
   text-align: center;
   color: $blue_green;
+  font-weight: bold;
   // Mobile
   @media (max-width: 599px) {
-    font-size: $font-min-h2;
+    font-size: $font-min-home-sub;
   }
   
   // Everything in between mobile (600px) to desktop (1200px)
   @media (min-width: 600px) and (max-width: 1200px) {
-    font-size: calc(#{$font-min-h2} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-h2});
+    font-size: calc(#{$font-min-home-sub} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-home-sub});
   }
 // Desktop
   @media (min-width: 1201px) {
-    font-size: $font-max-h2;
+    font-size: $font-max-home-sub;
   }
 }
 
@@ -214,6 +215,7 @@ img {
 }
 
 h1 {
-  color: $blue;
+  color: $midnight_green;
+  font-size: 48px;
 }
 

@@ -6,6 +6,7 @@
 #   image-shape: rectangle
 #   image-width: 70em
 page-layout: custom
+max-width: 1400px
 ---
 
 ::: hero
@@ -26,111 +27,6 @@ We offer Diversity Scholarships to cover travel and/or childcare to enable membe
 :::
 :::
 
-::: h2
-Challenges in Environmental 'Omics
-:::
-
-<section class="side-padding">
-
-::: {.responsive .gallery}
-<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/software_icon.png" alt="Software" width="300" height="auto"/> </a>
-
-::: desc
-Software installation for data analysis is **complex** and involves **multiple dependencies**.
-:::
-:::
-
-::: {.responsive .gallery}
-<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/hardware_icon.png" alt="Hardware" width="300" height="auto"/> </a>
-
-::: desc
-HPC architectures **vary** between institutions and **accessibility is a lottery**.
-:::
-:::
-
-::: {.responsive .gallery}
-<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/time_icon.png" alt="Time" width="300" height="auto"/> </a>
-
-::: desc
-Metagenomic analyses involve **large datasets** and take a **long time** to run.
-:::
-:::
-
-::: {.responsive .gallery}
-<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/skills_icon.png" alt="Skills" width="300" height="auto"/> </a>
-
-::: desc
-Big data 'omics analyses using HPC are **not core skills** for researchers and have a **steep learning curve**.
-:::
-:::
-
-</class>
-
-</section>
-
-::: clearfix
-:::
-
-::: h2
-Solutions
-:::
-
-<section class="side-padding">
-
-::: {.responsive .gallery}
-<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/cloud_icon.png" alt="Cloud HPC" width="300" height="auto"/> </a>
-
-::: desc
-We use **cloud-based containerised** instances with **pre-installed software** which are scalable and easy to access.
-:::
-:::
-
-::: {.responsive .gallery}
-<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/training_solution_icon.png" alt="Training" width="300" height="auto"/> </a>
-
-::: desc
-We deliver high quality training with a **low barrier to participation** - absolutely zero previous experience needed!
-:::
-:::
-
-</section>
-
-::: clearfix
-:::
-
-::: h2
-Our Approach
-:::
-
-<section class="side-padding">
-
-::: {.responsive .gallery}
-<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/training_approach_icon.png" alt="Training" width="300" height="auto"/> </a>
-
-::: desc
-We offer training in both **self-study** and **workshop** formats, with a mix of **online and in-person** teaching
-:::
-:::
-
-::: {.responsive .gallery}
-<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/community_icon.png" alt="Icon" width="300" height="auto"/> </a>
-
-::: desc
-We are building a **community of practice**: a community of bioinformaticians who can support one another.
-:::
-:::
-
-::: {.responsive .gallery}
-<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/fair_icon.png" alt="FAIR" width="300" height="auto"/> </a>
-
-::: desc
-We are following **open science principles** and making our resources **FAIR** (findable, accessible, interoperable, reusable).
-:::
-:::
-
-</class>
-
-</section>
-
-::: clearfix
+::: side-padding
+Cloud-SPAN was established in March 2021 initially as a 2-year collaboration between the University of York and The Software Sustainability Institute funded by the UKRI innovation scholars award, project reference: MR/V038680/1.  Additional funding from the Natural Environment Research Council, project references: NE/X006999/1 and NE/Y003527/1 allows the project to be extended until January 2024.
 :::

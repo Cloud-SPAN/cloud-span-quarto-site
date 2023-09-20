@@ -1,6 +1,106 @@
 ---
 title: "About"
-title-block-banner: true
+title-block-banner: false
+max-width: 1400px
 ---
 
 Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.
+
+::: home-sub
+Challenges in Environmental 'Omics
+:::
+
+::: {.responsive .gallery}
+<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/software_icon.png" alt="Software" width="300" height="auto"/> </a>
+
+::: desc
+Software installation for data analysis is **complex** and involves **multiple dependencies**.
+:::
+:::
+
+::: {.responsive .gallery}
+<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/hardware_icon.png" alt="Hardware" width="300" height="auto"/> </a>
+
+::: desc
+HPC architectures **vary** between institutions and **accessibility is a lottery**.
+:::
+:::
+
+::: {.responsive .gallery}
+<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/time_icon.png" alt="Time" width="300" height="auto"/> </a>
+
+::: desc
+Metagenomic analyses involve **large datasets** and take a **long time** to run.
+:::
+:::
+
+::: {.responsive .gallery}
+<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/skills_icon.png" alt="Skills" width="300" height="auto"/> </a>
+
+::: desc
+Big data 'omics analyses using HPC are **not core skills** for researchers and have a **steep learning curve**.
+:::
+:::
+
+</class>
+
+::: clearfix
+:::
+
+::: home-sub
+Solutions
+:::
+
+::: {.responsive .gallery}
+<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/cloud_icon.png" alt="Cloud HPC" width="300" height="auto"/> </a>
+
+::: desc
+We use **cloud-based containerised** instances with **pre-installed software** which are scalable and easy to access.
+:::
+:::
+
+::: {.responsive .gallery}
+<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/training_solution_icon.png" alt="Training" width="300" height="auto"/> </a>
+
+::: desc
+We deliver high quality training with a **low barrier to participation** - absolutely zero previous experience needed!
+:::
+:::
+
+::: clearfix
+:::
+
+::: home-sub
+Our Approach
+:::
+
+::: {.responsive .gallery}
+<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/training_approach_icon.png" alt="Training" width="300" height="auto"/> </a>
+
+::: desc
+We offer training in both **self-study** and **workshop** formats, with a mix of **online and in-person** teaching
+:::
+:::
+
+::: {.responsive .gallery}
+<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/community_icon.png" alt="Icon" width="300" height="auto"/> </a>
+
+::: desc
+We are building a **community of practice**: a community of bioinformaticians who can support one another.
+:::
+:::
+
+::: {.responsive .gallery}
+<a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/fair_icon.png" alt="FAIR" width="300" height="auto"/> </a>
+
+::: desc
+We are following **open science principles** and making our resources **FAIR** (findable, accessible, interoperable, reusable).
+:::
+:::
+
+</class>
+
+::: clearfix
+:::
+
+
