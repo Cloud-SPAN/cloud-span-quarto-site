@@ -25,7 +25,7 @@ Check out testimonials from previous attendees!
 
 # Registration
 
-There are 30 places available for this online workshop, please register using **[the online form](https://forms.gle/eJ3xWAb3Cy6wZVyk8)**. [**the online form**](https://forms.gle/eJ3xWAb3Cy6wZVyk8) Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
+There are 30 places available for this online workshop, please register using **[the online form](https://forms.gle/eJ3xWAb3Cy6wZVyk8)**. Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
 
 Application deadline: 12pm Wednesday 18th October. Applicants will be notified by Monday 23rd October if they have been allocated a place. Scholarships and funding for headsets and monitors will be available.
 
@@ -38,8 +38,6 @@ We start by teaching the essential tools used in High Performance computing such
 At Cloud-SPAN we know it's difficult to find time to train so we've come up with a little incentive for learners signed up for the online course. For the Metagenomics course there will be a prize draw and two people will win a £25 Amazon voucher! All you have to do to enter the prize draw is go through the exercises - we will use your command history to verify your efforts. It doesn't matter if you make mistakes or can't get something to work, it is your commitment that matters!
 
 *Happy learning!*
-
-# Programme
 
 **Week 1**
 
@@ -62,7 +60,7 @@ At Cloud-SPAN we know it's difficult to find time to train so we've come up with
 **Week 3**
 
 |                       |               |                                                              |
-|---------------------|------------------|---------------------------------|
+|------------------|------------------|------------------------------------|
 | Tuesday 21 November | 10:00 - 11:30 | Binning a metagenome assembly into individual genomes (MAGS) |
 |                     |               | Offline time for the binning to complete                     |
 | Tuesday 21 November | 10:00 - 11:00 | Online troubleshooting drop-in session (optional)            |
