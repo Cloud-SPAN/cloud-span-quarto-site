@@ -10,8 +10,10 @@ max-width: 1400px
 ---
 
 ::: hero
-::: home-title
+::: hero-content
+::: hero-title
 Welcome to Cloud-SPAN
+:::
 :::
 :::
 

@@ -30,31 +30,36 @@ $link-color: $midnight_green; // hyperlinks
   margin-left: 10px;
 }
 
-/* The hero image */
-
 .hero {
-    /* Sizing */
+    position: relative;
     width: 100vw;
-    height: auto;
-    
-        /* Padding */
-    padding-top: 10%;
-    padding-bottom: 10%;
-    
-    /* Flexbox stuff */
+    height: 50vh;
     display: flex;
     justify-content: center;
-    align-content: center;
     align-items: center;
-    vertical-align: middle;
-    text-align: center;
-    
-    /* Background styles */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url('images/clouds_cropped.jpg');
+}
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url('images/clouds_cropped.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+}
+.hero-content {
+    position: relative; 
+    color: white;
+    text-align: center;
+    margin: 0.625rem;
+}
+.hero-title {
+    font-size: 4.5rem;
+    font-weight: bold;
+    margin-bottom: 0;
 }
 
 .side-padding {
@@ -133,32 +138,6 @@ div.desc {
 $mobile: 500px; // Screen min
 $desktop: 1200px; // Screen max
 $screen-diff: ($desktop / 1px - $mobile / 1px);
-
-//font size variables for title text (in hero image on homepage)
-$font-min-home-title: 20px; 
-$font-max-home-title: 80px;
-$font-diff-home-title: ($font-max-home-title / 1px - $font-min-home-title / 1px);
-
-.home-title {
-  vertical-align: middle;
-  text-align: center;
-  font-weight: bold;
-  color: $seasalt;
-  
-  // Mobile
-  @media (max-width: 599px) {
-    font-size: $font-min-home-title;
-  }
-  
-  // Everything in between mobile (600px) to desktop (1200px)
-  @media (min-width: 600px) and (max-width: 1200px) {
-    font-size: calc(#{$font-min-home-title} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-home-title});
-  }
-// Desktop
-  @media (min-width: 1201px) {
-    font-size: $font-max-home-title;
-  }
-}
 
 //font size variables for home-sub text (section titles on homepage)
 $font-min-home-sub: 30px; 
