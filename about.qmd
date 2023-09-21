@@ -2,6 +2,7 @@
 title: "About"
 title-block-banner: false
 max-width: 1400px
+image: images/logo_cloud_only.png
 ---
 
 Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.

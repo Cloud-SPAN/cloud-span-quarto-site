@@ -56,11 +56,6 @@ $link-color: $midnight_green; // hyperlinks
     text-align: center;
     margin: 0.625rem;
 }
-.hero-title {
-    font-size: 4.5rem;
-    font-weight: bold;
-    margin-bottom: 0;
-}
 
 .content-container {
   padding-left: 1.5em;
@@ -75,6 +70,31 @@ $link-color: $midnight_green; // hyperlinks
 
 .blue-background {
   background-color: $blue_green;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1 {
+  color: $midnight_green;
+  font-size: 48px;
+}
+
+.pullout-container {
+  padding-left: 1.2em;
+  padding-right: 1.2em;
+  padding-top: 2.5em;
+}
+
+.pullout-block {
+  text-align: center;
+  max-width: calc(1000px + 6vw);
+  margin: 0 auto;
+  padding-top: 1em;
+  padding-bottom: 1.8em; 
+  box-sizing: border-box;
 }
 
 
@@ -132,6 +152,30 @@ $mobile: 500px; // Screen min
 $desktop: 1200px; // Screen max
 $screen-diff: ($desktop / 1px - $mobile / 1px);
 
+//font size variables for hero-title text
+$font-min-hero-title: 50px; 
+$font-max-hero-title: 90px;
+$font-diff-hero-title: ($font-max-hero-title / 1px - $font-min-hero-title / 1px);
+
+.hero-title {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  // Mobile
+  @media (max-width: 599px) {
+    font-size: $font-min-hero-title;
+  }
+  
+  // Everything in between mobile (600px) to desktop (1200px)
+  @media (min-width: 600px) and (max-width: 1200px) {
+    font-size: calc(#{$font-min-hero-title} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-hero-title});
+  }
+// Desktop
+  @media (min-width: 1201px) {
+    font-size: $font-max-hero-title;
+  }
+}
+
 //font size variables for home-sub text (section titles on homepage)
 $font-min-home-sub: 30px; 
 $font-max-home-sub: 40px;
@@ -156,78 +200,11 @@ $font-diff-home-sub: ($font-max-home-sub / 1px - $font-min-home-sub / 1px);
   }
 }
 
+
 //font size variables for p-blue text (p text inside blue flexbox)
 $font-min-p-blue: 16px; 
 $font-max-p-blue: 20px;
 $font-diff-p-blue: ($font-max-p-blue / 1px - $font-min-p-blue / 1px);
-
-.p-blue {
-  text-align: left;
-  color: $seasalt;
-  margin-top: 5px;
-  margin-bottom: 25px;
-  // Mobile
-  @media (max-width: 599px) {
-    font-size: $font-min-p-blue;
-  }
-  
-  // Everything in between mobile (600px) to desktop (1200px)
-  @media (min-width: 600px) and (max-width: 1200px) {
-    font-size: calc(#{$font-min-p-blue} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-p-blue});
-  }
-// Desktop
-  @media (min-width: 1201px) {
-    font-size: $font-max-p-blue;
-  }
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-h1 {
-  color: $midnight_green;
-  font-size: 48px;
-}
-
-.pullout-container {
-  padding-left: 1.5em;
-  padding-right: 1.5em;
-  padding-top: 2.5em;
-}
-
-.pullout-block {
-  text-align: center;
-  max-width: calc(1000px + 6vw);
-  margin: 0 auto;
-  padding-top: 1em;
-  padding-bottom: 1.8em; 
-  box-sizing: border-box;
-}
-
-.pullout-text h2 {
-  text-align: center;
-  margin-left: 5vw;
-  margin-right: 5vw;
-  color: white;
-  margin-top: 0.5em;
-}
-
-/*
-.pullout-text p {
-  text-align: center;
-  font-family: 'Oswald';
-  font-weight: 500;
-  color: white;
-  margin-left: 1.5em;
-  margin-right: 1.5em;
-  text-transform: uppercase;
-  text-decoration: underline;
-  text-decoration-color: #939bc9;
-  text-decoration-thickness: 3px;
-  margin-bottom: 1.5rem;
-} */
 
 .pullout-text p {
   text-align: left;
