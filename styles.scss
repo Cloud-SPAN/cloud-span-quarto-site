@@ -62,26 +62,19 @@ $link-color: $midnight_green; // hyperlinks
     margin-bottom: 0;
 }
 
-.side-padding {
-  margin-left: 22vw;
-  margin-right: 22vw;
-  margin-top: 1vw;
+.content-container {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  text-align: left;
+  max-width: calc(1000px + 6vw);
+  margin: 0 auto;
+  padding-top: 1em;
+  padding-bottom: 1.8em; 
+  box-sizing: border-box;
 }
 
-.blue-bkg {
-  /* Sizing */
-  width: 100vw;
-  height: auto;
-    
-  /* Flexbox stuff */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-    
-  /* Background styles */
-  background-color: $moonstone;
-  background-size: cover;
-  background-position: center center;
+.blue-background {
+  background-color: $blue_green;
 }
 
 
@@ -196,5 +189,65 @@ img {
 h1 {
   color: $midnight_green;
   font-size: 48px;
+}
+
+.pullout-container {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 2.5em;
+}
+
+.pullout-block {
+  text-align: center;
+  max-width: calc(1000px + 6vw);
+  margin: 0 auto;
+  padding-top: 1em;
+  padding-bottom: 1.8em; 
+  box-sizing: border-box;
+}
+
+.pullout-text h2 {
+  text-align: center;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  color: white;
+  margin-top: 0.5em;
+}
+
+/*
+.pullout-text p {
+  text-align: center;
+  font-family: 'Oswald';
+  font-weight: 500;
+  color: white;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-color: #939bc9;
+  text-decoration-thickness: 3px;
+  margin-bottom: 1.5rem;
+} */
+
+.pullout-text p {
+  text-align: left;
+  color: $seasalt;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  color: white;
+  margin-top: 0.5em;
+  // Mobile
+  @media (max-width: 599px) {
+    font-size: $font-min-p-blue;
+  }
+  
+  // Everything in between mobile (600px) to desktop (1200px)
+  @media (min-width: 600px) and (max-width: 1200px) {
+    font-size: calc(#{$font-min-p-blue} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-p-blue});
+  }
+// Desktop
+  @media (min-width: 1201px) {
+    font-size: $font-max-p-blue;
+  }
 }
 

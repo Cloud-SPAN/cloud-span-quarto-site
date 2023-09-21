@@ -1,12 +1,10 @@
 ---
-# title: Cloud-SPAN
-# image: images/clouds_cropped.jpg
-# about:
-#   template: jolla
-#   image-shape: rectangle
-#   image-width: 70em
 page-layout: custom
-max-width: 1400px
+listing:
+  id: homepage-content
+  template: gallery.ejs
+  contents: homepage-content.yaml
+  grid-item-border: false
 ---
 
 ::: hero
@@ -17,18 +15,25 @@ Welcome to Cloud-SPAN
 :::
 :::
 
-::: blue-bkg
-::: side-padding
-::: p-blue
+::: content-container
+::: pullout-text
+::: pullout-container
+::: {.pullout-block .blue-background}
 Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses.
-:::
 
-::: p-blue
 We offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training.
+
+:::
 :::
 :::
 :::
 
-::: side-padding
-Cloud-SPAN was established in March 2021 initially as a 2-year collaboration between the University of York and The Software Sustainability Institute funded by the UKRI innovation scholars award, project reference: MR/V038680/1.  Additional funding from the Natural Environment Research Council, project references: NE/X006999/1 and NE/Y003527/1 allows the project to be extended until January 2024.
+
+::: content-container
+::: {#homepage-content}
+:::
+:::
+
+::: content-container
+Cloud-SPAN was established in March 2021 initially as a 2-year collaboration between the University of York and The Software Sustainability Institute funded by the UKRI innovation scholars award, project reference: MR/V038680/1. Additional funding from the Natural Environment Research Council, project references: NE/X006999/1 and NE/Y003527/1 allows the project to be extended until January 2024.
 :::

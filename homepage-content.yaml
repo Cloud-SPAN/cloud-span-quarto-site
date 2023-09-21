@@ -1,0 +1,9 @@
+- category: Learn more
+  tiles:
+    - title: About Cloud-SPAN
+      href: https://cloud-span.github.io/cloud-span-quarto-site/about.html
+      image: images/logo_cloud_only.png
+    - title: Our upcoming courses
+      href: https://cloud-span.github.io/cloud-span-quarto-site/upcoming_courses.html
+    - title: Recent blog posts
+      href: https://cloud-span.github.io/cloud-span-quarto-site/blogs.html
