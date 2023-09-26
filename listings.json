@@ -1,17 +1,21 @@
 [
   {
+    "listing": "/upcoming_courses.html",
+    "items": [
+      "/upcoming/NERC Metagenomics/index.html",
+      "/upcoming/Code Retreat/index.html",
+      "/upcoming/Core R/index.html"
+    ]
+  },
+  {
     "listing": "/blogs.html",
     "items": [
       "/blogs/05-31-22/index.html",
       "/blogs/05-22-22/index.html",
       "/blogs/12-14-21/index.html",
-      "/blogs/blog post 5/index.html",
-      "/blogs/blog post 4/index.html"
+      "/blogs/blog post 4/index.html",
+      "/blogs/blog post 5/index.html"
     ]
-  },
-  {
-    "listing": "/index.html",
-    "items": []
   },
   {
     "listing": "/self_study_courses.html",
@@ -23,11 +27,7 @@
     ]
   },
   {
-    "listing": "/upcoming_courses.html",
-    "items": [
-      "/upcoming/NERC Metagenomics/index.html",
-      "/upcoming/Code Retreat/index.html",
-      "/upcoming/Core R/index.html"
-    ]
+    "listing": "/index.html",
+    "items": []
   }
 ]

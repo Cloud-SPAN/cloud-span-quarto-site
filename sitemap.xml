@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs.html</loc>
-    <lastmod>2023-09-21T16:13:49.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Create Your Own AWS Instance/index.html</loc>
-    <lastmod>2023-09-21T16:13:48.605Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Genomics/index.html</loc>
-    <lastmod>2023-09-21T16:13:47.873Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/blog post 5/index.html</loc>
-    <lastmod>2023-09-21T16:13:47.169Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/05-31-22/index.html</loc>
-    <lastmod>2023-09-21T16:13:46.345Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/about.html</loc>
-    <lastmod>2023-09-21T16:13:44.861Z</lastmod>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming_courses.html</loc>
+    <lastmod>2023-09-26T15:53:55.927Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming/NERC Metagenomics/index.html</loc>
-    <lastmod>2023-09-21T16:13:43.541Z</lastmod>
+    <lastmod>2023-09-26T15:53:55.179Z</lastmod>
   </url>
   <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming/Code Retreat/index.html</loc>
-    <lastmod>2023-09-21T16:13:42.413Z</lastmod>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/about.html</loc>
+    <lastmod>2023-09-26T15:53:53.931Z</lastmod>
   </url>
   <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/index.html</loc>
-    <lastmod>2023-09-21T16:13:40.901Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study_courses.html</loc>
-    <lastmod>2023-09-21T16:13:41.989Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming/Core R/index.html</loc>
-    <lastmod>2023-09-21T16:13:42.853Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming_courses.html</loc>
-    <lastmod>2023-09-21T16:13:44.045Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/12-14-21/index.html</loc>
-    <lastmod>2023-09-21T16:13:45.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/05-22-22/index.html</loc>
-    <lastmod>2023-09-21T16:13:46.809Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/blog post 4/index.html</loc>
-    <lastmod>2023-09-21T16:13:47.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Metagenomics for Microbiologists/index.html</loc>
-    <lastmod>2023-09-21T16:13:48.217Z</lastmod>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs.html</loc>
+    <lastmod>2023-09-26T15:53:52.915Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Prenomics/index.html</loc>
-    <lastmod>2023-09-21T16:13:48.953Z</lastmod>
+    <lastmod>2023-09-26T15:53:51.943Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Metagenomics for Microbiologists/index.html</loc>
+    <lastmod>2023-09-26T15:53:51.363Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/05-31-22/index.html</loc>
+    <lastmod>2023-09-26T15:53:50.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/blog post 5/index.html</loc>
+    <lastmod>2023-09-26T15:53:49.719Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/12-14-21/index.html</loc>
+    <lastmod>2023-09-26T15:53:48.727Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/blog post 4/index.html</loc>
+    <lastmod>2023-09-26T15:53:49.411Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/05-22-22/index.html</loc>
+    <lastmod>2023-09-26T15:53:50.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study_courses.html</loc>
+    <lastmod>2023-09-26T15:53:51.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Create Your Own AWS Instance/index.html</loc>
+    <lastmod>2023-09-26T15:53:51.659Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Genomics/index.html</loc>
+    <lastmod>2023-09-26T15:53:52.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/index.html</loc>
+    <lastmod>2023-09-26T15:53:53.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming/Core R/index.html</loc>
+    <lastmod>2023-09-26T15:53:54.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming/Code Retreat/index.html</loc>
+    <lastmod>2023-09-26T15:53:55.503Z</lastmod>
   </url>
 </urlset>
