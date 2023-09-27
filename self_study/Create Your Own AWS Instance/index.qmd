@@ -1,6 +1,7 @@
 ---
 title: "Create Your Own AWS Instance"
-date: 01-1-2020
+image: aws-card-narrow.png
+description: "Learn how to set up an Amazon Web Services instance."
 ---
 
 Info about Create Your Own AWS Instance

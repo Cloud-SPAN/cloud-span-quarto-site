@@ -1,6 +1,7 @@
 ---
 title: "Prenomics"
-date: 01-1-2020
+image: prenomics-card-narrow.png
+description: "Learn how to use the command line to navigate a file system and carry out simple tasks."
 ---
 
 Info about Prenomics

@@ -1,6 +1,7 @@
 ---
 title: "Metagenomics for Microbiologists"
-date: 01-1-2020
+image: metagenomics-microbio-card-narrow.png
+description: "Learn more about metagenomics, a way to explore all the genetic material in an environmental sample."
 ---
 
 Info about Metagenomics for Microbiologists
