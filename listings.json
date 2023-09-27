@@ -20,10 +20,10 @@
   {
     "listing": "/self_study_courses.html",
     "items": [
-      "/self_study/Genomics/index.html",
       "/self_study/Metagenomics for Microbiologists/index.html",
       "/self_study/Create Your Own AWS Instance/index.html",
-      "/self_study/Prenomics/index.html"
+      "/self_study/Prenomics/index.html",
+      "/self_study/Genomics/index.html"
     ]
   },
   {
