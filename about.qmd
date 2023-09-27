@@ -11,7 +11,7 @@ Cloud-SPAN trains researchers, and the research software engineers that support 
 Challenges in Environmental 'Omics
 :::
 
-::: {.responsive .gallery}
+::: {.responsive .gallery .gallery-center}
 <a target="_blank" href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html"> <img src="images/software_icon.png" alt="Software" width="300" height="auto"/> </a>
 
 ::: desc

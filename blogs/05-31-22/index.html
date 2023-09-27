@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Evelyn Greeves">
+<meta name="dcterms.date" content="2022-05-31">
 
-<title>Cloud-SPAN</title>
+<title>Cloud-SPAN - What is FAIR data?</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/cloudspan_favicon_32x32.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/cloudspan_favicon_32x32.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -63,50 +61,19 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-homepage-content .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-category','listing-tiles',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-category","listing-tiles"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-homepage-content'] = new List('listing-homepage-content', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo_cloud_only.png" alt="" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo_cloud_only.png" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -116,23 +83,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
+    <a class="nav-link" href="../../about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./self_study_courses.html" rel="" target="">
+    <a class="nav-link" href="../../self_study_courses.html" rel="" target="">
  <span class="menu-text">Self-study Courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./upcoming_courses.html" rel="" target="">
+    <a class="nav-link" href="../../upcoming_courses.html" rel="" target="">
  <span class="menu-text">Upcoming Courses</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blogs.html" rel="" target="">
+    <a class="nav-link" href="../../blogs.html" rel="" target="">
  <span class="menu-text">Blogs</span></a>
   </li>  
 </ul>
@@ -143,82 +110,82 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-layout-custom page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
+    
 <!-- main -->
+<main class="content column-page" id="quarto-document-content">
 
-
-
-<div class="hero">
-<div class="hero-content">
-<div class="hero-title">
-<p>Welcome to Cloud-SPAN</p>
-</div>
-</div>
-</div>
-<div class="content-container">
-<div class="pullout-text">
-<div class="pullout-container">
-<div class="pullout-block blue-background">
-<p>Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure. Cloud-SPAN is developing highly accessible resources which integrate with existing Carpentries courses.</p>
-<p>We offer Diversity Scholarships to cover travel and/or childcare to enable members of underrepresented groups to participate in online or in-person training.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="content-container">
-<div id="listing-homepage-content" class="quarto-listing quarto-listing-container-custom">
-<h2>Learn more</h2>
-<p></p>
-<div class="list grid" style="column-gap: 10px;">
-  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="0">
-    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
-      <small class="card-text inline-block">
-        <a href="https://cloud-span.github.io/cloud-span-quarto-site/about.html" class="listing-title">About Cloud-SPAN</a>
-        <span class="text-muted listing-subtitle"></span>
-      </small>
-    </div>
-    <a href="https://cloud-span.github.io/cloud-span-quarto-site/about.html">
-      <img src="images/logo_cloud_only.png" alt="" class="card-img-top">
-    </a>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">What is FAIR data?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Open science</div>
   </div>
-  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="1">
-    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
-      <small class="card-text inline-block">
-        <a href="https://cloud-span.github.io/cloud-span-quarto-site/upcoming_courses.html" class="listing-title">Our upcoming courses</a>
-        <span class="text-muted listing-subtitle"></span>
-      </small>
-    </div>
-    <a href="https://cloud-span.github.io/cloud-span-quarto-site/upcoming_courses.html">
-      <img src="" alt="" class="card-img-top">
-    </a>
   </div>
-  <div class="card border-2 rounded-3 g-col-12 g-col-sm-6 g-col-md-4 mb-2" data-index="2">
-    <div class="card-header py-1 px-2 border-bottom border-1 bg-light">
-      <small class="card-text inline-block">
-        <a href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html" class="listing-title">Recent blog posts</a>
-        <span class="text-muted listing-subtitle"></span>
-      </small>
-    </div>
-    <a href="https://cloud-span.github.io/cloud-span-quarto-site/blogs.html">
-      <img src="" alt="" class="card-img-top">
-    </a>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Evelyn Greeves </p>
+          </div>
   </div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</div>
-<div class="content-container">
-<p>Cloud-SPAN was established in March 2021 initially as a 2-year collaboration between the University of York and The Software Sustainability Institute funded by the UKRI innovation scholars award, project reference: MR/V038680/1. Additional funding from the Natural Environment Research Council, project references: NE/X006999/1 and NE/Y003527/1 allows the project to be extended until January 2024.</p>
-</div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 31, 2022</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<p>At Cloud-SPAN we care deeply about making science as open as possible. A lot of this comes down to project management and data organisation - which we teach as part of our Genomics course. Today we want to introduce you to the FAIR data principles, which are a framework for thinking about how to ensure the scientific community gets the most out of the data we produce. In this case, this means making it easier for people to find and reuse our hard-earned data!</p>
+<p>The FAIR framework aims to encourage data reuse by both humans and computers by improving the findability, accessibility, interoperability and reusability of data and other resources. So what are the steps involved in FAIR-ifying data?</p>
+<p><img src="FAIR acronym graphic with attr.png" alt="A graphic showing the 4 FAIR Principles: Findable (illustrated with a magnifying glass), Accessible (illustrated with an open lock), Interoperable (illustrated with interlocking gears) and Reusable (illustrated with a green recycling symbol)" width="600"></p>
+<section id="f-is-for-findable" class="level3">
+<h3 class="anchored" data-anchor-id="f-is-for-findable">F is for Findable</h3>
+<p>Before data can be reused, we need to make sure it can be found. One way to do this is by tagging it with <strong>metadata</strong> (information about the data), such as what type of data it is, who collected it, the conditions used, and so on. This allows it to be indexed in a <strong>searchable registry</strong> so more people will see it. Metadata is important for both helping people find your data and for understanding the context they were generated in.</p>
+<p>Another key way to make sure data is findable is by assigning it a <strong>persistent identifier</strong>. This is a long-lasting digital reference which ensures a resource can always be found, no matter where it's stored. <strong>DOIs</strong> (digital object identifiers) are one type of persistent identifier that you have probably heard of before - they can be applied to things like journal articles, data sets and other publications.</p>
+</section>
+<section id="a-is-for-accessible" class="level3">
+<h3 class="anchored" data-anchor-id="a-is-for-accessible">A is for Accessible</h3>
+<p>Once we've made sure people can find our data, we need to make sure they can access it if they have permission. This means making it retrievable using some kind of <strong>standardised protocol</strong>, without any need for specialised or proprietary tools. We also need to tell people how they can get access, so we should include this as one of our metadata fields.</p>
+<p>A common misconception is that all FAIR data is 'open' or 'free'. Heavily protected or private data can still be FAIR as long as it is clear under which conditions the data is accessible.</p>
+</section>
+<section id="i-is-for-interoperable" class="level3">
+<h3 class="anchored" data-anchor-id="i-is-for-interoperable">I is for Interoperable</h3>
+<p>So now we've made it possible for someone to find and access our data. How can we make sure they can actually use it? There are two aspects to interoperability. The first is using <strong>standardised and open formats</strong> so that data can be exchanged and used across multiple different applications and systems. This means avoiding proprietary formats and conforming with <strong>field-specific standards</strong> about what format data should come in.</p>
+<p>The second relates to how computers understand our data in comparison with other data. This is possible using a <strong>'controlled vocabulary'</strong> or <strong>'ontology'</strong> which ensures that everyone is using the same words for the same thing. Again, we should try and conform with field-specific standards around ontologies.</p>
+</section>
+<section id="r-is-for-reusable" class="level3">
+<h3 class="anchored" data-anchor-id="r-is-for-reusable">R is for Reusable</h3>
+<p>This final principle emphasises the idea that by following the previous three principles- findable, accessible, interoperable- we should be aiming to make our data as reusable as possible. This means using accurate and richly described metadata that gives a full overview of our experimental process and data analysis workflow.</p>
+<p>We should also make it clear what rights the discoverer has when reusing our data. This is achieved by applying a <strong>licence</strong>, and clearly specifying this in the metadata. For example, a <strong>Creative Commons Attribution 4.0 International</strong> licence (or CC-BY for short) lets anyone reuse, remix and adapt material as long as credit is given to the original creator.&nbsp;</p>
+</section>
+<section id="summary" class="level3">
+<h3 class="anchored" data-anchor-id="summary"><strong>Summary</strong></h3>
+<p>The FAIR framework guides us through ensuring that our data is easy to find, easy to understand and easy to reuse. This ensures that our data is used to the fullest extent possible.</p>
+<p>The FAIR principles apply to digital objects beyond just data. At Cloud-SPAN we are working hard to make sure our learning resources are as FAIR as possible. Find out what we're doing to achieve this by <a href="https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html#what-is-fair-data">visiting our handbook</a>, or look out for our next blog post!</p>
+<p><strong>Further reading:</strong></p>
+<ul>
+<li><p><a href="https://www.go-fair.org/fair-principles/">The 10 FAIR Principles</a></p></li>
+<li><p><a href="https://www.nature.com/articles/sdata201618">Paper in Nature: The FAIR Guiding Principles for scientific data management and stewardship</a></p></li>
+</ul>
 
 
+</section>
 
-
-
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -455,30 +422,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">All content licensed under <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div>   
-    <div class="nav-footer-center">
+    <div class="nav-footer-left">
       <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/Cloud-SPAN">
-      <i class="bi bi-github" role="img" aria-label="GitHub">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/SpanCloud">
-      <i class="bi bi-twitter" role="img" aria-label="Twitter">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="mailto:cloud-span-project@york.ac.uk">
-      <i class="bi bi-envelope" role="img">
-</i> 
-    </a>
+    <li class="nav-item">
+ Copyright 2023
   </li>  
 </ul>
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
     </div>
-    <div class="nav-footer-right">Built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 

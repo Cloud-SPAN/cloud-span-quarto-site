@@ -23,6 +23,9 @@ $footer-bg: $alice_blue; // footer
 $link-color: $midnight_green; // hyperlinks 
 
 /*-- scss:rules --*/
+
+/* NAVIGATION BAR */
+
 // resize logo (top left corner) (from https://github.com/samanthacsik/samanthacsik.github.io/blob/main/green_theme.scss)
 .navbar-brand img { 
   max-height: 50px;
@@ -30,33 +33,16 @@ $link-color: $midnight_green; // hyperlinks
   margin-left: 10px;
 }
 
-.hero {
-    position: relative;
-    width: 100vw;
-    height: 50vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.hero::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url('images/clouds_cropped.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-}
-.hero-content {
-    position: relative; 
-    color: white;
-    text-align: center;
-    margin: 0.625rem;
+/* BODY CONTENT */
+
+// image styling
+img {
+  max-width: 100%;
+  height: auto;
 }
 
+
+// container for any and all content (stops content being too wide)
 .content-container {
   padding-left: 1.5em;
   padding-right: 1.5em;
@@ -66,20 +52,6 @@ $link-color: $midnight_green; // hyperlinks
   padding-top: 1em;
   padding-bottom: 1.8em; 
   box-sizing: border-box;
-}
-
-.blue-background {
-  background-color: $blue_green;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-h1 {
-  color: $midnight_green;
-  font-size: 48px;
 }
 
 .pullout-container {
@@ -97,8 +69,14 @@ h1 {
   box-sizing: border-box;
 }
 
+// blue background
+.blue-background {
+  background-color: $blue_green;
+}
 
-/* IMAGE GALLERY (based on W3 schools responsive image gallery tutorial) */
+/* image gallery (based on W3 schools responsive image gallery tutorial) */
+
+// image styling
 div.gallery img {
   width: 75%;
   height: auto;
@@ -110,6 +88,7 @@ div.gallery-center {
   justify-content: center;
 }
 
+// description styling
 div.desc {
   padding: 15px;
   text-align: center;
@@ -146,7 +125,49 @@ div.desc {
   clear: both;
 }
 
+/* PAGE-SPECIFIC CONTENT STYLING */
+
+// 'hero' image banner for index page
+.hero {
+    position: relative;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+// add styling to hero image before placing it on page (e.g. darken photo)
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url('images/clouds_cropped.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+// text to sit on top of hero image
+.hero-content {
+    position: relative; 
+    color: white;
+    text-align: center;
+    margin: 0.625rem;
+}
+
 /* TEXT SIZE (based on https://medium.com/@jamesweee/minimum-maximum-responsive-font-sizing-in-css-38793acc9f8f) */
+
+
+h1 {
+  color: $midnight_green;
+  font-size: 48px;
+}
+
+// define font size to change with size of screen/table-layout:
+
 //screen size variables
 $mobile: 500px; // Screen min
 $desktop: 1200px; // Screen max

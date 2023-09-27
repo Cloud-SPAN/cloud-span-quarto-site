@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure."
+  },
+  {
+    "objectID": "blogs/05-22-22/index.html",
+    "href": "blogs/05-22-22/index.html",
+    "title": "Genomics Self-Study now LIVE! 🧬",
+    "section": "",
+    "text": "We are pleased to announce that the registration for Genomics self-study is now live! \nHere at Cloud-SPAN we recognise that all learners are individuals with specific needs and different levels of ability. This is why we have developed a Genomics ‘self-study’ option, where you can create your own schedule and learn at your own pace. These modules teach data management and analytical skills for genomic research. \nHere’s how to get involved:\n\nStep 1 - Register!📝\nThe educational materials are available free of charge, however we ask that you complete the registration form so we are able to send you updates and useful information. \n\n\nStep 2 - Create your own instance⛅\nStart with the ‘Create your own instance’ module, where you receive a step by step guide to creating your own Amazon Web Services instance. You will go on to use this instance to complete the subsequent Prenomics and Genomics modules.  \n\n\nStep 3 - Prenomics 💻\nIf you are new to the realm of navigating file systems and using the command line we recommend that you complete the Prenomics module. We have designed this module to allow more time for those with less experience to cover some foundation concepts. If you aren’t sure how to gauge your skills take the self-assessment quiz to help you decide. \n\n\nStep 4 - Genomics🧬\n The Genomics module allows you to move on to the more fun stuff as you develop your skills in managing data. You will tackle tasks such as assessing read quality, trimming and filtering, and variant calling. \n\n\nStep 5 - Community 🤸‍♂️\nAfter completing the modules we hope that you will be able to attend one of our regular code retreats, where our course instructors will be on-hand to help solve any issues you encounter while applying your new skills to your own datasets. We also strongly encourage you to take advantage of our welcoming Cloud-SPAN community, so don’t be afraid to lean on your peers for help or discussions on our forum. \n\n\nNeed support?\nJoin the Cloud-SPAN Slack workspace (you will receive a link upon registering), post on the forum or follow us on social media. All three are good options for you to continue on your mission to master the art of genomics!\nView the website for further information or drop us an email at cloud-span-project@york.ac.uk if you have any questions."
+  },
+  {
+    "objectID": "blogs/05-31-22/index.html",
+    "href": "blogs/05-31-22/index.html",
+    "title": "What is FAIR data?",
+    "section": "",
+    "text": "At Cloud-SPAN we care deeply about making science as open as possible. A lot of this comes down to project management and data organisation - which we teach as part of our Genomics course. Today we want to introduce you to the FAIR data principles, which are a framework for thinking about how to ensure the scientific community gets the most out of the data we produce. In this case, this means making it easier for people to find and reuse our hard-earned data!\nThe FAIR framework aims to encourage data reuse by both humans and computers by improving the findability, accessibility, interoperability and reusability of data and other resources. So what are the steps involved in FAIR-ifying data?\n\n\nF is for Findable\nBefore data can be reused, we need to make sure it can be found. One way to do this is by tagging it with metadata (information about the data), such as what type of data it is, who collected it, the conditions used, and so on. This allows it to be indexed in a searchable registry so more people will see it. Metadata is important for both helping people find your data and for understanding the context they were generated in.\nAnother key way to make sure data is findable is by assigning it a persistent identifier. This is a long-lasting digital reference which ensures a resource can always be found, no matter where it's stored. DOIs (digital object identifiers) are one type of persistent identifier that you have probably heard of before - they can be applied to things like journal articles, data sets and other publications.\n\n\nA is for Accessible\nOnce we've made sure people can find our data, we need to make sure they can access it if they have permission. This means making it retrievable using some kind of standardised protocol, without any need for specialised or proprietary tools. We also need to tell people how they can get access, so we should include this as one of our metadata fields.\nA common misconception is that all FAIR data is 'open' or 'free'. Heavily protected or private data can still be FAIR as long as it is clear under which conditions the data is accessible.\n\n\nI is for Interoperable\nSo now we've made it possible for someone to find and access our data. How can we make sure they can actually use it? There are two aspects to interoperability. The first is using standardised and open formats so that data can be exchanged and used across multiple different applications and systems. This means avoiding proprietary formats and conforming with field-specific standards about what format data should come in.\nThe second relates to how computers understand our data in comparison with other data. This is possible using a 'controlled vocabulary' or 'ontology' which ensures that everyone is using the same words for the same thing. Again, we should try and conform with field-specific standards around ontologies.\n\n\nR is for Reusable\nThis final principle emphasises the idea that by following the previous three principles- findable, accessible, interoperable- we should be aiming to make our data as reusable as possible. This means using accurate and richly described metadata that gives a full overview of our experimental process and data analysis workflow.\nWe should also make it clear what rights the discoverer has when reusing our data. This is achieved by applying a licence, and clearly specifying this in the metadata. For example, a Creative Commons Attribution 4.0 International licence (or CC-BY for short) lets anyone reuse, remix and adapt material as long as credit is given to the original creator. \n\n\nSummary\nThe FAIR framework guides us through ensuring that our data is easy to find, easy to understand and easy to reuse. This ensures that our data is used to the fullest extent possible.\nThe FAIR principles apply to digital objects beyond just data. At Cloud-SPAN we are working hard to make sure our learning resources are as FAIR as possible. Find out what we're doing to achieve this by visiting our handbook, or look out for our next blog post!\nFurther reading:\n\nThe 10 FAIR Principles\nPaper in Nature: The FAIR Guiding Principles for scientific data management and stewardship"
+  },
+  {
+    "objectID": "blogs/12-14-21/index.html",
+    "href": "blogs/12-14-21/index.html",
+    "title": "Course Update",
+    "section": "",
+    "text": "Well, it’s been a couple of weeks since we ran our first course and we’ve certainly learned a lot from it! Most of the problems we stumbled into were minor teething issues, but we’re also going to be making some fairly major changes based on what we learned. Here’s a bit of an update:\n\nFirst thing’s first... positive feedback!\nWe had some amazing feedback from our first run-through! We asked our participants to rate their level of comfort with a number of topics before and after completing the course.\nAs you can see in the graph below, on average our participants felt that their level of comfort had improved after taking the course for all topics. This is great news!\nIn particular, participants ended the course feeling really comfortable with using the command line to navigate file directories, create and modify files and search for keywords.\n\n\n\nThe BIG Problem: Time flies\nThe biggest problem we ran into was time. We just didn’t have enough of it...\n...and that means we need to seriously rethink how we structure the content of our course. You can see from the graph above that the topics people felt they had improved their confidence the least in were those relating to genomics - assessing read quality, trimming and filtering, and variant calling.\nThat’s because before we could teach those topics, we had to make sure people felt really comfortable using the command line and organising their files. Unfortunately, as we got more and more behind schedule, this meant the genomics topics got less and less time allocated to them.\nThis is a problem, because the title of the course was Foundational Genomics. If participants are finishing our course feeling like they are not comfortable with variant calling (which is what a score of 3 means) then we need to make some changes. Plus, the genomics bit is meant to be the fun bit!\nThe written feedback we had from participants after the course, while mostly positive, generally reflected this sentiment too.\n\n\nThe BIG Solution: Course structure\nIn light of this feedback, we’ve decided to split our 4 x half-day Foundational Genomics course into two shorter courses: one 2 x half-day “Prenomics” course and one 4 x half-day “Genomics” course.\nThe Prenomics course will be aimed at complete beginners and will be a gentle introduction to file directories, working paths and basic command line commands. By giving ourselves two half-days to cover this content we should be able to ensure all participants are fully on board before we move onto anything more complex.\nThis course will also be optional for those who already have some basic experience using the command line. We plan to screen potential attendees using a self-test to help them determine whether they would benefit from attending the Prenomics course, or skipping straight to Genomics.\nThe Genomics course will follow directly on from Prenomics, using many of the same commands and building on them further. We should have much more time to cover essential topics such as read quality and variant calling which were rushed last time, allowing us to offer a much better educational experience.\n\n\nSome smaller problems which this change also solves...\n\nWe plan to run the Genomics course over two weeks, with 2 x half days per week. This, combined with a hopefully much less stressful volume of content to cover, will decrease pressure on our instructors and helpers, most of whom have multiple other work and teaching commitments.\nSome of our participants felt the course went far too slowly; others felt it went too fast. By screening for those who have the least experience working in the command line, we should be able to both provide more support to those who need it and stop more experienced participants from getting bored.\n\n\n\nOther updates in the pipeline\nThese two new courses, Prenomics and Genomics, will make up the ‘Foundational’ element of our content. We still have plans to developed ‘Advanced’ modules on topics such as automation and setting up cloud instances. We asked our participants to let us know what they’d like to see, and we’ll be taking these suggestions into account as we go.\nWe also have plans to run some (hopefully) in-person ‘hack days’ for alumni of our Foundational courses, where we can help participants apply the skills learned in the course to their own problems, and assist in troubleshooting any problems. We hope this will help develop our community of practice further by providing opportunities for networking and building relationships.\nAnd that’s it. Thanks for reading this far - we hope it explains some of our rationale for why the course is structured the way it is. We’re really proud of our achievements with our first ever course, and we’re looking forward to trying some new stuff out next time.\nTill next time! 👋"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "What is FAIR data?\n\n\n\nOpen science\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nMay 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics Self-Study now LIVE! 🧬\n\n\n\nGenomics\n\n\nAnnouncements\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nMay 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nCourse Update\n\n\n\nGenomics\n\n\nBehind-the-scenes\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nDec 14, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "self_study/Create Your Own AWS Instance/index.html",
+    "href": "self_study/Create Your Own AWS Instance/index.html",
+    "title": "Create Your Own AWS Instance",
+    "section": "",
+    "text": "Info about Create Your Own AWS Instance"
+  },
+  {
+    "objectID": "self_study/Genomics/index.html",
+    "href": "self_study/Genomics/index.html",
+    "title": "Genomics",
+    "section": "",
+    "text": "Info about Genomics"
+  },
+  {
+    "objectID": "self_study/Metagenomics for Microbiologists/index.html",
+    "href": "self_study/Metagenomics for Microbiologists/index.html",
+    "title": "Metagenomics for Microbiologists",
+    "section": "",
+    "text": "Info about Metagenomics for Microbiologists"
+  },
+  {
+    "objectID": "self_study/Prenomics/index.html",
+    "href": "self_study/Prenomics/index.html",
+    "title": "Prenomics",
+    "section": "",
+    "text": "Info about Prenomics"
+  },
+  {
+    "objectID": "self_study_courses.html",
+    "href": "self_study_courses.html",
+    "title": "Self-study Courses",
+    "section": "",
+    "text": "Create Your Own AWS Instance\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nMetagenomics for Microbiologists\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPrenomics\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "upcoming/Core R/index.html",
+    "href": "upcoming/Core R/index.html",
+    "title": "Core R",
+    "section": "",
+    "text": "Info about Core R"
+  },
+  {
+    "objectID": "upcoming/NERC Metagenomics/index.html",
+    "href": "upcoming/NERC Metagenomics/index.html",
+    "title": "NERC Metagenomics",
+    "section": "",
+    "text": "Info about NERC Metagenomics"
+  },
+  {
+    "objectID": "upcoming_courses.html",
+    "href": "upcoming_courses.html",
+    "title": "Upcoming Courses",
+    "section": "",
+    "text": "Core R\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nNERC Metagenomics\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
