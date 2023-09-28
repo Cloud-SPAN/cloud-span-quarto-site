@@ -12,10 +12,18 @@ website:
     right:
       - text: Home
         href: index.qmd
-      - about.qmd
+      - text: About
+        menu: 
+          - text: About the project
+            href: about.qmd
+          - text: Our aims
+            href: cloud-span-aims.qmd
+          - text: Contact us
+            href: contact-us.qmd
       - self_study_courses.qmd
       - upcoming_courses.qmd
       - blogs.qmd
+          
   page-footer:
     left: 
       All content licensed under {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}

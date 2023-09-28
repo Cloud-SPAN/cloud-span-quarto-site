@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/about.html</loc>
-    <lastmod>2023-09-28T14:53:18.932Z</lastmod>
+    <lastmod>2023-09-28T15:33:05.691Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/blogs/05-22-22/index.html</loc>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/index.html</loc>
-    <lastmod>2023-09-28T15:00:58.041Z</lastmod>
+    <lastmod>2023-09-28T15:24:59.986Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/new-home.html</loc>
@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Genomics/index.html</loc>
-    <lastmod>2023-09-28T12:44:11.370Z</lastmod>
+    <lastmod>2023-09-28T15:30:46.455Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study/Metagenomics for Microbiologists/index.html</loc>
@@ -58,7 +58,7 @@
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/self_study_courses.html</loc>
-    <lastmod>2023-09-28T15:14:23.748Z</lastmod>
+    <lastmod>2023-09-28T15:30:42.774Z</lastmod>
   </url>
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming/Code Retreat/index.html</loc>
@@ -75,5 +75,13 @@
   <url>
     <loc>https://cloud-span.github.io/cloud-span-quarto-site/upcoming_courses.html</loc>
     <lastmod>2023-09-28T15:14:53.956Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/cloud-span-aims.html</loc>
+    <lastmod>2023-09-28T15:29:00.462Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cloud-span.github.io/cloud-span-quarto-site/contact-us.html</loc>
+    <lastmod>2023-09-28T15:28:39.776Z</lastmod>
   </url>
 </urlset>
