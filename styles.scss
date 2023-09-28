@@ -41,6 +41,32 @@ img {
   height: auto;
 }
 
+// listing card styling
+
+.card {
+  background-color: $seasalt;
+  border: none;
+}
+
+.card-header {
+  font-weight: 400;
+  font-size: 1.5em;
+  background-color: $seasalt !important;
+  border: none !important;
+}
+
+// this ensures the listing cards on pages outside of the index page keep their border, white background etc
+.quarto-grid-item.card-left{
+  background-color: white;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 0.25rem;
+}
+
+.listing-title {
+  text-decoration: none;
+}
+
 
 // container for any and all content (stops content being too wide)
 .content-container {
