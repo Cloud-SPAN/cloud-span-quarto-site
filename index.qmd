@@ -2,7 +2,7 @@
 page-layout: custom
 listing:
   id: homepage-content
-  #type: grid
+  type: grid
   template: gallery.ejs
   contents: homepage-content.yaml
   grid-item-border: false

@@ -1,6 +1,7 @@
 ---
 title: "NERC Metagenomics"
-description: " "
+image: nerc-metagenomics-card-narrow.png
+description: Learn more about metagenomics, a way to explore all the genetic material in an environmental sample.
 ---
 
 Metagenomics explores all the genetic material in an environmental sample. It can be used to characterise the taxonomic characteristics of microbial communities.
