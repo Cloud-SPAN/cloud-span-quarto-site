@@ -8,6 +8,15 @@
     ]
   },
   {
+    "listing": "/self_study_courses.html",
+    "items": [
+      "/self_study/Metagenomics for Microbiologists/index.html",
+      "/self_study/Create Your Own AWS Instance/index.html",
+      "/self_study/Prenomics/index.html",
+      "/self_study/Genomics/index.html"
+    ]
+  },
+  {
     "listing": "/blogs.html",
     "items": [
       "/blogs/05-31-22/index.html",
@@ -15,15 +24,6 @@
       "/blogs/12-14-21/index.html",
       "/blogs/blog post 4/index.html",
       "/blogs/blog post 5/index.html"
-    ]
-  },
-  {
-    "listing": "/self_study_courses.html",
-    "items": [
-      "/self_study/Metagenomics for Microbiologists/index.html",
-      "/self_study/Create Your Own AWS Instance/index.html",
-      "/self_study/Prenomics/index.html",
-      "/self_study/Genomics/index.html"
     ]
   },
   {

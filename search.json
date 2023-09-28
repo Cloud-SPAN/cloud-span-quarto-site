@@ -18,28 +18,35 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.\n\nChallenges in Environmental ’Omics\n\n\n  \n\nSoftware installation for data analysis is complex and involves multiple dependencies.\n\n\n\n  \n\nHPC architectures vary between institutions and accessibility is a lottery.\n\n\n\n  \n\nMetagenomic analyses involve large datasets and take a long time to run.\n\n\n\n  \n\nBig data ’omics analyses using HPC are not core skills for researchers and have a steep learning curve.\n\n\n\n\n\n\n\nSolutions\n\n\n  \n\nWe use cloud-based containerised instances with pre-installed software which are scalable and easy to access.\n\n\n\n  \n\nWe deliver high quality training with a low barrier to participation - absolutely zero previous experience needed!\n\n\n\n\n\n\nOur Approach\n\n\n  \n\nWe offer training in both self-study and workshop formats, with a mix of online and in-person teaching\n\n\n\n  \n\nWe are building a community of practice: a community of bioinformaticians who can support one another.\n\n\n\n  \n\nWe are following open science principles and making our resources FAIR (findable, accessible, interoperable, reusable)."
+    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.\n\nGenomics Course\nThis course is based on Carpentries materials introduces the foundations of Genomics andbBioinformatics and will take place three times, after which point it will be available as a self-study course. View further information on the Genomics course.\n\n\nAdvanced Modules\nAdvanced modules covering specialised knowledge and skills required to generate and analyse ’omics data using Cloud HPC resources will be delivered three times. These will include experimental design, statistical modules and deployment of cloud-based containerised instances for exemplar workflows. They will form a complete teaching and training resource that can be used for online tutor-led workshops or self-paced learning.\n\n\nCloud Administration Guides\nCloud Administration Guides will enable HPC workflows as “production” instances which can be used by institutional RSE, RDM or HPC Teams to run or support specialised skills modules with their own resources. The Guides will be supported by in person training by Cloud-SPAN systems administrators.\n\n\nLearning Paths\nYou will have the flexibility to select different modules which differ in starting point and length to cater to researchers at a variety of careers stages with differing levels of previous experience.\n\n\nDiversity Scholarships\nUnderrepresented groups in research and HPC will be eligible to apply for financial support in order to participate in online or in-person training. View further information on scholarships.\n\n\nCode Retreats and Mentoring\nLearners will have have the opportunity to attend code retreats and benefit from mentoring to provide them both the skills and the self-confidence to apply methods to their own research questions and data.\n\n\nCommunity of Practice\nWe hope to establish a welcoming online community to support learners, including self-paced learners, in the application of training materials to their own research data."
   },
   {
-    "objectID": "blogs.html",
-    "href": "blogs.html",
-    "title": "Blogs",
+    "objectID": "contact-us.html",
+    "href": "contact-us.html",
+    "title": "Contact us",
     "section": "",
-    "text": "What is FAIR data?\n\n\n\nOpen science\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nMay 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics Self-Study now LIVE! 🧬\n\n\n\nGenomics\n\n\nAnnouncements\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nMay 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nCourse Update\n\n\n\nGenomics\n\n\nBehind-the-scenes\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nDec 14, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Email us at cloud-span-project@york.ac.uk if you have any questions or would like any additional information.\n\nFollow us\n\nConnect with us on LinkedIn\nFollow us on Twitter for updates on upcoming courses, blog posts and recent news on Genomics\nView our courses on GitHub"
   },
   {
-    "objectID": "self_study/Prenomics/index.html",
-    "href": "self_study/Prenomics/index.html",
-    "title": "Prenomics",
+    "objectID": "self_study/Genomics/index.html",
+    "href": "self_study/Genomics/index.html",
+    "title": "Genomics",
     "section": "",
-    "text": "Info about Prenomics"
+    "text": "Info about Genomics"
   },
   {
-    "objectID": "self_study/Metagenomics for Microbiologists/index.html",
-    "href": "self_study/Metagenomics for Microbiologists/index.html",
-    "title": "Metagenomics for Microbiologists",
+    "objectID": "self_study/Create Your Own AWS Instance/index.html",
+    "href": "self_study/Create Your Own AWS Instance/index.html",
+    "title": "Create Your Own AWS Instance",
     "section": "",
-    "text": "Info about Metagenomics for Microbiologists"
+    "text": "Info about Create Your Own AWS Instance"
+  },
+  {
+    "objectID": "cloud-span-aims.html",
+    "href": "cloud-span-aims.html",
+    "title": "Our aims",
+    "section": "",
+    "text": "Challenges in Environmental ’Omics\n\n\n  \n\nSoftware installation for data analysis is complex and involves multiple dependencies.\n\n\n\n  \n\nHPC architectures vary between institutions and accessibility is a lottery.\n\n\n\n  \n\nMetagenomic analyses involve large datasets and take a long time to run.\n\n\n\n  \n\nBig data ’omics analyses using HPC are not core skills for researchers and have a steep learning curve.\n\n\n\n\n\n\n\nSolutions\n\n\n  \n\nWe use cloud-based containerised instances with pre-installed software which are scalable and easy to access.\n\n\n\n  \n\nWe deliver high quality training with a low barrier to participation - absolutely zero previous experience needed!\n\n\n\n\n\n\nOur Approach\n\n\n  \n\nWe offer training in both self-study and workshop formats, with a mix of online and in-person teaching\n\n\n\n  \n\nWe are building a community of practice: a community of bioinformaticians who can support one another.\n\n\n\n  \n\nWe are following open science principles and making our resources FAIR (findable, accessible, interoperable, reusable)."
   },
   {
     "objectID": "blogs/05-31-22/index.html",
@@ -70,18 +77,25 @@
     "text": "Metagenomics for Microbiologists\n\n\nLearn more about metagenomics, a way to explore all the genetic material in an environmental sample.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreate Your Own AWS Instance\n\n\nLearn how to set up an Amazon Web Services instance.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrenomics\n\n\nLearn how to use the command line to navigate a file system and carry out simple tasks.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics\n\n\nLearn about data management and analytical skills for genomic research.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "self_study/Create Your Own AWS Instance/index.html",
-    "href": "self_study/Create Your Own AWS Instance/index.html",
-    "title": "Create Your Own AWS Instance",
+    "objectID": "self_study/Metagenomics for Microbiologists/index.html",
+    "href": "self_study/Metagenomics for Microbiologists/index.html",
+    "title": "Metagenomics for Microbiologists",
     "section": "",
-    "text": "Info about Create Your Own AWS Instance"
+    "text": "Info about Metagenomics for Microbiologists"
   },
   {
-    "objectID": "self_study/Genomics/index.html",
-    "href": "self_study/Genomics/index.html",
-    "title": "Genomics",
+    "objectID": "self_study/Prenomics/index.html",
+    "href": "self_study/Prenomics/index.html",
+    "title": "Prenomics",
     "section": "",
-    "text": "Info about Genomics"
+    "text": "Info about Prenomics"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "What is FAIR data?\n\n\n\nOpen science\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nMay 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics Self-Study now LIVE! 🧬\n\n\n\nGenomics\n\n\nAnnouncements\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nMay 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nCourse Update\n\n\n\nGenomics\n\n\nBehind-the-scenes\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nDec 14, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "upcoming/Core R/index.html",
