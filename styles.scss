@@ -189,7 +189,18 @@ div.desc {
 
 h1 {
   color: $midnight_green;
-  font-size: 48px;
+  font-size: 1.8rem;
+}
+
+h2 {
+  color: $midnight_green;
+  break-after: false
+}
+
+.description {
+  font-size: 20px;
+  font-style: italic;
+  color: $midnight_green;
 }
 
 // define font size to change with size of screen/table-layout:
@@ -208,6 +219,7 @@ $font-diff-hero-title: ($font-max-hero-title / 1px - $font-min-hero-title / 1px)
   text-align: center;
   color: white;
   font-weight: bold;
+  
   // Mobile
   @media (max-width: 599px) {
     font-size: $font-min-hero-title;
@@ -232,6 +244,7 @@ $font-diff-home-sub: ($font-max-home-sub / 1px - $font-min-home-sub / 1px);
   text-align: center;
   color: $blue_green;
   font-weight: bold;
+  
   // Mobile
   @media (max-width: 599px) {
     font-size: $font-min-home-sub;
@@ -260,6 +273,7 @@ $font-diff-p-blue: ($font-max-p-blue / 1px - $font-min-p-blue / 1px);
   margin-right: 3vw;
   color: white;
   margin-top: 0.5em;
+  
   // Mobile
   @media (max-width: 599px) {
     font-size: $font-min-p-blue;
@@ -275,3 +289,27 @@ $font-diff-p-blue: ($font-max-p-blue / 1px - $font-min-p-blue / 1px);
   }
 }
 
+//font size variables for quarto-title (page titles)
+$font-min-quarto-title: 32px; 
+$font-max-quarto-title: 48px;
+$font-diff-quarto-title: ($font-max-quarto-title / 1px - $font-min-quarto-title / 1px);
+
+.quarto-title h1 {
+  text-align: left;
+  color: $midnight_green;
+  margin-top: 0.5em;
+  
+  // Mobile
+  @media (max-width: 599px) {
+    font-size: $font-min-quarto-title;
+  }
+  
+  // Everything in between mobile (600px) to desktop (1200px)
+  @media (min-width: 600px) and (max-width: 1200px) {
+    font-size: calc(#{$font-min-quarto-title} + (100vw - #{$mobile}) / #{$screen-diff} * #{$font-diff-quarto-title});
+  }
+// Desktop
+  @media (min-width: 1201px) {
+    font-size: $font-max-quarto-title;
+  }
+}

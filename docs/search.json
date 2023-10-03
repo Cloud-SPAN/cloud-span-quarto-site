@@ -35,6 +35,20 @@
     "text": "What is FAIR data?\n\n\n\nOpen science\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nMay 31, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics Self-Study now LIVE! 🧬\n\n\n\nGenomics\n\n\nAnnouncements\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nMay 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nCourse Update\n\n\n\nGenomics\n\n\nBehind-the-scenes\n\n\n\n\n\n\n\nEvelyn Greeves\n\n\nDec 14, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "cloud-span-aims.html",
+    "href": "cloud-span-aims.html",
+    "title": "Our aims",
+    "section": "",
+    "text": "Challenges in Environmental ’Omics\n\n\n  \n\nSoftware installation for data analysis is complex and involves multiple dependencies.\n\n\n\n  \n\nHPC architectures vary between institutions and accessibility is a lottery.\n\n\n\n  \n\nMetagenomic analyses involve large datasets and take a long time to run.\n\n\n\n  \n\nBig data ’omics analyses using HPC are not core skills for researchers and have a steep learning curve.\n\n\n\n\n\n\n\nSolutions\n\n\n  \n\nWe use cloud-based containerised instances with pre-installed software which are scalable and easy to access.\n\n\n\n  \n\nWe deliver high quality training with a low barrier to participation - absolutely zero previous experience needed!\n\n\n\n\n\n\nOur Approach\n\n\n  \n\nWe offer training in both self-study and workshop formats, with a mix of online and in-person teaching\n\n\n\n  \n\nWe are building a community of practice: a community of bioinformaticians who can support one another.\n\n\n\n  \n\nWe are following open science principles and making our resources FAIR (findable, accessible, interoperable, reusable)."
+  },
+  {
+    "objectID": "contact-us.html",
+    "href": "contact-us.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "Email us at cloud-span-project@york.ac.uk if you have any questions or would like any additional information.\n\nFollow us\n\nConnect with us on LinkedIn\nFollow us on Twitter for updates on upcoming courses, blog posts and recent news on Genomics\nView our courses on GitHub"
+  },
+  {
     "objectID": "self_study/Create Your Own AWS Instance/index.html",
     "href": "self_study/Create Your Own AWS Instance/index.html",
     "title": "Create Your Own AWS Instance",
@@ -112,17 +126,10 @@
     "text": "Code Retreat\n\n\nJoin us for a code retreat to apply your new skills to your own data and network with other genomics researchers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCore R\n\n\nLearn about R and RStudio in this introductory course.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNERC Metagenomics\n\n\nLearn more about metagenomics, a way to explore all the genetic material in an environmental sample.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "contact-us.html",
-    "href": "contact-us.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "Email us at cloud-span-project@york.ac.uk if you have any questions or would like any additional information.\n\nFollow us\n\nConnect with us on LinkedIn\nFollow us on Twitter for updates on upcoming courses, blog posts and recent news on Genomics\nView our courses on GitHub"
-  },
-  {
-    "objectID": "cloud-span-aims.html",
-    "href": "cloud-span-aims.html",
-    "title": "Our aims",
-    "section": "",
-    "text": "Challenges in Environmental ’Omics\n\n\n  \n\nSoftware installation for data analysis is complex and involves multiple dependencies.\n\n\n\n  \n\nHPC architectures vary between institutions and accessibility is a lottery.\n\n\n\n  \n\nMetagenomic analyses involve large datasets and take a long time to run.\n\n\n\n  \n\nBig data ’omics analyses using HPC are not core skills for researchers and have a steep learning curve.\n\n\n\n\n\n\n\nSolutions\n\n\n  \n\nWe use cloud-based containerised instances with pre-installed software which are scalable and easy to access.\n\n\n\n  \n\nWe deliver high quality training with a low barrier to participation - absolutely zero previous experience needed!\n\n\n\n\n\n\nOur Approach\n\n\n  \n\nWe offer training in both self-study and workshop formats, with a mix of online and in-person teaching\n\n\n\n  \n\nWe are building a community of practice: a community of bioinformaticians who can support one another.\n\n\n\n  \n\nWe are following open science principles and making our resources FAIR (findable, accessible, interoperable, reusable)."
+    "objectID": "upcoming/NERC Metagenomics/index.html#h2-text",
+    "href": "upcoming/NERC Metagenomics/index.html#h2-text",
+    "title": "NERC Metagenomics",
+    "section": "h2 text",
+    "text": "h2 text\n\nh3 text\n\nh4 text"
   }
 ]
