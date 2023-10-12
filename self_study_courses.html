@@ -67,7 +67,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-self_study_courses .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-self_study_courses'] = new List('listing-self_study_courses', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -185,14 +185,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Register for our self-study.</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<p>Register for our self-study courses.</p>
+<div id="listing-self_study_courses" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1697105709675" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1697105972290" data-listing-reading-time-sort="1">
 <a href="./self_study/Metagenomics for Microbiologists/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -214,7 +210,7 @@ Learn more about metagenomics, a way to explore all the genetic material in an e
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1697105709663" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1697105972278" data-listing-reading-time-sort="1">
 <a href="./self_study/Create Your Own AWS Instance/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -236,7 +232,7 @@ Learn how to set up an Amazon Web Services instance.
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1697105709679" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1697105972294" data-listing-reading-time-sort="1">
 <a href="./self_study/Prenomics/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -258,7 +254,7 @@ Learn how to use the command line to navigate a file system and carry out simple
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1697105709675" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1697105972290" data-listing-reading-time-sort="1">
 <a href="./self_study/Genomics/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -284,7 +280,12 @@ Learn about data management and analytical skills for genomic research.
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
