@@ -1,7 +1,11 @@
 ---
 title: "Self-study Courses"
 listing:
-  contents: self_study
+  contents:
+    - path: https://cloud-span.github.io/create-aws-instance-0-overview/
+      title: "Create Your Own AWS Instance"
+      image: aws-card-narrow.png
+      description: "Learn how to set up an Amazon Web Services instance."
   type: grid
   sort: "date desc"
   categories: false
@@ -14,3 +18,4 @@ Register for our self-study courses.
 
 ::: {#self_study_courses}
 :::
+
