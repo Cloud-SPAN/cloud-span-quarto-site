@@ -5,7 +5,12 @@ listing:
   type: grid
   sort: "date desc"
   categories: false
+  id: self_study_courses
 page-layout: full
 title-block-banner: true
 ---
-Register for our self-study. 
+Register for our self-study courses. 
+
+
+::: {#self_study_courses}
+:::
