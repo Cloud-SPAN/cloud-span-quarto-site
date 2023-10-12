@@ -4,8 +4,12 @@ listing:
   contents:
     - path: https://cloud-span.github.io/create-aws-instance-0-overview/
       title: "Create Your Own AWS Instance"
-      image: aws-card-narrow.png
+      image: images/aws-card-narrow.png
       description: "Learn how to set up an Amazon Web Services instance."
+    - path: https://cloud-span.github.io/00genomics/
+      title: "Genomics"
+      image: images/genomics-card-narrow.png
+      description: Learn about data management and analytical skills for genomic research. 
   type: grid
   sort: "date desc"
   categories: false
