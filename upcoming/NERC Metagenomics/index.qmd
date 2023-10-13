@@ -5,7 +5,7 @@ description: Learn more about metagenomics, a way to explore all the genetic mat
 ---
 ::: {.callout-note appearance="tip"}
 
-## Register for Metagenomics(https://forms.gle/eJ3xWAb3Cy6wZVyk8) 
+## [Register for Metagenomics](https://forms.gle/eJ3xWAb3Cy6wZVyk8) 
 
 :::
 
