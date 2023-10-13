@@ -20,8 +20,8 @@ listing:
       description: "Learn more about metagenomics, a way to explore all the genetic material in an environmental sample."
     - path: https://github.com/Cloud-SPAN/core-r
       title: "Core R"
-      image: images/metagenomics-microbio-card-narrow.png
-      description: "An introduction to R for complete beginners"
+      image: images/R-card-narrow.png
+      description: "Learn about R and RStudio in this introductory course."
   type: grid
   sort: "date desc"
   categories: false
