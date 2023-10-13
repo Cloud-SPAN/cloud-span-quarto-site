@@ -3,9 +3,9 @@ title: "NERC Metagenomics"
 image: nerc-metagenomics-card-narrow.png
 description: Learn more about metagenomics, a way to explore all the genetic material in an environmental sample.
 ---
-::: {.callout-note appearance="default"}
+::: {.callout-note appearance="tip"}
 
-## Register for Metagenomics
+## Register for Metagenomics(https://forms.gle/eJ3xWAb3Cy6wZVyk8) 
 
 :::
 
