@@ -3,6 +3,11 @@ title: "NERC Metagenomics"
 image: nerc-metagenomics-card-narrow.png
 description: Learn more about metagenomics, a way to explore all the genetic material in an environmental sample.
 ---
+::: {.callout-note appearance="default"}
+
+## Register for Metagenomics
+
+:::
 
 Metagenomics explores all the genetic material in an environmental sample. It can be used to characterise the taxonomic characteristics of microbial communities.
 
@@ -23,6 +28,12 @@ Check out testimonials from previous attendees!
 > "Really pleased with how the course was ran. The instructors were clear and patient, and the online course materials were thorough. I really enjoyed the taxonomic analysis as it brought everything we learned together. This course is super applicable for when I collect and analyse my data further into my PhD project. :)"
 
 # Registration
+
+::: {.callout-note appearance="default"}
+
+## [Register for Metagenomics](https://forms.gle/eJ3xWAb3Cy6wZVyk8) 
+
+:::
 
 There are 30 places available for this online workshop, please register using [**the online form**](https://forms.gle/eJ3xWAb3Cy6wZVyk8). Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
 
