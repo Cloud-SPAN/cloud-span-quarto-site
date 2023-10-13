@@ -6,10 +6,22 @@ listing:
       title: "Create Your Own AWS Instance"
       image: images/aws-card-narrow.png
       description: "Learn how to set up an Amazon Web Services instance."
+    - path: https://cloud-span.github.io/prenomics00-intro/
+      title: "Prenomics"
+      image: images/prenomics-card-narrow.png
+      description: "Learn how to use the command line to navigate a file system and carry out simple tasks."
     - path: https://cloud-span.github.io/00genomics/
       title: "Genomics"
       image: images/genomics-card-narrow.png
       description: Learn about data management and analytical skills for genomic research. 
+    - path: https://cloud-span.github.io/nerc-metagenomics00-overview/
+      title: "Metagenomics for Environmental Scientists"
+      image: images/metagenomics-microbio-card-narrow.png
+      description: "Learn more about metagenomics, a way to explore all the genetic material in an environmental sample."
+    - path: https://github.com/Cloud-SPAN/core-r
+      title: "Core R"
+      image: images/metagenomics-microbio-card-narrow.png
+      description: "An introduction to R for complete beginners"
   type: grid
   sort: "date desc"
   categories: false
