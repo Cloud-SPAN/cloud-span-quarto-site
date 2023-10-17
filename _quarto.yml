@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 
-date-format: D MMMM, YYYY  
+date-format: YYYY-MM-DD  
 
 website:
   title: Cloud-SPAN
