@@ -1,0 +1,26 @@
+🗓️ Save the date 20th June! 🗓️ NEW online workshop - Introduction to R
+09/05/23		Sarah Dowsland
+Save the date - registration opening soon!
+Join us for this free online two-hour workshop which provides an introduction to R for complete beginners.  By the end of the course you will be able to;
+find your way around RStudio
+use the basic data types and structures in R
+organise your work with scripts and projects
+import data, summarise it and create and format a graph
+The workshop assumes no prior experience of coding. We allow plenty of time for questions and we provide a high level of support for each learner. The workshop will be delivered by Emma Rand, an excellent instructor with a passion for teaching.
+Event details
+💻 Core R Workshop
+🗓️ Tuesday 20th June 2023
+🕑 2-4 pm
+📍 Online
+Places available
+There are 30 places available for this online course.
+Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply.
+Application deadline: Friday 9th June. Applicants will be notified by Tuesday 13th June if they have been allocated a place.
+Registration fee
+This workshop is funded by the Natural Environment Research Council (NERC) and therefore it is free to attend for candidates based in the UK.
+How to register
+Registration will open shortly; an online registration form will be available on the Cloud-SPAN website. If you so wish, you can also register your interest in the workshop and we will contact you when registration opens.
+Keep in touch!
+LinkedIn
+Twitter
+Cloud-SPAN website

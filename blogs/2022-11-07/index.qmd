@@ -1,0 +1,38 @@
+How do we support our learners?
+07/11/22		Evelyn Greeves
+Learning new skills can be difficult, and it’s easy to go away from a course feeling like you’re even more confused than when you started! Here's what do we do at Cloud-SPAN to make sure all our learners complete our courses feeling confident in their newly-learned skills.
+
+Prenomics
+Are you completely new to concepts like cloud computing and the command line? Our Prenomics course is designed to give you the best possible start to your command line journey. It requires absolutely zero prior knowledge or experience! We take it slow, starting at the beginning with file paths and directories before building up to logging onto the cloud for the first time. Once you’re logged on, we take you through all the core commands you need to work in the command line effectively.
+
+All of this is done using the same files and environment as the Genomics course, meaning that you’ll feel extra prepared to continue your learning.
+
+Live Coding
+We use a technique called live coding to teach all our courses. This means that you code along with us, copying what we type and seeing the output in real time on your own computer. Live coding keeps things interesting and gives you lots of practice at the new skills we’re teaching you. In addition, it means that we can help solve any errors you come across as we go through the course.
+
+Instructors and Helpers
+Each of our courses is led by one or two experienced instructors, who will do most of the teaching and live coding. There’ll also be several helpers, who are there to help you with any problems you encounter. No problem is too small! We want you to succeed, and we’ll try our best to get you there.
+
+Code Retreats
+After finishing one of our courses, your next thought should be “what next”? It’s likely that you’ll want to apply the techniques you just learned to your own research data. If so, you can get help with this by attending a Code Retreat, where our instructors will be happy to help you work on your own analyses. If you have any questions, we’ll do our best to get them answered. Code Retreats are also a great networking opportunity where you can meet others working on similar projects to your own and share problems, achievements and tips for success.
+
+Drop-ins
+Some of our courses have regular online drop-in sessions where you can get help and troubleshoot your problems. How this works varies depending on the course.
+
+For our ‘Metagenomics’ course, drop-ins occur once a week for the month-long duration of the taught course. We run it like this because some of the analyses can take a long time, so it would be impractical to teach in long blocks. Instead, we let you run these time-consuming analyses in your own time (they can run in the background of your usual work!).
+
+For our self-taught ‘Create Your Own AWS Instance’ course, troubleshooting drop-ins happen online once a week. You get access to this useful resource when you register.
+
+Slack Channel
+Participating in a Cloud-SPAN course also gives you access to our Slack channel, where you can ask more questions and keep up with the latest news. We also share links to other training and workshops which we think might be useful for our learners. It’s a friendly, supportive environment and the best place to get your questions answered outside of the course itself.
+
+How to Get Involved
+If you like the sound of all this, why not sign up for one of our free courses today? Our full catalogue of courses is listed on our website.
+
+Upcoming Courses
+Prenomics ➡ 22-23 November 2022 (online workshop or complete via self-study)
+
+Genomics ➡ 6-7 December 2022 (in-person workshop or complete via self-study)
+
+Genomics self-study ➡ registration now open - start at anytime
+

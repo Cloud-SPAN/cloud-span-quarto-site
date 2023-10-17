@@ -1,0 +1,22 @@
+📢 Online workshop on FAIR data hosted by the UK Reproducibility Network
+11/10/22		Sarah Dowsland
+Just to let you know regarding an event happening on Wednesday 19th October which might be of interest: the UK Reproducibility Network are running an online workshop on FAIR data in the life sciences which should be really informative and useful. You'll learn about what FAIR data is, why it's important and where you can go for further training on this issue. Plus, our very own Cloud-SPAN's Evelyn Greeves will be talking about Cloud-SPAN and how we've made our courses FAIR!
+
+If you're:
+
+👩‍🔬👩🏿‍🔬👨🏽‍🔬 someone who produces and analyses data
+📊 a bioinformatician
+👩🏻‍💻👨🏾‍💻  a research software engineer
+🔢 a statistician
+ 
+
+then this workshop is for you. You can read more about the workshop here and register to attend here. We hope to see some of you there!
+
+Upcoming Cloud-SPAN Courses 
+
+Prenomics: 22-23 November 2022 (online workshop or complete via self-study)
+
+Genomics: 6-7 December 2022 (in-person workshop or complete via self-study)
+
+Genomics self-study: registration now open - start at anytime
+

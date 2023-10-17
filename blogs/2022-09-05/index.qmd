@@ -1,0 +1,16 @@
+Cloud-SPAN awarded NERC funding to expand training courses
+05/09/22		Sarah Dowsland
+The Cloud-SPAN team has been awarded a grant to expand our training to the Natural Environment Research Council (NERC) remit under the Advanced training for early-career environmental scientists call. We will be developing an accessible online course "Getting started with High Performance Computing: FAIR training for environmental scientists" using the same cloud-based infrastructure used in our other courses. We will supply AWS services to up to 60 participants undertaking the course either in tutor-led workshops or by self-study.
+
+Those needing funds for childcare or accessibility to enable their participation in the training will be able apply for a Scholarship and up to 30 participants will receive headsets and second monitors facilitate online engagement. The course will be running in April 2023 - please let your ecology colleagues know to look out for the course!
+
+ Key info
+🔷 Metagenomics with High Performance Computing ▶ 11-21 April (Online workshop)
+
+🔷 Scholarship deadline 13 March
+
+🔷 Register for the online workshop
+
+🔷 Register for the self-study mode
+
+
