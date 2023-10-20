@@ -1,11 +1,7 @@
 [
   {
-    "listing": "/upcoming_courses.html",
-    "items": [
-      "/upcoming/Core R/index.html",
-      "/upcoming/NERC Metagenomics/index.html",
-      "/upcoming/Code Retreat/index.html"
-    ]
+    "listing": "/index.html",
+    "items": []
   },
   {
     "listing": "/self_study_courses.html",
@@ -14,24 +10,24 @@
   {
     "listing": "/blogs.html",
     "items": [
-      "/blogs/2023-05-09/index.html",
-      "/blogs/2022-06-29/index.html",
-      "/blogs/2022-06-14/index.html",
       "/blogs/2022-07-06/index.html",
-      "/blogs/2022-08-31/index.html",
-      "/blogs/2022-11-07/index.html",
-      "/blogs/2023-05-11/index.html",
-      "/blogs/2022-07-18/index.html",
-      "/blogs/2022-10-11a/index.html",
-      "/blogs/2022-10-18/index.html",
-      "/blogs/2022-09-05/index.html",
-      "/blogs/2023-02-02/index.html",
-      "/blogs/2022-10-11b/index.html",
-      "/blogs/2022-06-22/index.html",
-      "/blogs/2023-04-26/index.html",
-      "/blogs/2023-04-19b/index.html",
-      "/blogs/2023-04-19a/index.html",
       "/blogs/2022-12-16b/index.html",
+      "/blogs/2023-04-19b/index.html",
+      "/blogs/2022-10-11b/index.html",
+      "/blogs/2023-05-09/index.html",
+      "/blogs/2022-08-31/index.html",
+      "/blogs/2022-10-11a/index.html",
+      "/blogs/2023-02-02/index.html",
+      "/blogs/2023-04-26/index.html",
+      "/blogs/2023-04-19a/index.html",
+      "/blogs/2022-09-05/index.html",
+      "/blogs/2022-07-18/index.html",
+      "/blogs/2022-11-07/index.html",
+      "/blogs/2022-06-22/index.html",
+      "/blogs/2023-05-11/index.html",
+      "/blogs/2022-10-18/index.html",
+      "/blogs/2022-06-14/index.html",
+      "/blogs/2022-06-29/index.html",
       "/blogs/2022-12-16a/index.html",
       "/blogs/2022-07-13/index.html",
       "/blogs/2022-06-08/index.html",
@@ -43,7 +39,11 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": []
+    "listing": "/upcoming_courses.html",
+    "items": [
+      "/upcoming/Core R/index.html",
+      "/upcoming/Code Retreat/index.html",
+      "/upcoming/NERC Metagenomics/index.html"
+    ]
   }
 ]
