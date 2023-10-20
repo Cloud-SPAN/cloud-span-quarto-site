@@ -5,7 +5,7 @@ description: Learn more about metagenomics, a way to explore all the genetic mat
 ---
 ::: {.callout-note appearance="tip"}
 
-## [Register for Metagenomics](https://forms.gle/eJ3xWAb3Cy6wZVyk8) 
+## [Registration is now closed please contact cloud-span-project@york.ac.uk to be add to the waiting list]
 
 :::
 
@@ -31,13 +31,14 @@ Check out testimonials from previous attendees!
 
 ::: {.callout-note appearance="default"}
 
-## [Register for Metagenomics](https://forms.gle/eJ3xWAb3Cy6wZVyk8) 
+## [Registration is now closed please contact cloud-span-project@york.ac.uk to be add to the waiting list]
 
 :::
 
-There are 30 places available for this online workshop, please register using [**the online form**](https://forms.gle/eJ3xWAb3Cy6wZVyk8). Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
+The registration is now closed for this workshop. 
 
-Application deadline: 12pm Wednesday 18th October. Applicants will be notified by Monday 23rd October if they have been allocated a place. Scholarships and funding for headsets and monitors will be available.
+Application deadline: 12pm Wednesday 18th October. Applicants will be notified by Monday 23rd October if they have been allocated a place. Scholarships and funding for headsets and monitors will be available. Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
+
 
 # Programme
 
