@@ -74,7 +74,7 @@ At Cloud-SPAN we know it's difficult to find time to train so we've come up with
 |------------------|------------------|------------------------------------|
 | Tuesday 21 November | 10:00 - 11:30 | Binning a metagenome assembly into individual genomes (MAGS) |
 |                     |               | Offline time for the binning to complete                     |
-| Tuesday 21 November | 10:00 - 11:00 | Online troubleshooting drop-in session (optional)            |
+| Thursday 23 November| 10:00 - 11:00 | Online troubleshooting drop-in session (optional)            |
 | Friday 24 November  | 13:00 - 16:00 | Taxonomic Assignment and Analysis                            |
 
 If you are unable to attend an online session, recordings will be distributed. You will have access to your instance until Friday 1 December (one week after the course is completed) to give you time to consolidate your learning. Usage of the instances will be monitored; instances which are inactive will be closed down as a daily charge is incurred.
