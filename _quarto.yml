@@ -13,7 +13,7 @@ website:
     logo: images/logo_cloud_only.png
     right:
       - text: Home
-        href: https://cloud-span.github.io/cloud-span-quarto-site/index.html
+        href: index.qmd
       - text: About
         menu: 
           - text: About the project
