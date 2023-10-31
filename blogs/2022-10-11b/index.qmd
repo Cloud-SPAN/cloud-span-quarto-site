@@ -36,3 +36,5 @@ Check your eligibility on the [scholarships page](https://cloud-span.york.ac.uk/
 🔷 Scholarship deadline 31 March [Statistically useful experimental design](https://cloud-span.york.ac.uk/train-with-us/specialised-skills#h.6ghlbqj9dac7) 14 April 2023 (University of York)
 
 Any questions get in touch cloud-span-project\@york.ac.uk or follow us [\@SpanCloud](https://twitter.com/SpanCloud)
+
+![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 

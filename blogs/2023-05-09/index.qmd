@@ -54,3 +54,5 @@ Registration will open shortly; an online registration form will be available on
 [Twitter](https://twitter.com/SpanCloud)
 
 [Cloud-SPAN website](https://cloud-span.york.ac.uk/)
+
+![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 

@@ -50,3 +50,5 @@ If you like the sound of all this, why not sign up for one of our **free courses
 [Genomics](https://cloud-span.github.io/00genomics/) ➡ 6-7 December 2022 (in-person workshop or complete via self-study)
 
 [Genomics self-study](https://cloud-span.github.io/00genomics/) ➡ registration now open - start at anytime
+
+![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 

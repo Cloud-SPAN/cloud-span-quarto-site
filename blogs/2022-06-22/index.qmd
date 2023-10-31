@@ -28,3 +28,5 @@ Session slides will be available following the event. 
 Event details: Wednesday, 6th July, 15:00-16:30 in room B/T/019 University of York. 
 
 Contact us on [cloud-span-project\@york.ac.uk]{.underline} to be added to the Bioinformatics regular mailing list!
+
+![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 

@@ -18,3 +18,6 @@ Cloud-SPAN PI, Prof James Chong has recently been selected (as one of three glob
 Although James officially holds the award, the successful application was a team effort driven by Dr Sarah Forrester and Annabel Cansdale, both part of the Centre of Excellence for Anaerobic Digestion (CEAD) and Cloud-SPAN Instructors, who were heavily involved in preparing the application, and who will make use of the Cloud compute award throughout this project.
 
 Read more about the [Spring 2023 Oracle Fellows Program cohort!](https://blogs.oracle.com/research/post/proudly-announcing-the-research-fellows-spring-2023-cohort?source=:so:tw:or:awr:ore:::OfR_Social_Spring2023CohortAnnouncement_CS&SC=:so:tw:or:awr:ore:::OfR_Social_Spring2023CohortAnnouncement_CS&pcode=)
+
+![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
+
