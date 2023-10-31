@@ -1,6 +1,6 @@
 ---
 title: "More online computational training for life scientists!"
-date: 2022/08/06
+date: 2022/06/08
 author: Emma Rand
 categories:
  - Genomics
@@ -17,4 +17,6 @@ The Cloud-SPAN team would like to let you know about more opportunities for onli
 
 -   **13:00-16:00 23-26 August** – [Machine learning](https://edcarp.github.io/2022-08-23_ed-dash_machine_learning/)
 
- You can register via the [University of Edinburgh ePay system](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-genetic-and-population-health-sciences/igc) - the courses are free but have a refundable deposit. Contact them at [ed-dash\@ed.ac.uk]{.underline} or on Twitter [\@EdDaSH_Training]{.underline}, with any questions
+ You can register via the [University of Edinburgh ePay system](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-genetic-and-population-health-sciences/igc) - the courses are free but have a refundable deposit. Contact them at [ed-dash\@ed.ac.uk]{.underline} or on Twitter [\@EdDaSH_Training]{.underline}, with any questions.
+
+![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
