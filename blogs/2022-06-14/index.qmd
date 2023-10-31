@@ -1,21 +1,27 @@
-Cloud-SPAN April Code Retreat
-14/06/22		Evelyn Greeves
+---
+title: "Cloud-SPAN April Code Retreat"
+date: 2022/06/14
+author: Evelyn Greeves
+categories:
+ - Announcements
+ - Open science
+---
 
-In April we held our first code retreat event: a chance for course alumni to come together and work on their own data problems with the support of Cloud-SPAN instructors. The event took place at the University of York, with several participants travelling from other institutions for the day.
+**In April we held our first code retreat event: a chance for course alumni to come together and work on their own data problems with the support of Cloud-SPAN instructors. The event took place at the University of York, with several participants travelling from other institutions for the day.**
 
 Some people took the opportunity to revisit course materials and ask questions about the topics they didn’t understand. There were plenty of helpers on hand to answer questions and test understanding.
 
 Others chose to apply the workflows and analyses taught in the Genomics course to their own datasets. Again, helpers were on hand to discuss topics such as:
 
-how to organise bioinformatics projects;
+-   how to organise bioinformatics projects;
 
-which tools are most effective;
+-   which tools are most effective;
 
-how to approach a problem;
+-   how to approach a problem;
 
-what analysis is best for a certain type of data;
+-   what analysis is best for a certain type of data;
 
-as well as many others. 
+as well as many others. 
 
 Some participants knew what help they needed and had specific questions to address during the day. Those with a less clear understanding of their problem benefited from talking through their data and getting guidance from our experienced instructors. Some even tried out new software tools not discussed during the course.
 
@@ -23,10 +29,8 @@ Finally, some participants decided to trial our new self-study course on creatin
 
 Everyone enjoyed the chance to meet new people and find out about each others’ research. It was a great chance to network and build some community amongst course alumni.
 
-Our next code retreat for Cloud-SPAN course alumni will be on July 6th at the University of York. We cover travel expenses and lunch is provided. We’re looking forward to meeting more of our community members and providing valuable one-to-one support!
+Our next code retreat for Cloud-SPAN course alumni will be on **July 6th** at the **University of York**. We cover travel expenses and lunch is provided. We’re looking forward to meeting more of our community members and providing valuable one-to-one support!
 
-Contact us at cloud-span-project@york.ac.uk to sign up.
+**Contact us at** [**cloud-span-project\@york.ac.uk**]{.underline} **to sign up.**
 
-
-Image: Instructors and course alumni at April's code retreat.
-
+![Image: Instructors and course alumni at April's code retreat.](Group%20image%20Code%20Retreat.jpeg){fig-align="left" fig-alt="" width="600"} 

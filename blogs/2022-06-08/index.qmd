@@ -1,21 +1,20 @@
 ---
 title: "More online computational training for life scientists!"
-date: 06-08-22
+date: 2022/08/06
 author: Emma Rand
 categories:
  - Genomics
  - Behind-the-scenes
 ---
 
-The Cloud-SPAN team would like to let you know about more opportunities for online training! Ed-DaSH from the University of Edinburgh, is a Data Science training programme for Health and Biosciences funded under the same scheme as Cloud-SPAN (UKRI innovation scholars award). Like Cloud-SPAN, Ed-DaSH is partnered with the The Software Sustainability Institute and you will find similarities in our approach to teaching computational topics to life scientists. Their upcoming workshops are:
+The Cloud-SPAN team would like to let you know about more opportunities for online training! [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) from the University of Edinburgh, is a Data Science training programme for Health and Biosciences funded under the same scheme as Cloud-SPAN ([UKRI innovation scholars award](https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/)). Like Cloud-SPAN, Ed-DaSH is partnered with the [The Software Sustainability Institute](https://software.ac.uk/) and you will find similarities in our approach to teaching computational topics to life scientists. Their upcoming workshops are:
 
-13:00-17:00 14-17 June – FAIR in (Biological) Practice
+-   **13:00-17:00 14-17 June** – [FAIR in (Biological) Practice](https://edcarp.github.io/2022-06-14_ed-dash_fair-bio-practice/)
 
-10:00-13:00 5-8 July – Introduction to Statistics with R (this is a course written by Cloud-SPAN's Emma Rand and Univerity of York Biology PhD student Ezra Herman)
+-   **10:00-13:00 5-8 July** – [Introduction to Statistics with R](https://edcarp.github.io/2022-07-05_ed-dash_intro-statistics/)(this is a course written by Cloud-SPAN's [Emma Rand](https://github.com/3mmaRand) and [Univerity of York Biology](https://www.york.ac.uk/biology/) PhD student [Ezra Herman](https://github.com/ezhermanhttps://github.com/ezherman))
 
-09:30-13:00 26-29 July – High dimensional statistics with R
+-   **09:30-13:00 26-29 July** – [High dimensional statistics with R](https://edcarp.github.io/2022-07-26_ed-dash_high-dim-stats/)
 
-13:00-16:00 23-26 August – Machine learning
+-   **13:00-16:00 23-26 August** – [Machine learning](https://edcarp.github.io/2022-08-23_ed-dash_machine_learning/)
 
- You can register via the University of Edinburgh ePay system - the courses are free but have a refundable deposit. Contact them at ed-dash@ed.ac.uk or on Twitter @EdDaSH_Training, with any questions
-
+ You can register via the [University of Edinburgh ePay system](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-genetic-and-population-health-sciences/igc) - the courses are free but have a refundable deposit. Contact them at [ed-dash\@ed.ac.uk]{.underline} or on Twitter [\@EdDaSH_Training]{.underline}, with any questions

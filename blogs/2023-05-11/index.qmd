@@ -1,18 +1,25 @@
-Online Core R Workshop
-11/05/23		Sarah Dowsland
+---
+title: "Online Core R Workshop"
+date: 2023/05/11
+author: Sarah Dowsland
+categories:
+ - Announcements
+ - Open science
+---
+
 Join us for this free online two-hour workshop which provides an introduction to R for complete beginners. By the end of the course you will be able to;
 
-find your way around RStudio
+-   find your way around RStudio
 
-use the basic data types and structures in R
+-   use the basic data types and structures in R
 
-organise your work with scripts and projects
+-   organise your work with scripts and projects
 
-import data, summarise it and create and format a graph
+-   import data, summarise it and create and format a graph
 
-The workshop assumes no prior experience of coding. 
+The workshop assumes no prior experience of coding. 
 
-Event details
+**Event details**
 
 💻 Core R Workshop
 
@@ -22,11 +29,15 @@ Event details
 
 📍 Online
 
-Registration
+**Registration**
 
 There are 30 places available for this online course. Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply.
 
-Application deadline: 12pm Monday 5th June. Applicants will be notified by Tuesday 6th June if they have been allocated a place. Scholarships and funding for headsets and monitors will be available. 
+Application deadline: 12pm Monday 5th June. Applicants will be notified by Tuesday 6th June if they have been allocated a place. Scholarships and funding for headsets and monitors will be available. 
 
-▶️ Registration is now closed. 
+▶️ Registration is now closed.
 
+![.](Core-R-icon-2.png){fig-alt="A graphic showing the letter R in blue which represents the R programming language" width="600"} 
+
+<!-- 
+<img src="Core-R-icon-2.png" alt="A graphic showing the letter R in blue which represents the R programming language)" width="600"> -->

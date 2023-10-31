@@ -1,25 +1,30 @@
-Bioinformatics Meeting on ‘Career pathways into bioinformatics’
-22/06/22		Sarah Dowsland
+---
+title: "Bioinformatics Meeting on ‘Career pathways into bioinformatics’"
+date: 2022/06/22
+author: Sarah Dowsland
+categories:
+ - Announcements
+ - Open science
+---
 
-Join the University of York's Bioinformatics Meeting on ‘Career pathways into bioinformatics’.
+**Join the University of York's Bioinformatics Meeting on ‘Career pathways into bioinformatics’.**
 
 Hosted by Sarah Forrester, we have a jam packed hour and a half.
 
-Evelyn Greeves from the Cloud-SPAN team will be leading a short session on "Introduction to FAIR and metadata" with an opportunity for you to ask any questions that you may have.  
+Evelyn Greeves from the Cloud-SPAN team will be leading a short session on "Introduction to FAIR and metadata" with an opportunity for you to ask any questions that you may have.  
 
-Following this, have you pondered what direction to take your career or how to use your data skills in future projects? We have 3 speakers who explain how data analysis has been incorporated into their work. 
+Following this, have you pondered what direction to take your career or how to use your data skills in future projects? We have 3 speakers who explain how data analysis has been incorporated into their work. 
 
-🔸 Emma Rand highlights the different paths into academia and using big data skills. 
+🔸 Emma Rand highlights the different paths into academia and using big data skills. 
 
 🔸 James Chong explains how learning bioinformatics was the only way to get past the bottleneck of being able to analyse data he was generating.
 
-🔸 Sarah Forrester explores how bioinformatics opens doors to moving between different research niches. 
+🔸 Sarah Forrester explores how bioinformatics opens doors to moving between different research niches. 
 
-We will then have a discussion with all speakers for the remainder of the session, which will include signposting resources. 
+We will then have a discussion with all speakers for the remainder of the session, which will include signposting resources. 
 
-Session slides will be available following the event. 
+Session slides will be available following the event. 
 
-Event details: Wednesday, 6th July, 15:00-16:30 in room B/T/019 University of York. 
+Event details: Wednesday, 6th July, 15:00-16:30 in room B/T/019 University of York. 
 
-Contact us on cloud-span-project@york.ac.uk to be added to the Bioinformatics regular mailing list!
-
+Contact us on [cloud-span-project\@york.ac.uk]{.underline} to be added to the Bioinformatics regular mailing list!

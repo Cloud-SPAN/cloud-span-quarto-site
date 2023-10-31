@@ -1,28 +1,38 @@
-Scholarships, funding and so much more!
-11/10/22		Sarah Dowsland
-Here at Cloud-SPAN HQ our official tagline is that we are here to upskill researchers and enable them to perform complex analyses on cloud-based platforms. Which we are achieving through the provision of training courses and online modules. However, as a member of the team who works behind the scenes as project manager, I feel that we are offering much more than that. 
+---
+title: "Scholarships, funding and so much more!"
+date: 2022/10/11
+author: Sarah Dowsland
+categories:
+ - Announcements
+ - Open science
+---
 
-Welcoming learning environment
-Up until now we have delivered courses online and held code retreats in person. The course materials and delivery are excellent thanks to our talented instructors. I find the real added value here is that the learning environment is very welcoming, encouraging and inclusive. A lot of our participants are complete beginners or new to this world of big data, command line and cloud computing. And learning such new skills could be very daunting for some. At our courses there aren’t any big egos, there’s just someone there to work through questions and find solutions to your problems. 
+Here at Cloud-SPAN HQ our official tagline is that we are here to upskill researchers and enable them to perform complex analyses on cloud-based platforms. Which we are achieving through the provision of training courses and online modules. However, as a member of the team who works behind the scenes as project manager, I feel that we are offering much more than that. 
 
-Community
+## **Welcoming learning environment**
+
+Up until now we have delivered courses online and held code retreats in person. The course materials and delivery are excellent thanks to our talented instructors. I find the real added value here is that the learning environment is very welcoming, encouraging and inclusive. A lot of our participants are complete beginners or new to this world of big data, command line and cloud computing. And learning such new skills could be very daunting for some. At our courses there aren’t any big egos, there’s just someone there to work through questions and find solutions to your problems. 
+
+## **Community**
+
 We can see that through the provision of these events it has created valuable networks between the learners. We know that on an everyday basis they may be the only one in their lab or team working on this type of work and they lack contact with a colleague where they can chat through ideas or get some advice. We offer a Slack channel, weekly online help sessions and code retreats to help support learners. We are also pleased to be working closely with SSI, NorthernBUG, EBnet and University of York Bioinformatics Group which also enables learners a wider access to learning resources and opportunity to network.
 
-Equality and diversity
+## **Equality and diversity**
+
 When organising courses and online sessions we strive to accommodate individuals’ specific needs to ensure that all learners have the same equal access and opportunities to our learning resources. We recognise that unfortunately it is still the case that women, members of the LGBTQ community, people with disabilities and those from ethnic-minorities or socially-disadvantaged groups are consistently underrepresented in research and HPC. To try and combat this, we offer Equality and Diversity Scholarships to help those from underrepresented groups to support costs related to completing the training courses such as travel, childcare etc.
 
-Funding
-We understand that financial hardship and lack of available funding is a key player in preventing people accessing and attending training activities, a problem which has been exacerbated by the recent increases in cost of living. Therefore we have recently introduced Hardship Scholarships which are available to anyone who requires financial assistance to attend Cloud-SPAN courses and events. Scholarships can be used to cover travel, childcare or general costs associated with completing the training. 
+## **Funding**
 
-How to apply for funding
-Check your eligibility on the scholarships page on our website. To apply for funding please complete the course registration form and include the relevant information in the scholarship section. All applications received before the Scholarship deadline will be reviewed by the Scholarship Panel. 
+We understand that financial hardship and lack of available funding is a key player in preventing people accessing and attending training activities, a problem which has been exacerbated by the recent increases in cost of living. Therefore we have recently introduced Hardship Scholarships which are available to anyone who requires financial assistance to attend Cloud-SPAN courses and events. Scholarships can be used to cover travel, childcare or general costs associated with completing the training. 
 
-Upcoming scholarship deadlines
-🔷 Scholarship deadline 13 March Metagenomics with High Performance Computing 11-21 April (Online workshop)
+## **How to apply for funding**
 
-🔷 Scholarship deadline 31 March Statistically useful experimental design 14 April 2023 (University of York)
+Check your eligibility on the [scholarships page](https://cloud-span.york.ac.uk/scholarships) on our website. To apply for funding please complete the course registration form and include the relevant information in the scholarship section. All applications received before the Scholarship deadline will be reviewed by the Scholarship Panel. 
 
- 
+## **Upcoming scholarship deadlines**
 
-Any questions get in touch cloud-span-project@york.ac.uk or follow us @SpanCloud
+🔷 Scholarship deadline 13 March [Metagenomics with High Performance Computing](https://cloud-span.york.ac.uk/train-with-us/specialised-skills#h.jqgzsdc8hbla) 11-21 April (Online workshop)
 
+🔷 Scholarship deadline 31 March [Statistically useful experimental design](https://cloud-span.york.ac.uk/train-with-us/specialised-skills#h.6ghlbqj9dac7) 14 April 2023 (University of York)
+
+Any questions get in touch cloud-span-project\@york.ac.uk or follow us [\@SpanCloud](https://twitter.com/SpanCloud)

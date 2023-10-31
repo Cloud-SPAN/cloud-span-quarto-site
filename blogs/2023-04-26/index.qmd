@@ -1,9 +1,20 @@
-Congratulations to James Chong and the team!
-26/04/23		Sarah Dowsland
-Professor James Chong selected as an Oracle Research Fellow
-Cloud-SPAN PI, Prof James Chong has recently been selected (as one of three globally) Oracle for Research Fellows for their Spring 2023 cohort.  This industrially-funded fellowship includes a cash award of $100,000 (£81,000) and £132,200 of Oracle Cloud compute credits for a project entitled Using shotgun metagenomics data to develop a synthetic anaerobic digestion (AD) community. 
+---
+title: "Congratulations to James Chong and the team!"
+date: 2023/04/26
+author: Sarah Dowsland
+categories:
+ - Announcements
+ - Open science
+---
+
+## **Congratulations to James Chong and the team!**
+
+### **26/04/23	Sarah Dowsland**
+
+### **Professor James Chong selected as an Oracle Research Fellow**
+
+Cloud-SPAN PI, Prof James Chong has recently been selected (as one of three globally) Oracle for Research Fellows for their Spring 2023 cohort.  This industrially-funded fellowship includes a cash award of \$100,000 (£81,000) and £132,200 of Oracle Cloud compute credits for a project entitled Using shotgun metagenomics data to develop a synthetic anaerobic digestion (AD) community. 
 
 Although James officially holds the award, the successful application was a team effort driven by Dr Sarah Forrester and Annabel Cansdale, both part of the Centre of Excellence for Anaerobic Digestion (CEAD) and Cloud-SPAN Instructors, who were heavily involved in preparing the application, and who will make use of the Cloud compute award throughout this project.
 
-Read more about the Spring 2023 Oracle Fellows Program cohort!
-
+Read more about the [Spring 2023 Oracle Fellows Program cohort!](https://blogs.oracle.com/research/post/proudly-announcing-the-research-fellows-spring-2023-cohort?source=:so:tw:or:awr:ore:::OfR_Social_Spring2023CohortAnnouncement_CS&SC=:so:tw:or:awr:ore:::OfR_Social_Spring2023CohortAnnouncement_CS&pcode=)

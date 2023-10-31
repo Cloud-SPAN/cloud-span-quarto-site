@@ -1,54 +1,63 @@
-Our Solutions to Challenges in Environmental 'Omics
-31/08/22		Evelyn Greeves
-Here’s what we’re doing at Cloud-SPAN to address the challenges we discussed previously.
+---
+title: "Our Solutions to Challenges in Environmental 'Omics"
+date: 2022/08/31
+author: Evelyn Greeves
+categories:
+  - Open science
+---
+
+Here’s what we’re doing at Cloud-SPAN to address the challenges we [discussed previously](https://cloudspan.peerboard.com/post/1059779486).
 
 Just to recap, here are our four main challenges:
 
-Hardware - the size and nature of ‘omics data means high performance computing (HPC) resources are needed, which are rapidly evolving and differ between institutions.
+-   **Hardware** - the size and nature of ‘omics data means high performance computing (HPC) resources are needed, which are rapidly evolving and differ between institutions.
 
-Software - software used for analysis has a steep learning curve, can be difficult to install and tends to have limited teaching resources.
+-   **Software** - software used for analysis has a steep learning curve, can be difficult to install and tends to have limited teaching resources.
 
-Skills - using HPC requires skills many scientists do not have, such as using the command line and specifying resources.
+-   **Skills** - using HPC requires skills many scientists do not have, such as using the command line and specifying resources.
 
-Time - there are time investments needed for learning new skills, running long analysis scripts and interpreting the results.
+-   **Time** - there are time investments needed for learning new skills, running long analysis scripts and interpreting the results.
 
-At Cloud-SPAN we have two main weapons in our arsenal against these challenges: cloud computing and training. Let’s look at each of those in detail.
+At Cloud-SPAN we have two main weapons in our arsenal against these challenges: **cloud computing** and **training**. Let’s look at each of those in detail.
 
-Cloud HPC
-We use commercially-available cloud computing resources to address the challenges of hardware, software and time.
+## **Cloud HPC**
 
-Here’s how it works: we teach our courses inside a containerised instance, which is a virtual environment containing pre-loaded software and files. The instance runs on hardware borrowed from a commercial provider (in our case, Amazon Web Services). All our learners have to do is log into the cloud instance we provide, and they will have access to all of the software and data used in the course. The instances all start out identical, so the file structure always looks the same, and they run on enough borrowed resources to make analysis relatively quick and easy.
+We use **commercially-available cloud computing resources** to address the challenges of hardware, software and time.
 
-Using this kind of pre-loaded instance benefits our learners by removing complications around different HPC setups and the installation of software onto a cluster. It also makes it easier for us to teach - we know that everyone is starting with the same setup, so we can offer our courses to anyone regardless of institution. It allows us to model best practices for directory structure and project organisation, and save time when troubleshooting issues.
+Here’s how it works: we teach our courses inside a **containerised instance**, which is a virtual environment containing **pre-loaded software and files**. The instance runs on hardware borrowed from a commercial provider (in our case, Amazon Web Services). All our learners have to do is log into the cloud instance we provide, and they will have access to **all of the software and data** used in the course. The instances all start out identical, so the file structure always looks the same, and they run on enough borrowed resources to make analysis relatively quick and easy.
 
-Another major advantage of running analyses on cloud resources is that we don’t have to wait in a queue for resources to be available, as we’ve already loaned out the resources we need. This can save a lot of time for large analyses, and is especially useful for teaching.
+Using this kind of pre-loaded instance benefits our learners by **removing complications** around different HPC setups and the installation of software onto a cluster. It also makes it **easier for us to teach** - we know that everyone is starting with the same setup, so we can offer our courses to anyone regardless of institution. It allows us to **model best practices** for directory structure and project organisation, and **save time** when troubleshooting issues.
 
-After completing one of our courses, learners can go away and apply their new skills to their own data by setting up their own cloud instance, which is identical to the one used in the course. It contains all the same software and basic file structures, so provides a familiar environment for further learning and analysis. Using these kinds of services outside of the course does incur a cost, but we also support learners in applying for research credits.
+Another major advantage of running analyses on cloud resources is that we **don’t have to wait in a queue** for resources to be available, as we’ve already loaned out the resources we need. This can save a lot of time for large analyses, and is especially useful for teaching.
 
-Training
-Our other main solution is providing high quality, free-of-charge training courses with a low barrier to entry and no assumptions of prior knowledge. These courses allow us to address challenges around skills and the skills gap.
+After completing one of our courses, learners can go away and apply their new skills to their own data by **setting up their own cloud instance**, which is identical to the one used in the course. It contains all the same software and basic file structures, so provides a familiar environment for further learning and analysis. Using these kinds of services outside of the course does incur a cost, but we also support learners in applying for **research credits**.
 
-All of our courses are underpinned by a core ‘Prenomics’ module, which provides a supportive and carefully paced introduction to navigating directories and using the UNIX command line. Accessing the cloud HPC services described above is impossible without these skills. Using our purpose-built environment we guide new learners through the basics with a strong focus on contextualising new skills within the field of environmental ‘omics.
+## **Training**
 
-We also provide core modules in using the programming language R, again with a focus on analysis and visualisation of ‘omics data, and on creating cloud instances.
+Our other main solution is providing **high quality, free-of-charge training courses** with a low barrier to entry and no assumptions of prior knowledge. These courses allow us to address challenges around **skills and the skills gap**.
 
-Our specialised courses follow on from Prenomics and cover topics such as genomics, metagenomics, automating analyses and designing statistically useful experiments. Again, we keep the barrier to participation low by contextualising learning and keeping new ideas to the bare minimum - no frills! 
+All of our courses are underpinned by a **core ‘Prenomics’ module**, which provides a supportive and carefully paced introduction to navigating directories and using the UNIX command line. Accessing the cloud HPC services described above is impossible without these skills. Using our purpose-built environment we guide new learners through the basics with a strong focus on **contextualising new skills** within the field of environmental ‘omics.
 
-Summary
-In summary, the Cloud-SPAN project combines high-quality training with cloud computing expertise to address four major challenges in the field of environmental ‘omics. Using our unique containerised instances we can provide adequate resources for efficient analysis with software pre-installed, saving time and effort. Our courses are designed to equip learners with the skills they need to perform analyses on these cloud instances and beyond, with the overall aim to lessen the load of learning on the backs of researchers and help them improve analysis times and efficiency.
+We also provide core modules in using the programming language **R**, again with a focus on analysis and visualisation of ‘omics data, and on **creating cloud instances**.
 
-Our containerised instances solve the challenges of:
+Our **specialised courses** follow on from Prenomics and cover topics such as genomics, metagenomics, automating analyses and designing statistically useful experiments. Again, we keep the barrier to participation low by **contextualising learning** and **keeping new ideas to the bare minimum** - no frills! 
 
-Hardware, by providing a harmonised HPC platform across institutions and potentially increasing the compute resources available to individuals.
+## **Summary**
 
-Software, by providing pre-installed software which removes the time-consuming step of software installation.
+In summary, the Cloud-SPAN project combines **high-quality training** with **cloud computing expertise** to address four major challenges in the field of environmental ‘omics. Using our unique containerised instances we can provide **adequate resources for efficient analysis** with **software pre-installed**, saving time and effort. Our courses are designed to equip learners with the skills they need to perform analyses on these cloud instances and beyond, with the overall aim to **lessen the load of learning** on the backs of researchers and help them **improve analysis times and efficiency**.
 
-Time, by speeding up analyses and eradicating the need to queue to access HPC.
+Our **containerised instances** solve the challenges of:
 
-Our training approach solves the challenge of:
+-   **Hardware**, by providing a harmonised HPC platform across institutions and potentially increasing the compute resources available to individuals.
 
-Skills, by ensuring a low barrier to participation and equipping researchers with vital skills.
+-   **Software**, by providing pre-installed software which removes the time-consuming step of software installation.
 
-Find out for yourself how our solutions to these challenges could benefit you. Read more about the courses we offer or take a look at our introductory 'Prenomics' course materials or specialised Genomics course to see how our training can equip you better!
+-   **Time**, by speeding up analyses and eradicating the need to queue to access HPC.
 
+Our **training approach** solves the challenge of:
 
+-   **Skills**, by ensuring a low barrier to participation and equipping researchers with vital skills.
+
+Find out for yourself how our solutions to these challenges could benefit you. [Read more about the courses we offer](https://cloud-span.york.ac.uk/train-with-us) or take a look at our introductory ['Prenomics' course materials](https://cloud-span.github.io/prenomics00-intro/) or [specialised Genomics course](https://cloud-span.github.io/00genomics/) to see how our training can equip you better
+
+![.](solutions%20to%20challenges%20no%20banner.png){fig-alt="A graphic showing two icons that represent cloud computing (with a cloud) and training (with a graduation hat)" width="600"} 
