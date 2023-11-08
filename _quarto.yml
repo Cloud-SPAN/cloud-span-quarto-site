@@ -8,6 +8,7 @@ website:
   title: Cloud-SPAN
   favicon: images/cloudspan_favicon_32x32.png
   site-url: https://cloud-span.github.io/cloud-span-quarto-site/
+  google-analytics: "G-77HC85CPEX"
   navbar:
     title: false
     logo: images/logo_cloud_only.png
