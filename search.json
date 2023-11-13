@@ -172,14 +172,21 @@
     "href": "upcoming/Genomics/index.html",
     "title": "Genomics",
     "section": "",
-    "text": "This course is free of charge, however we ask that you register for the Self-Study learning mode using the registration button below, so we have your details and we can provide you with additional information."
+    "text": "Genomics teaches data management and analysis for genomics research including: (1) best practices for organization of bioinformatics projects and data, (2) use of command-line utilities to connect to and use cloud computing and storage resources, (3) use of command-line tools for data preparation, (4) use of command-line tools to analyze sequence quality and perform and automate variant calling."
+  },
+  {
+    "objectID": "upcoming/Genomics/index.html#target-audience",
+    "href": "upcoming/Genomics/index.html#target-audience",
+    "title": "Genomics",
+    "section": "Target audience",
+    "text": "Target audience\n\nLearners who have completed the Prenomics Course\nPhD Students & Researchers\nThis course would be appropriate for learners with experience using the command line, who are expecting to generate a dataset in the future or those who already have a dataset and would like guidance on how to analyse it."
   },
   {
     "objectID": "upcoming/Genomics/index.html#registration",
     "href": "upcoming/Genomics/index.html#registration",
     "title": "Genomics",
-    "section": "",
-    "text": "This course is free of charge, however we ask that you register for the Self-Study learning mode using the registration button below, so we have your details and we can provide you with additional information."
+    "section": "Registration",
+    "text": "Registration\nThere are 30 places available for this online workshop, please register using the online form. This course is free of charge."
   },
   {
     "objectID": "upcoming/Genomics/index.html#pre-requisites",
@@ -193,21 +200,14 @@
     "href": "upcoming/Genomics/index.html#programme",
     "title": "Genomics",
     "section": "Programme",
-    "text": "Programme\nTopics:\nSession 1 - Project management for cloud genomics - Learn how to structure your data and metadata Plan for an NGS project Learn about the benefits of cloud computing Session 2 - Data preparation and organisation Learn how to structure your data and metadata Plan for an NGS project Learn about the benefits of cloud computing Session 3 - Assessing read quality; trimming and filtering reads Trimming and filtering, learn how to filter out poor quality data Assessing read quality Session 4 - Finding sequence variants Understand the steps involved in variant calling Describe the types of data formats encountered during variant calling Use command line tools to perform variant calling Instructors will give a demonstration on how to use the Integrative Genomics Viewer (IGV), an interactive tool for the visual exploration of genomic data.\n\n\n\n\n\n\n\n\nMonday 15 January 2024\n10:00 - 13:00\nSession 1 - Project management for cloud genomics\n\n\nWednesday 17 January 2024\n10:00 - 13:00\nSession 2 - Data preparation and organisation\n\n\nMonday 15 January 2024\n10:00 - 13:00\nSession 3 - Assessing read quality; trimming and filtering reads\n\n\nWednesday 25 January 2024\n11:00 - 14:00\nSession 4 - Finding sequence variants"
-  },
-  {
-    "objectID": "upcoming/Genomics/index.html#target-audience",
-    "href": "upcoming/Genomics/index.html#target-audience",
-    "title": "Genomics",
-    "section": "Target audience",
-    "text": "Target audience\n\nLearners who have completed the Prenomics Course\nPhD Students & Researchers\nThis course would be appropriate for learners with experience using the command line, who are expecting to generate a dataset in the future or those who already have a dataset and would like guidance on how to analyse it."
+    "text": "Programme\nTopics:\nSession 1 - Project management for cloud genomics - Learn how to structure your data and metadata Plan for an NGS project Learn about the benefits of cloud computing Session 2 - Data preparation and organisation Learn how to structure your data and metadata Plan for an NGS project Learn about the benefits of cloud computing Session 3 - Assessing read quality; trimming and filtering reads Trimming and filtering, learn how to filter out poor quality data Assessing read quality Session 4 - Finding sequence variants Understand the steps involved in variant calling Describe the types of data formats encountered during variant calling Use command line tools to perform variant calling Instructors will give a demonstration on how to use the Integrative Genomics Viewer (IGV), an interactive tool for the visual exploration of genomic data.\n\n\n\n\n\n\n\n\nMonday 15 January 2024\n10:00 - 13:00\nSession 1 - Project management for cloud genomics\n\n\nWednesday 17 January 2024\n10:00 - 13:00\nSession 2 - Data preparation and organisation\n\n\nMonday 23 January 2024\n10:00 - 13:00\nSession 3 - Assessing read quality; trimming and filtering reads\n\n\nWednesday 25 January 2024\n11:00 - 14:00\nSession 4 - Finding sequence variants"
   },
   {
     "objectID": "upcoming/Genomics/index.html#learning-outcomes",
     "href": "upcoming/Genomics/index.html#learning-outcomes",
     "title": "Genomics",
     "section": "Learning outcomes",
-    "text": "Learning outcomes\nFollowing completion of this course, learners will be able to - structure their data and metadata and plan for an NGS project - organise and document genomics data and bioinformatics workflows - understand what information is needed by a sequencing facility - gain practice navigating file systems, creating, copying, moving, and removing files and directories - use command-line tools to assess read quality and perform quality control - align reads to a reference genome, and identify and visualise sequence variants - work with Amazon AWS cloud computing and transfer data between a local computer and cloud resources"
+    "text": "Learning outcomes\nFollowing completion of this course, learners will be able to\n\nstructure their data and metadata and plan for an NGS project\norganise and document genomics data and bioinformatics workflows\nunderstand what information is needed by a sequencing facility\ngain practice navigating file systems, creating, copying, moving, and removing files and directories\nuse command-line tools to assess read quality and perform quality control\nalign reads to a reference genome, and identify and visualise sequence variants\nwork with Amazon AWS cloud computing and transfer data between a local computer and cloud resources"
   },
   {
     "objectID": "self_study_courses.html",
