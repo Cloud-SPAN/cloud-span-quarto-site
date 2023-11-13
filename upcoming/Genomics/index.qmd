@@ -5,10 +5,11 @@ description: Learn data management and analytical skills for genomic research
 ---
 
 Genomics teaches data management and analysis for genomics research including:
-(1) best practices for organization of bioinformatics projects and data, 
-(2) use of command-line utilities to connect to and use cloud computing and storage resources, 
-(3) use of command-line tools for data preparation, 
-(4) use of command-line tools to analyze sequence quality and perform and automate variant calling.
+
+- (1) best practices for organization of bioinformatics projects and data, 
+- (2) use of command-line utilities to connect to and use cloud computing and storage resources, 
+- (3) use of command-line tools for data preparation, 
+- (4) use of command-line tools to analyze sequence quality and perform and automate variant calling.
 
 ## Target audience 
 - Learners who have completed the Prenomics Course 
@@ -19,8 +20,9 @@ Genomics teaches data management and analysis for genomics research including:
 There are 30 places available for this online workshop, please register using the online form. This course is free of charge. 
 
 ## Pre-requisites 
-Knowledge: learners should have completed the Prenomics course or be able to successfully complete the self-assessment quiz. Learners are also expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Please note, you will need to complete the Creating your own instance course beforehand.
-Software: view the required software set-up.
+Knowledge: learners should have completed the Prenomics course or be able to successfully complete the [https://shiny.york.ac.uk/er13/prenomics-quiz/](self-assessment quiz). 
+Learners are also expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Please note, you will need to complete the Creating your own instance course beforehand.
+Software: view the required [https://cloud-span.github.io/00genomics/setup](software set-up).
 
 ## Programme 
 
@@ -31,7 +33,7 @@ Software: view the required software set-up.
 | Wednesday 17 January 2024  | 10:00 - 13:00 | Session 2 - Data preparation and organisation               |
 |                       |               |  • Learn how to automate commonly used workflows <br> • Organise your file system for a new project  <br> • Use command-line tools for quality control.|
 | Monday 23 January 2024 | 10:00 - 13:00 | Session 3 - Assessing read quality; trimming and filtering reads.|
-|                       |               | • Trimming and filtering <br> •learn how to filter out poor quality data <br> • Assessing read quality |
+|                       |               | • Trimming and filtering <br> • Learn how to filter out poor quality data <br> • Assessing read quality |
 | Wednesday 25 January 2024 | 11:00 - 14:00 | Session 4 - Finding sequence variants                         |
 |                       |               | • Understand the steps involved in variant calling <br> • Describe the types of data formats encountered during variant calling <br> • Use command line tools to perform variant calling <br> • Instructors will give a demonstration on how to use the Integrative Genomics Viewer (IGV), an interactive tool for the visual exploration of genomic data. |
 
