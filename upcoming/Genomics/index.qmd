@@ -6,10 +6,10 @@ description: Learn data management and analytical skills for genomic research
 
 Genomics teaches data management and analysis for genomics research including:
 
-- (1) best practices for organization of bioinformatics projects and data, 
-- (2) use of command-line utilities to connect to and use cloud computing and storage resources, 
-- (3) use of command-line tools for data preparation, 
-- (4) use of command-line tools to analyze sequence quality and perform and automate variant calling.
+[] (1) best practices for organization of bioinformatics projects and data, 
+[] (2) use of command-line utilities to connect to and use cloud computing and storage resources, 
+[] (3) use of command-line tools for data preparation, 
+ [x] (4) use of command-line tools to analyze sequence quality and perform and automate variant calling.
 
 ## Target audience 
 - Learners who have completed the Prenomics Course 
@@ -20,9 +20,9 @@ Genomics teaches data management and analysis for genomics research including:
 There are 30 places available for this online workshop, please register using the online form. This course is free of charge. 
 
 ## Pre-requisites 
-Knowledge: learners should have completed the Prenomics course or be able to successfully complete the [https://shiny.york.ac.uk/er13/prenomics-quiz/](self-assessment quiz). 
+Knowledge: learners should have completed the Prenomics course or be able to successfully complete the (https://shiny.york.ac.uk/er13/prenomics-quiz/)[self-assessment quiz]. 
 Learners are also expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Please note, you will need to complete the Creating your own instance course beforehand.
-Software: view the required [https://cloud-span.github.io/00genomics/setup](software set-up).
+Software: view the required (https://cloud-span.github.io/00genomics/setup)[software set-up].
 
 ## Programme 
 
