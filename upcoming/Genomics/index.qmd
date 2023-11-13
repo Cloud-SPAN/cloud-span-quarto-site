@@ -4,12 +4,18 @@ image: genomics-card-narrow.png
 description: Learn data management and analytical skills for genomic research
 ---
 
+::: {.callout-note appearance="tip"}
+
+# Register using the [online form](https://forms.gle/Jwf4Hg1Kk6UKwbRo9)
+
+:::
+
 Genomics teaches data management and analysis for genomics research including:
 
-*(1) best practices for organization of bioinformatics projects and data, 
-*(2) use of command-line utilities to connect to and use cloud computing and storage resources, 
-  *(3) use of command-line tools for data preparation, 
-  *(4) use of command-line tools to analyze sequence quality and perform and automate variant calling.
+- best practices for organization of bioinformatics projects and data, 
+- use of command-line utilities to connect to and use cloud computing and storage resources, 
+- use of command-line tools for data preparation, 
+- use of command-line tools to analyze sequence quality and perform and automate variant calling.
 
 ## Target audience 
 - Learners who have completed the Prenomics Course 
