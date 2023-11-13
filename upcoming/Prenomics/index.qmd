@@ -4,9 +4,10 @@ image: prenomics-card-narrow.png
 description: Learn the basics of command-line programming.
 ---
 Prenomics teaches the basics of command-line programming, including: 
-(1) file directory structure, 
-(2) use of command-line utilities to connect to and use cloud computing and storage resources and 
-(3) basic shell commands for file navigation and basic script writing. 
+1. file directory structure, 
+2. use of command-line utilities to connect to and use cloud computing and storage resources and 
+3. basic shell commands for file navigation and basic script writing. 
+
 
 ## Target audience 
 - Learners who are intending to do bioinformatics but do not have any prior experience. 
@@ -14,11 +15,12 @@ Prenomics teaches the basics of command-line programming, including:
 - Learners who wish to complete the Genomics Course
 
 ## Registration
-There are 30 places available for this online workshop, please register using the [online form](https://forms.gle/Jwf4Hg1Kk6UKwbRo9). This course is free of charge. 
+There are 30 places available for this online workshop, please register using the [online form](https://forms.gle/5C7prgjBK3dmgT6W6). This course is free of charge. 
 
 ## Pre-requisites 
 Knowledge: To ensure that you would benefit from participating in this course please complete the short self-assessment quiz [self-assessment quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/). 
 This course assumes no prior experience with the tools covered in the workshop however learners are expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. 
+
 Software: view the required [software set-up](https://cloud-span.github.io/00genomics/setup).
 
 ## Programme 
