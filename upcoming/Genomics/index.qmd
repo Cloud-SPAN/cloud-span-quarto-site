@@ -45,8 +45,11 @@ Instructors will give a demonstration on how to use the Integrative Genomics Vie
 |                     |               |                                                                |
 |------------------|------------------|------------------------------------|
 | Monday 15 January 2024 | 10:00 - 13:00 | Session 1 - Project management for cloud genomics  |
+|------------------|------------------ | - Learn how to structure your data and metadata - Plan for an NGS project - Learn about the benefits of cloud computing  |
 | Wednesday 17 January 2024  | 10:00 - 13:00 | Session 2 - Data preparation and organisation               |
-| Monday 23 January 2024 | 10:00 - 13:00 | Session 3 - Assessing read quality; trimming and filtering reads |
+| Monday 23 January 2024 | 10:00 - 13:00 | Session 3 - Assessing read quality; trimming and filtering reads.
+Trimming and filtering, learn how to filter out poor quality data
+Assessing read quality |
 | Wednesday 25 January 2024 | 11:00 - 14:00 | Session 4 - Finding sequence variants                         |
 
 
