@@ -32,6 +32,7 @@
     "listing": "/upcoming_courses.html",
     "items": [
       "/upcoming/Code Retreat/index.html",
+      "/upcoming/Prenomics/index.html",
       "/upcoming/Genomics/index.html",
       "/upcoming/Core R/index.html",
       "/upcoming/NERC Metagenomics/index.html"
