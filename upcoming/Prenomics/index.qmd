@@ -1,0 +1,45 @@
+---
+title: "Prenomics"
+image: prenomics-card-narrow.png
+description: Learn the basics of command-line programming.
+---
+Prenomics teaches the basics of command-line programming, including: 
+(1) file directory structure, 
+(2) use of command-line utilities to connect to and use cloud computing and storage resources and 
+(3) basic shell commands for file navigation and basic script writing. 
+
+## Target audience 
+- Learners who are intending to do bioinformatics but do not have any prior experience. 
+- PhD Students & Researchers
+- Learners who wish to complete the Genomics Course
+
+## Registration
+There are 30 places available for this online workshop, please register using the [online form](https://forms.gle/Jwf4Hg1Kk6UKwbRo9). This course is free of charge. 
+
+## Pre-requisites 
+Knowledge: To ensure that you would benefit from participating in this course please complete the short self-assessment quiz [self-assessment quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/). 
+This course assumes no prior experience with the tools covered in the workshop however learners are expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. 
+Software: view the required [software set-up](https://cloud-span.github.io/00genomics/setup).
+
+## Programme 
+
+|                     |               |                                                                |
+|------------------|------------------|------------------------------------|
+| Wednesday 6 December 2023 | 10:00 - 12:30 | Session 1 - Project management for cloud genomics  |
+|                       |               | • Intro to local and remote files, hierarchical structure of files and folders <br> • Intro to the files which will be used in the Genomics course <br> • Logging onto the Cloud <br> • Introducing the Shell. |
+| Thursday 7 December 2023  | 10:00 - 12:30 | Session 2 - Using the command line               |
+|                       |               |  • Navigating Files and Directories <br> • Working with Files and Directories <br> • Redirection |
+
+## Learning outcomes 
+Following completion of this course, learners will be able to
+
+- explain the hierarchical structure of a file system
+- understand the structure of the file system on their own machine
+- find, create, move and delete folders and files on their machine
+- explain what is meant by a working directory, a path and a relative path
+- write down paths that they will need for the Prenomics and Genomics courses
+- describe the files and file structure used in Prenomics and Genomics courses
+- start a Terminal (Mac) or Git Bash Terminal (Windows)
+- navigate a file system using the command line
+- log in to and exit their AWS instance (the cloud)
+- use common commands such as ls, pwd and cd, on the command line 
