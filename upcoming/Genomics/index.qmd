@@ -4,8 +4,19 @@ image: genomics-card-narrow.png
 description: Learn data management and analytical skills for genomic research
 ---
 
+Genomics teaches data management and analysis for genomics research including:
+(1) best practices for organization of bioinformatics projects and data, 
+(2) use of command-line utilities to connect to and use cloud computing and storage resources, 
+(3) use of command-line tools for data preparation, 
+(4) use of command-line tools to analyze sequence quality and perform and automate variant calling.
+
+## Target audience 
+- Learners who have completed the Prenomics Course 
+- PhD Students & Researchers
+- This course would be appropriate for learners with experience using the command line, who are expecting to generate a dataset in the future or those who already have a dataset and would like guidance on how to analyse it. 
+
 ## Registration
-This course is free of charge, however we ask that you register for the Self-Study learning mode using the registration button below, so we have your details and we can provide you with additional information. 
+There are 30 places available for this online workshop, please register using the online form. This course is free of charge. 
 
 ## Pre-requisites 
 Knowledge: learners should have completed the Prenomics course or be able to successfully complete the self-assessment quiz. Learners are also expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Please note, you will need to complete the Creating your own instance course beforehand.
@@ -35,16 +46,14 @@ Instructors will give a demonstration on how to use the Integrative Genomics Vie
 |------------------|------------------|------------------------------------|
 | Monday 15 January 2024 | 10:00 - 13:00 | Session 1 - Project management for cloud genomics  |
 | Wednesday 17 January 2024  | 10:00 - 13:00 | Session 2 - Data preparation and organisation               |
-| Monday 15 January 2024 | 10:00 - 13:00 | Session 3 - Assessing read quality; trimming and filtering reads |
+| Monday 23 January 2024 | 10:00 - 13:00 | Session 3 - Assessing read quality; trimming and filtering reads |
 | Wednesday 25 January 2024 | 11:00 - 14:00 | Session 4 - Finding sequence variants                         |
 
-## Target audience 
-- Learners who have completed the Prenomics Course 
-- PhD Students & Researchers
-- This course would be appropriate for learners with experience using the command line, who are expecting to generate a dataset in the future or those who already have a dataset and would like guidance on how to analyse it. 
+
 
 ## Learning outcomes 
 Following completion of this course, learners will be able to
+
 - structure their data and metadata and plan for an NGS project
 - organise and document genomics data and bioinformatics workflows
 - understand what information is needed by a sequencing facility 
