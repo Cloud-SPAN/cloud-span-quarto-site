@@ -172,7 +172,7 @@
     "href": "upcoming/Genomics/index.html",
     "title": "Genomics",
     "section": "",
-    "text": "Genomics teaches data management and analysis for genomics research including:\n[] (1) best practices for organization of bioinformatics projects and data, [] (2) use of command-line utilities to connect to and use cloud computing and storage resources, [] (3) use of command-line tools for data preparation, [x] (4) use of command-line tools to analyze sequence quality and perform and automate variant calling."
+    "text": "Genomics teaches data management and analysis for genomics research including:\n(1) best practices for organization of bioinformatics projects and data,  (2) use of command-line utilities to connect to and use cloud computing and storage resources, * (3) use of command-line tools for data preparation, *(4) use of command-line tools to analyze sequence quality and perform and automate variant calling."
   },
   {
     "objectID": "upcoming/Genomics/index.html#target-audience",
@@ -193,7 +193,7 @@
     "href": "upcoming/Genomics/index.html#pre-requisites",
     "title": "Genomics",
     "section": "Pre-requisites",
-    "text": "Pre-requisites\nKnowledge: learners should have completed the Prenomics course or be able to successfully complete the (https://shiny.york.ac.uk/er13/prenomics-quiz/)[self-assessment quiz]. Learners are also expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Please note, you will need to complete the Creating your own instance course beforehand. Software: view the required (https://cloud-span.github.io/00genomics/setup)[software set-up]."
+    "text": "Pre-requisites\nKnowledge: learners should have completed the Prenomics course or be able to successfully complete the self-assessment quiz. Learners are also expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Please note, you will need to complete the Creating your own instance course beforehand. Software: view the required software set-up."
   },
   {
     "objectID": "upcoming/Genomics/index.html#programme",
