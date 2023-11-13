@@ -3,6 +3,11 @@ title: "Prenomics"
 image: prenomics-card-narrow.png
 description: Learn the basics of command-line programming.
 ---
+::: {.callout-note appearance="tip"}
+
+# Register using the [online form](https://forms.gle/MnuYycBuBfkpX7R18)
+:::
+
 Prenomics teaches the basics of command-line programming, including: 
 - file directory structure, 
 - use of command-line utilities to connect to and use cloud computing and storage resources and 
