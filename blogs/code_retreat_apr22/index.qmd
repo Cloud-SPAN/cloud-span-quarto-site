@@ -4,7 +4,7 @@ date: 2022/06/14
 author: Evelyn Greeves
 categories:
  - Announcements
- - Open science
+ - Behind-the-scenes
 ---
 
 **In April we held our first code retreat event: a chance for course alumni to come together and work on their own data problems with the support of Cloud-SPAN instructors. The event took place at the University of York, with several participants travelling from other institutions for the day.**

@@ -4,7 +4,7 @@ date: 2022/07/18
 author: Emma Rand
 categories:
  - Announcements
- - Open science
+ - External opportunities
 ---
 
 ### **Hello Cloud-SPAN community!**

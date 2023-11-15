@@ -3,7 +3,9 @@ title: "Making the Prenomics summary poster"
 date: 2022/07/06
 author: Evelyn Greeves
 categories:
-  - Open science
+  - Prenomics
+  - Behind-the-scenes
+  - Resources
 ---
 
 I recently designed a poster that acts as a “cheat sheet” for Cloud-SPAN’s Prenomics course. Here I’ll give a quick overview of my thought process while making the poster and how I chose what to include.

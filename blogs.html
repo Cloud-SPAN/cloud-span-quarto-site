@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.353">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Cloud-SPAN - Blogs</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/cloudspan_favicon_32x32.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 18,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-77HC85CPEX"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-77HC85CPEX', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"headline",
+  "consent_type":"implied",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary","functionality","tracking","targeting"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  });
+});
+</script> 
+  
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo_cloud_only.png" alt="" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./about.html" rel="" target="">
+ <span class="dropdown-text">About the project</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./cloud-span-aims.html" rel="" target="">
+ <span class="dropdown-text">Our aims</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./contact-us.html" rel="" target="">
+ <span class="dropdown-text">Contact us</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./self_study_courses.html" rel="" target="">
+ <span class="menu-text">self_study_courses.html</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./upcoming_courses.html" rel="" target="">
+ <span class="menu-text">Upcoming Courses</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./blogs.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Blogs</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Blogs</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(24)</span></div><div class="category" data-category="Announcements">Announcements <span class="quarto-category-count">(18)</span></div><div class="category" data-category="Behind-the-scenes">Behind-the-scenes <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Genomics">Genomics <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Open science">Open science <span class="quarto-category-count">(21)</span></div></div></div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Announcements,Open science" data-listing-date-sort="1683759600000" data-listing-file-modified-sort="1699442553677" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./blogs/2023-05-11/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blogs\2023-05-11\Core-R-icon-2.png" alt="A graphic showing the letter R in blue which represents the R programming language" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Online Core R Workshop
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+Join us for this free online two-hour workshop which provides an introduction to R for complete beginners. By the end of the course you will be able to;
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2023-05-11
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Announcements,Open science" data-listing-date-sort="1683586800000" data-listing-file-modified-sort="1699442553676" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./blogs/2023-05-09/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+🗓️ Save the date 20th June! 🗓️ NEW online workshop - Introduction to R
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+Join us for this free online two-hour workshop which provides an introduction to R for complete beginners.&nbsp; By the end of the course you will be able to;
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2023-05-09
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Announcements,Open science" data-listing-date-sort="1682463600000" data-listing-file-modified-sort="1699442553675" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./blogs/2023-04-26/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Congratulations to James Chong and the team!
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+Cloud-SPAN PI, Prof James Chong has recently been selected (as one of three globally) Oracle for Research Fellows for their Spring 2023 cohort.&nbsp; This industrially-funded…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2023-04-26
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Announcements,Open science" data-listing-date-sort="1681858800000" data-listing-file-modified-sort="1699442553673" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./blogs/2023-04-19a/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blogs\2023-04-19a\code-retreat-graphic-joao.png" alt="A graphic showing a photo and the comment of one our participants to a previous code retreat" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cloud-SPAN Code Retreat
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+We are excited to announce that our next Code Retreat will take place at 10:30-15:00 on…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2023-04-19
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Announcements,Open science" data-listing-date-sort="1681858800000" data-listing-file-modified-sort="1699442553674" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./blogs/2023-04-19b/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+NorthernBUG Meeting
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+We are pleased to announce that registration is open for the 9th…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2023-04-19
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Announcements,Open science" data-listing-date-sort="1675296000000" data-listing-file-modified-sort="1699442553669" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./blogs/2023-02-02/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blogs\2023-02-02\dumbbell_plot_p_11_22.png" alt="A graphic plot showing the feedback results for the Prenomics course" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+In depth: course feedback
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+We've finished our analysis of the feedback from our courses held at the end of last year: Prenomics, Genomics and…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2023-02-02
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Announcements,Open science" data-listing-date-sort="1671148800000" data-listing-file-modified-sort="1699442553662" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./blogs/2022-12-16a/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blogs\2022-12-16a\NorthernBUG scholarships graphic-02.png" alt="A graphic NortherBUG meeting." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+💸Scholarships to attend the Northern Bioinformatics User Group meeting 13th Jan
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+We have <strong>scholarships</strong> to cover expenses to attend the Northern Bioinformatics User Group (Northern BUG) meeting…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2022-12-16
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="Announcements,Open science" data-listing-date-sort="1671148800000" data-listing-file-modified-sort="1699442553666" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./blogs/2022-12-16b/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blogs\2022-12-16b\code-retreat-graphic-joao.png" alt="A graphic showing a photo and the comment of one our partic ipants to a previous code retreat" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cloud-SPAN Code Retreat
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+<strong>We are excited to announce that our next Code Retreat will take place on Monday…</strong>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2022-12-16
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Announcements,Open science" data-listing-date-sort="1667779200000" data-listing-file-modified-sort="1699442553660" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./blogs/2022-11-07/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+How do we support our learners?
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+Learning new skills can be difficult, and it's easy to go away from a course feeling like you're…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2022-11-07
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="Open science" data-listing-date-sort="1666047600000" data-listing-file-modified-sort="1699442553659" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./blogs/2022-10-18/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Prenomics: Lowering barriers to participation
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+For most of our new learners, the idea of doing things like using the command line and accessing the cloud is completely new and a bit overwhelming. But these are skills…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2022-10-18
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-categories="Announcements,Open science" data-listing-date-sort="1665442800000" data-listing-file-modified-sort="1699442553657" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./blogs/2022-10-11a/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+📢 Online workshop on FAIR data hosted by the UK Reproducibility Network
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+Just to let you know regarding an event happening on <strong>Wednesday 19th October</strong> which might be of interest: the UK Reproducibility Network are running an online workshop on FAIR data…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2022-10-11
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-categories="Announcements,Open science" data-listing-date-sort="1665442800000" data-listing-file-modified-sort="1699442553658" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./blogs/2022-10-11b/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Scholarships, funding and so much more!
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+Here at Cloud-SPAN HQ our official tagline is that we are here to upskill researchers and enable them to perform complex analyses on cloud-based platforms. Which we are…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2022-10-11
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="12" data-categories="Announcements,Open science" data-listing-date-sort="1662332400000" data-listing-file-modified-sort="1699442553656" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./blogs/2022-09-05/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cloud-SPAN awarded NERC funding to expand training courses
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+The Cloud-SPAN team has been awarded a grant to expand our training to the Natural Environment Research Council (NERC) remit under the Advanced training…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2022-09-05
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="13" data-categories="Open science" data-listing-date-sort="1661900400000" data-listing-file-modified-sort="1699442553655" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<a href="./blogs/2022-08-31/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blogs\2022-08-31\solutions to challenges no banner.png" alt="A graphic showing two icons that represent cloud computing (with a cloud) and training (with a graduation hat)" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Our Solutions to Challenges in Environmental ’Omics
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+Here’s what we’re doing at Cloud-SPAN to address the challenges we discussed previously.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2022-08-31
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="14" data-categories="Announcements,Open science" data-listing-date-sort="1658098800000" data-listing-file-modified-sort="1699442553654" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./blogs/2022-07-18/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blogs\2022-07-18\deebe03d-1966-4d41-9e2a-ec92ed6d867c.png" alt="Emma Rand's student, Chloe Brook, presenting her work at a Northern BUG meeting." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+💸Scholarships to attend the Northern Bioinformatics User Group meeting 9th September
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+We have <strong>scholarships</strong> to cover expenses to attend the Northern Bioinformatics User Group (Northern BUG) meeting to be held on September 9th 2022 at the University of Bradford.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Emma Rand
+</div>
+<div class="listing-date">
+2022-07-18
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="15" data-categories="Announcements,Open science" data-listing-date-sort="1657666800000" data-listing-file-modified-sort="1699442553653" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./blogs/2022-07-13/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blogs\2022-07-13\challenges 4x4 with bar.png" alt="A graphics showing four icons labelled Hardware, Time, Skills and Software, with a note Challenges in Environmental Omics and the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Challenges in Environmental ’Omics
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+The size and nature of…<strong></strong>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2022-07-13
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="16" data-categories="Open science" data-listing-date-sort="1657062000000" data-listing-file-modified-sort="1699442553652" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<a href="./blogs/2022-07-06/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="blogs\2022-07-06\prenomics poster command closeup.png" alt="A graphic showing an example of the mv command" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Making the Prenomics summary poster
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+I recently designed a…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2022-07-06
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="17" data-categories="Announcements,Open science" data-listing-date-sort="1656457200000" data-listing-file-modified-sort="1699442553650" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="./blogs/2022-06-29/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FAIR at Cloud-SPAN
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+Previously we shared some information about FAIR data, and explained why it’s important to make sure your data is as reusable as possible.&nbsp;
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2022-06-29
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="18" data-categories="Announcements,Open science" data-listing-date-sort="1655852400000" data-listing-file-modified-sort="1699442553649" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./blogs/2022-06-22/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img data-src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bioinformatics Meeting on ‘Career pathways into bioinformatics’
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+<strong>Join the University of York’s Bioinformatics Meeting on ‘Career pathways into bioinformatics’.</strong>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sarah Dowsland
+</div>
+<div class="listing-date">
+2022-06-22
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="19" data-categories="Announcements,Open science" data-listing-date-sort="1655161200000" data-listing-file-modified-sort="1699442553648" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./blogs/2022-06-14/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img data-src="blogs\2022-06-14\Group image Code Retreat.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Cloud-SPAN April Code Retreat
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+<strong>In April we held our first code retreat event: a chance for course alumni to come together and work on their own…</strong>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2022-06-14
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="20" data-categories="Genomics,Behind-the-scenes" data-listing-date-sort="1654642800000" data-listing-file-modified-sort="1699442553646" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./blogs/2022-06-08/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img data-src="images\logo_cloud_only.PNG" alt="A graphic showing the Cloud-SPAN logo." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+More online computational training for life scientists!
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Genomics'); return false;">
+Genomics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Behind-the-scenes'); return false;">
+Behind-the-scenes
+</div>
+</div>
+<div class="card-text listing-description">
+The Cloud-SPAN team would like to let you know about more opportunities for online training! Ed-DaSH from the University of Edinburgh, is a Data Science training…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Emma Rand
+</div>
+<div class="listing-date">
+2022-06-08
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="21" data-categories="Open science" data-listing-date-sort="1653951600000" data-listing-file-modified-sort="1698311012006" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<a href="./blogs/05-31-22/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img data-src="blogs\05-31-22\FAIR acronym graphic with attr.png" alt="A graphic showing the 4 FAIR Principles: Findable (illustrated with a magnifying glass), Accessible (illustrated with an open lock), Interoperable (illustrated with interlocking gears) and Reusable (illustrated with a green recycling symbol)" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What is FAIR data?
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Open science'); return false;">
+Open science
+</div>
+</div>
+<div class="card-text listing-description">
+At Cloud-SPAN we care deeply about making science as open as possible. A lot of this comes down to project management and data organisation - which we teach as part of our…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2022-05-31
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="22" data-categories="Genomics,Announcements" data-listing-date-sort="1653174000000" data-listing-file-modified-sort="1698311012005" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="./blogs/05-22-22/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img data-src="./blogs/05-22-22/stock_dna.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Genomics Self-Study now LIVE! 🧬
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Genomics'); return false;">
+Genomics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Announcements'); return false;">
+Announcements
+</div>
+</div>
+<div class="card-text listing-description">
+<strong>We are pleased to announce that the registration for Genomics self-study is now live!</strong>&nbsp;
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2022-05-22
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="23" data-categories="Genomics,Behind-the-scenes" data-listing-date-sort="1639440000000" data-listing-file-modified-sort="1698311012006" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<a href="./blogs/12-14-21/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img data-src="blogs\12-14-21\dumbbell plot g_11_21.png" alt="A dumbbell plot with each topic covered in the course on its own line. The graph indicates the rating given before the course was taken and the score after, with a line joining the two. For all topics the score increases, usually by two or so points." style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Course Update
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Genomics'); return false;">
+Genomics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Behind-the-scenes'); return false;">
+Behind-the-scenes
+</div>
+</div>
+<div class="card-text listing-description">
+Well, it’s been a couple of weeks since we ran our first course and we’ve certainly learned a lot from it!…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Evelyn Greeves
+</div>
+<div class="listing-date">
+2021-12-14
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">All content licensed under <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/Cloud-SPAN">
+      <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/SpanCloud">
+      <i class="bi bi-twitter" role="img" aria-label="Twitter">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="mailto:cloud-span-project@york.ac.uk">
+      <i class="bi bi-envelope" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    <div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+    <div class="nav-footer-right">Built with <i class="fa-solid fa-heart" title="a heart" aria-label="heart"></i> and <a href="https://quarto.org/">Quarto</a></div>
+  </div>
+</footer>
+
+
+
+</body></html>

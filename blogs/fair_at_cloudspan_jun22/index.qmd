@@ -3,8 +3,8 @@ title: "FAIR at Cloud-SPAN"
 date: 2022/06/29
 author: Evelyn Greeves
 categories:
- - Announcements
  - Open science
+ - Behind-the-scenes
 ---
 
 Previously we [shared some information about FAIR data](https://cloudspan.peerboard.com/post/776528452?space=1733297297), and explained why it’s important to make sure your data is as reusable as possible. 

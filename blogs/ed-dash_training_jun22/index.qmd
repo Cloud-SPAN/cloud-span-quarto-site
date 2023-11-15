@@ -3,8 +3,8 @@ title: "More online computational training for life scientists!"
 date: 2022/06/08
 author: Emma Rand
 categories:
- - Genomics
- - Behind-the-scenes
+- Announcements
+- External opportunities
 ---
 
 The Cloud-SPAN team would like to let you know about more opportunities for online training! [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/) from the University of Edinburgh, is a Data Science training programme for Health and Biosciences funded under the same scheme as Cloud-SPAN ([UKRI innovation scholars award](https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/)). Like Cloud-SPAN, Ed-DaSH is partnered with the [The Software Sustainability Institute](https://software.ac.uk/) and you will find similarities in our approach to teaching computational topics to life scientists. Their upcoming workshops are:
