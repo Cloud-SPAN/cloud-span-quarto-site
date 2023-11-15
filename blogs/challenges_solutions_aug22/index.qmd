@@ -3,7 +3,8 @@ title: "Our Solutions to Challenges in Environmental 'Omics"
 date: 2022/08/31
 author: Evelyn Greeves
 categories:
-  - Open science
+  - Environmental Omics
+  - Behind-the-scenes
 ---
 
 Here’s what we’re doing at Cloud-SPAN to address the challenges we [discussed previously](https://cloudspan.peerboard.com/post/1059779486).

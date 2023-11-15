@@ -4,6 +4,7 @@ date: 2022/10/11
 author: Sarah Dowsland
 categories:
  - Announcements
+ - External opportunities
  - Open science
 ---
 

@@ -3,8 +3,7 @@ title: "How do we support our learners?"
 date: 2022/11/07
 author: Evelyn Greeves
 categories:
- - Announcements
- - Open science
+ - Behind-the-scenes
 ---
 
 Learning new skills can be difficult, and it\'s easy to go away from a course feeling like you\'re even more confused than when you started! Here's what do we do at Cloud-SPAN to make sure all our learners complete our courses feeling confident in their newly-learned skills.

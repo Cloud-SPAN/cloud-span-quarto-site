@@ -3,8 +3,8 @@ title: "Scholarships, funding and so much more!"
 date: 2022/10/11
 author: Sarah Dowsland
 categories:
+ - Behind-the-scenes
  - Announcements
- - Open science
 ---
 
 Here at Cloud-SPAN HQ our official tagline is that we are here to upskill researchers and enable them to perform complex analyses on cloud-based platforms. Which we are achieving through the provision of training courses and online modules. However, as a member of the team who works behind the scenes as project manager, I feel that we are offering much more than that. 

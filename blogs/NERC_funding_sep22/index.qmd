@@ -4,7 +4,7 @@ date: 2022/09/05
 author: Sarah Dowsland
 categories:
  - Announcements
- - Open science
+ - Metagenomics
 ---
 
 The [Cloud-SPAN](https://cloud-span.york.ac.uk/) team has been awarded a grant to expand our training to the Natural Environment Research Council (NERC) remit under the [Advanced training for early-career environmental scientists](https://www.ukri.org/opportunity/run-advanced-training-for-early-career-environmental-scientists) call. We will be developing an accessible online course "Getting started with High Performance Computing: FAIR training for environmental scientists" using the same cloud-based infrastructure used in our [other courses](https://cloud-span.york.ac.uk/train-with-us). We will supply AWS services to up to 60 participants undertaking the course either in tutor-led workshops or by self-study.

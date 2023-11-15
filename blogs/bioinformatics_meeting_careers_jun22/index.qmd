@@ -4,7 +4,7 @@ date: 2022/06/22
 author: Sarah Dowsland
 categories:
  - Announcements
- - Open science
+ - External opportunities
 ---
 
 **Join the University of York's Bioinformatics Meeting on ‘Career pathways into bioinformatics’.**
