@@ -2,7 +2,6 @@
   {
     "listing": "/blogs.html",
     "items": [
-      "/blogs/Prenomics Dec 2023/index.html",
       "/blogs/2023-11-15/index.html",
       "/blogs/Prenomics-Dec-2023/index.html",
       "/blogs/2023-05-11/index.html",
@@ -32,14 +31,6 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
-    "listing": "/self_study_courses.html",
-    "items": []
-  },
-  {
     "listing": "/upcoming_courses.html",
     "items": [
       "/upcoming/Code Retreat/index.html",
@@ -48,5 +39,13 @@
       "/upcoming/Core R/index.html",
       "/upcoming/NERC Metagenomics/index.html"
     ]
+  },
+  {
+    "listing": "/self_study_courses.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": []
   }
 ]
