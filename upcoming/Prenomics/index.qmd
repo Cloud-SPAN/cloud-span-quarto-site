@@ -9,10 +9,11 @@ description: Learn the basics of command-line programming.
 :::
 
 Prenomics teaches the basics of command-line programming, including: 
-- file directory structure, 
-- use of command-line utilities to connect to and use cloud computing and storage resources and 
+- file directory structure 
+- use of command-line utilities to connect to and use cloud computing and storage resources 
 - basic shell commands for file navigation and basic script writing. 
 
+The next Prenomics course will take place on the 6-7 December 2023. 
 
 ## Target audience 
 - Learners who are intending to do bioinformatics but do not have any prior experience. 
@@ -50,3 +51,17 @@ Following completion of this course, learners will be able to
 - navigate a file system using the command line
 - log in to and exit their AWS instance (the cloud)
 - use common commands such as ls, pwd and cd, on the command line 
+
+## Scholarships 
+We offer scholarships to enable members of underrepresented groups and those with financial difficulties to participate in our training courses. 
+
+The scholarship scheme can cover approximately £150 per application, for costs such as:
+
+- childcare
+- accessibility needs
+- other costs that might otherwise prevent participation
+- second monitors and headsets.
+
+To request a scholarship please indicate this in the registration form, before 12 noon on Wednesday, 29 November December 2023. Submissions after this date will not be considered.
+We will contact you by Friday 1st  December to confirm whether you have been awarded a scholarship.
+
