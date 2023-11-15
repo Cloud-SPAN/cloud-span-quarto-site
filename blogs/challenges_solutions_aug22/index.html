@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Sarah Dowsland">
-<meta name="dcterms.date" content="2022-12-16">
+<meta name="author" content="Evelyn Greeves">
+<meta name="dcterms.date" content="2022-08-31">
 
-<title>Cloud-SPAN - 💸Scholarships to attend the Northern Bioinformatics User Group meeting 13th Jan</title>
+<title>Cloud-SPAN - Our Solutions to Challenges in Environmental ’Omics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -62,7 +62,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-77HC85CPEX"></script>
@@ -136,7 +137,7 @@ cookieconsent.run({
   </li>
   <li class="nav-item">
     <a class="nav-link" href="../../self_study_courses.html" rel="" target="">
- <span class="menu-text">self_study_courses.html</span></a>
+ <span class="menu-text">Self-study Courses</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../upcoming_courses.html" rel="" target="">
@@ -163,10 +164,10 @@ cookieconsent.run({
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">💸Scholarships to attend the Northern Bioinformatics User Group meeting 13th Jan</h1>
+<h1 class="title">Our Solutions to Challenges in Environmental ’Omics</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Announcements</div>
-    <div class="quarto-category">Open science</div>
+    <div class="quarto-category">Environmental Omics</div>
+    <div class="quarto-category">Behind-the-scenes</div>
   </div>
   </div>
 
@@ -177,14 +178,14 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Sarah Dowsland </p>
+             <p>Evelyn Greeves </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2022-12-16</p>
+      <p class="date">2022-08-31</p>
     </div>
   </div>
   
@@ -194,18 +195,53 @@ cookieconsent.run({
 
 </header>
 
-<p>We have <strong>scholarships</strong> to cover expenses to attend the <a href="https://northernbug.github.io/">Northern Bioinformatics User Group (Northern BUG)</a> meeting to be held on Friday 13th January 2023 at the University of Huddersfield.</p>
-<p>NorthernBUG is a network of bioinformaticians and users or bioinformatics services in the north of England which hold quarterly meetings to build a community of researchers and others using big data in biology. NorthernBUG meetings are open to <strong>anyone</strong> interested in bioinformatics or its application in life science research and beyond. <strong>Meetings are free</strong> and early career researchers are especially encouraged career to attend and present their work. It's a great forum to practice your talks, float new ideas and approaches, and present early work.</p>
-<p>We have scholarships to cover travel expenses for <strong>five</strong> of our Cloud-SPAN ‘graduates’ to attend NBUG. <a href="https://northernbug.github.io/2022/11/07/northernbug8-is-on-huddersfield-13-Jan-2023.html"><strong>Register for</strong> <strong>NBUG</strong></a> <strong>and complete a scholarship application with us</strong> <a href="https://forms.gle/T3EEoKKyZmatrmRF6">here</a> <strong>by Thursday 5th January 2023.</strong></p>
-<p>If you are interested in attending our <a href="https://cloud-span.york.ac.uk/self_study_courses.html">free training courses</a> please visit our website for further information.</p>
+<p>Here’s what we’re doing at Cloud-SPAN to address the challenges we <a href="https://cloudspan.peerboard.com/post/1059779486">discussed previously</a>.</p>
+<p>Just to recap, here are our four main challenges:</p>
+<ul>
+<li><p><strong>Hardware</strong> - the size and nature of ’omics data means high performance computing (HPC) resources are needed, which are rapidly evolving and differ between institutions.</p></li>
+<li><p><strong>Software</strong> - software used for analysis has a steep learning curve, can be difficult to install and tends to have limited teaching resources.</p></li>
+<li><p><strong>Skills</strong> - using HPC requires skills many scientists do not have, such as using the command line and specifying resources.</p></li>
+<li><p><strong>Time</strong> - there are time investments needed for learning new skills, running long analysis scripts and interpreting the results.</p></li>
+</ul>
+<p>At Cloud-SPAN we have two main weapons in our arsenal against these challenges: <strong>cloud computing</strong> and <strong>training</strong>. Let’s look at each of those in detail.</p>
+<section id="cloud-hpc" class="level2">
+<h2 class="anchored" data-anchor-id="cloud-hpc"><strong>Cloud HPC</strong></h2>
+<p>We use <strong>commercially-available cloud computing resources</strong> to address the challenges of hardware, software and time.</p>
+<p>Here’s how it works: we teach our courses inside a <strong>containerised instance</strong>, which is a virtual environment containing <strong>pre-loaded software and files</strong>. The instance runs on hardware borrowed from a commercial provider (in our case, Amazon Web Services). All our learners have to do is log into the cloud instance we provide, and they will have access to <strong>all of the software and data</strong> used in the course. The instances all start out identical, so the file structure always looks the same, and they run on enough borrowed resources to make analysis relatively quick and easy.</p>
+<p>Using this kind of pre-loaded instance benefits our learners by <strong>removing complications</strong> around different HPC setups and the installation of software onto a cluster. It also makes it <strong>easier for us to teach</strong> - we know that everyone is starting with the same setup, so we can offer our courses to anyone regardless of institution. It allows us to <strong>model best practices</strong> for directory structure and project organisation, and <strong>save time</strong> when troubleshooting issues.</p>
+<p>Another major advantage of running analyses on cloud resources is that we <strong>don’t have to wait in a queue</strong> for resources to be available, as we’ve already loaned out the resources we need. This can save a lot of time for large analyses, and is especially useful for teaching.</p>
+<p>After completing one of our courses, learners can go away and apply their new skills to their own data by <strong>setting up their own cloud instance</strong>, which is identical to the one used in the course. It contains all the same software and basic file structures, so provides a familiar environment for further learning and analysis. Using these kinds of services outside of the course does incur a cost, but we also support learners in applying for <strong>research credits</strong>.</p>
+</section>
+<section id="training" class="level2">
+<h2 class="anchored" data-anchor-id="training"><strong>Training</strong></h2>
+<p>Our other main solution is providing <strong>high quality, free-of-charge training courses</strong> with a low barrier to entry and no assumptions of prior knowledge. These courses allow us to address challenges around <strong>skills and the skills gap</strong>.</p>
+<p>All of our courses are underpinned by a <strong>core ‘Prenomics’ module</strong>, which provides a supportive and carefully paced introduction to navigating directories and using the UNIX command line. Accessing the cloud HPC services described above is impossible without these skills. Using our purpose-built environment we guide new learners through the basics with a strong focus on <strong>contextualising new skills</strong> within the field of environmental ’omics.</p>
+<p>We also provide core modules in using the programming language <strong>R</strong>, again with a focus on analysis and visualisation of ’omics data, and on <strong>creating cloud instances</strong>.</p>
+<p>Our <strong>specialised courses</strong> follow on from Prenomics and cover topics such as genomics, metagenomics, automating analyses and designing statistically useful experiments. Again, we keep the barrier to participation low by <strong>contextualising learning</strong> and <strong>keeping new ideas to the bare minimum</strong> - no frills!&nbsp;</p>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary"><strong>Summary</strong></h2>
+<p>In summary, the Cloud-SPAN project combines <strong>high-quality training</strong> with <strong>cloud computing expertise</strong> to address four major challenges in the field of environmental ’omics. Using our unique containerised instances we can provide <strong>adequate resources for efficient analysis</strong> with <strong>software pre-installed</strong>, saving time and effort. Our courses are designed to equip learners with the skills they need to perform analyses on these cloud instances and beyond, with the overall aim to <strong>lessen the load of learning</strong> on the backs of researchers and help them <strong>improve analysis times and efficiency</strong>.</p>
+<p>Our <strong>containerised instances</strong> solve the challenges of:</p>
+<ul>
+<li><p><strong>Hardware</strong>, by providing a harmonised HPC platform across institutions and potentially increasing the compute resources available to individuals.</p></li>
+<li><p><strong>Software</strong>, by providing pre-installed software which removes the time-consuming step of software installation.</p></li>
+<li><p><strong>Time</strong>, by speeding up analyses and eradicating the need to queue to access HPC.</p></li>
+</ul>
+<p>Our <strong>training approach</strong> solves the challenge of:</p>
+<ul>
+<li><strong>Skills</strong>, by ensuring a low barrier to participation and equipping researchers with vital skills.</li>
+</ul>
+<p>Find out for yourself how our solutions to these challenges could benefit you. <a href="https://cloud-span.york.ac.uk/train-with-us">Read more about the courses we offer</a> or take a look at our introductory <a href="https://cloud-span.github.io/prenomics00-intro/">‘Prenomics’ course materials</a> or <a href="https://cloud-span.github.io/00genomics/">specialised Genomics course</a> to see how our training can equip you better</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="NorthernBUG scholarships graphic-02.png" class="img-fluid figure-img" alt="A graphic NortherBUG meeting." width="600"></p>
+<p><img src="solutions to challenges no banner.png" class="img-fluid figure-img" alt="A graphic showing two icons that represent cloud computing (with a cloud) and training (with a graduation hat)" width="600"></p>
 <figcaption class="figure-caption">.</figcaption>
 </figure>
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
