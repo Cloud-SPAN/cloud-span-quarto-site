@@ -1,34 +1,36 @@
 ---
-title: "New Prenomics Workshop"
+title: "Prenomics and Genomics"
 date: 2023/11/15
 author: Sarah Dowsland
 categories:
   - Prenomics
   - Open science
+  - Genomics
 ---
 
-For most of our new learners, the idea of doing things like using the command line and accessing the cloud is completely new and a bit overwhelming. But these are skills which, once learned, can totally transform how you do your analysis. That’s why Cloud-SPAN offers a core ‘Prenomics’ course to help you gain confidence in these key skills and prepare you for the Genomics course.
+We are excited to announce that registration is now open for Prenomics and Genomics.
 
-Join us for our next online workshop which will take place on the 6-7 December 2023. 
+Join us for our next set of online workshops!
+
 
 ::: {.callout-note appearance="tip"}
 
-# Register using the [online form](https://forms.gle/MnuYycBuBfkpX7R18)
+# Register for Prenomics 6-7 December 2023 using the [online form](https://forms.gle/MnuYycBuBfkpX7R18)
 
 :::
 
-## **How Prenomics was born**
+In Prenomics, all the focus is on the command line. We teach about files and directory structure, and spend lots of time guiding learners through creating a folder and navigating to it without using the command line. We also teach those crucial core skills - commonly used commands like `ls`, `cd` and `mv`. Later, as learners gain confidence, we move on to more complex commands like grep and redirection with `>` and `>>`.
 
-When we ran our first Genomics course in autumn 2021, we discovered that a major sticking point for many participants was directory structure and navigation. This was making it really difficult to help people log into the cloud, where we could then teach them core command line skills. We spent much more time troubleshooting and going over these basic skills than we’d expected, meaning we had to rush through more complex content later on about analysis tools and pipelines. 
+View the [course materials.](https://cloud-span.github.io/prenomics00-intro/)
 
-Overall, this meant our learners began their command line journey from a place of frustration (which has a huge impact on confidence) and we were forced to minimise the amount of time spent on the ‘genomics’ part of the Genomics course.
+::: {.callout-note appearance="tip"}
 
-As a result, we split the original Genomics curriculum across two courses: Prenomics and Genomics. In Prenomics, all the focus is on the command line. We teach about files and directory structure, and spend lots of time guiding learners through creating a folder and navigating to it without using the command line. We also teach those crucial core skills - commonly used commands like `ls`, `cd` and `mv`. Later, as learners gain confidence, we move on to more complex commands like grep and redirection with `>` and `>>`.
+# Register for Genomics 15-25 January 2023 using the [online form](https://forms.gle/Jwf4Hg1Kk6UKwbRo9)
 
-## **Why is Prenomics important?**
+:::
 
-Separating the curriculum into two courses has several benefits. Most importantly, it gives us lots more time to dedicate to core skills and troubleshooting. It also gives us more time to spend on Genomics, as learners start that course already confident about their command line abilities. Plus, those already familiar with the command line can skip Prenomics and go straight to Genomics.
+Genomics is taught over 4 sessions and teaches best practice for organization of bioinformatics projects and data. You will log onto a cloud instance and start navigating using the command line. During the sessions you will be taught how to assess read quality as well as trimming and filtering reads. In the final session you explore how to how to align reads to a reference genome, identify and visualise between-sample variation.
 
-And it works! We know this because we collect evaluation feedback from participants both before and after the course, asking them to evaluate their understanding of various topics. After we ran the newly designed Prenomics/Genomics combo course in Spring 2022, we compared the understanding scores of learners across three general themes of Command Line, Genomics and Project Organisation (a higher number means a higher level of understanding, with no understanding being 1 and most confident understanding being 6).
+View the [course materials.](https://cloud-span.github.io/00genomics/)  
 
 ![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
