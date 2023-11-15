@@ -172,7 +172,7 @@
     "href": "upcoming/Genomics/index.html",
     "title": "Genomics",
     "section": "",
-    "text": "Register using the online form\nGenomics teaches data management and analysis for genomics research including:"
+    "text": "Register using the online form\nGenomics teaches data management and analysis for genomics research including:\nThe next online Genomics workshop will take place from 15-25 January 2024."
   },
   {
     "objectID": "upcoming/Genomics/index.html#target-audience",
@@ -193,7 +193,7 @@
     "href": "upcoming/Genomics/index.html#pre-requisites",
     "title": "Genomics",
     "section": "Pre-requisites",
-    "text": "Pre-requisites\nKnowledge: learners should have completed the Prenomics course or be able to successfully complete the self-assessment quiz. Learners are also expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Please note, you will need to complete the Creating your own instance course beforehand. Software: view the required software set-up."
+    "text": "Pre-requisites\nKnowledge: learners should have completed the Prenomics course or be able to successfully complete the self-assessment quiz. Learners are also expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Software: view the required software set-up."
   },
   {
     "objectID": "upcoming/Genomics/index.html#programme",
@@ -208,6 +208,13 @@
     "title": "Genomics",
     "section": "Learning outcomes",
     "text": "Learning outcomes\nFollowing completion of this course, learners will be able to\n\nstructure their data and metadata and plan for an NGS project\norganise and document genomics data and bioinformatics workflows\nunderstand what information is needed by a sequencing facility\ngain practice navigating file systems, creating, copying, moving, and removing files and directories\nuse command-line tools to assess read quality and perform quality control\nalign reads to a reference genome, and identify and visualise sequence variants\nwork with Amazon AWS cloud computing and transfer data between a local computer and cloud resources"
+  },
+  {
+    "objectID": "upcoming/Genomics/index.html#scholarships",
+    "href": "upcoming/Genomics/index.html#scholarships",
+    "title": "Genomics",
+    "section": "Scholarships",
+    "text": "Scholarships\nWe offer scholarships to enable members of underrepresented groups and those with financial difficulties to participate in our training courses.\nThe scholarship scheme can cover approximately £150 per application, for costs such as:\n\nchildcare\naccessibility needs\nother costs that might otherwise prevent participation\nsecond monitors and headsets.\n\nYou will need to reclaim these expenses by completing a form and submitting receipts after participation in the course.\nTo request a scholarship please indicate this in the registration form, before 12 noon on Monday, 18 December 2023. Submissions after this date will not be considered. We will contact you by Friday 22rd December to confirm whether you have been awarded a scholarship."
   },
   {
     "objectID": "upcoming/Code Retreat/index.html",
