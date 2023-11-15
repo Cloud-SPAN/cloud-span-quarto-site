@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Evelyn Greeves">
-<meta name="dcterms.date" content="2022-06-14">
+<meta name="dcterms.date" content="2022-06-29">
 
-<title>Cloud-SPAN - Cloud-SPAN April Code Retreat</title>
+<title>Cloud-SPAN - FAIR at Cloud-SPAN</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -62,7 +62,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-77HC85CPEX"></script>
@@ -136,7 +137,7 @@ cookieconsent.run({
   </li>
   <li class="nav-item">
     <a class="nav-link" href="../../self_study_courses.html" rel="" target="">
- <span class="menu-text">self_study_courses.html</span></a>
+ <span class="menu-text">Self-study Courses</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../upcoming_courses.html" rel="" target="">
@@ -163,10 +164,10 @@ cookieconsent.run({
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Cloud-SPAN April Code Retreat</h1>
+<h1 class="title">FAIR at Cloud-SPAN</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Announcements</div>
     <div class="quarto-category">Open science</div>
+    <div class="quarto-category">Behind-the-scenes</div>
   </div>
   </div>
 
@@ -184,7 +185,7 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2022-06-14</p>
+      <p class="date">2022-06-29</p>
     </div>
   </div>
   
@@ -194,29 +195,39 @@ cookieconsent.run({
 
 </header>
 
-<p><strong>In April we held our first code retreat event: a chance for course alumni to come together and work on their own data problems with the support of Cloud-SPAN instructors. The event took place at the University of York, with several participants travelling from other institutions for the day.</strong></p>
-<p>Some people took the opportunity to revisit course materials and ask questions about the topics they didn’t understand. There were plenty of helpers on hand to answer questions and test understanding.</p>
-<p>Others chose to apply the workflows and analyses taught in the Genomics course to their own datasets. Again, helpers were on hand to discuss topics such as:</p>
-<ul>
-<li><p>how to organise bioinformatics projects;</p></li>
-<li><p>which tools are most effective;</p></li>
-<li><p>how to approach a problem;</p></li>
-<li><p>what analysis is best for a certain type of data;</p></li>
-</ul>
-<p>as well as many others.&nbsp;</p>
-<p>Some participants knew what help they needed and had specific questions to address during the day. Those with a less clear understanding of their problem benefited from talking through their data and getting guidance from our experienced instructors. Some even tried out new software tools not discussed during the course.</p>
-<p>Finally, some participants decided to trial our new self-study course on creating your own Amazon Web Services cloud instance. They were able to ask questions about the content and provided valuable feedback on which parts of the course needed improvement.</p>
-<p>Everyone enjoyed the chance to meet new people and find out about each others’ research. It was a great chance to network and build some community amongst course alumni.</p>
-<p>Our next code retreat for Cloud-SPAN course alumni will be on <strong>July 6th</strong> at the <strong>University of York</strong>. We cover travel expenses and lunch is provided. We’re looking forward to meeting more of our community members and providing valuable one-to-one support!</p>
-<p><strong>Contact us at</strong> <u><strong>cloud-span-project@york.ac.uk</strong></u> <strong>to sign up.</strong></p>
-<div class="quarto-figure quarto-figure-left">
+<p>Previously we <a href="https://cloudspan.peerboard.com/post/776528452?space=1733297297">shared some information about FAIR data</a>, and explained why it’s important to make sure your data is as reusable as possible.&nbsp;</p>
+<p>The FAIR principles aren’t just for data. Our aim is to apply the principles to all our training resources to ensure that they can be reused and remixed by others for their own teaching purposes. Here’s a look at how we’re doing it:</p>
+<section id="findable" class="level3">
+<h3 class="anchored" data-anchor-id="findable"><strong>Findable</strong></h3>
+<p>Remember, findability is about making it easy to find your data or resource. We’ve added metadata to our resources, which enables us to register our courses with <a href="https://tess.elixir-europe.org/">TeSS</a>, a life sciences training repository. The metadata means people can search and filter to find our course based on what they need. You can see the metadata for our Prenomics course at the top of the source page <a href="https://raw.githubusercontent.com/Cloud-SPAN/prenomics00-intro/gh-pages/index.md">here</a>.</p>
+<p>In addition, we have also registered our training resources on <a href="https://zenodo.org/communities/cloud-span/?page=1&amp;size=20">Zenodo</a>, another repository which assigns a <a href="https://www.doi.org/">DOI</a> to each stored item. This persistent identifier will give our resources a permanent home, even after other links become deprecated.</p>
+</section>
+<section id="accessible" class="level3">
+<h3 class="anchored" data-anchor-id="accessible"><strong>Accessible</strong></h3>
+<p>To be accessible it needs to be easy to retrieve a resource without any special tools. It should also be clear how to do this. We’ve made this really easy for ourselves by hosting our courses online for free on a <a href="https://cloud-span.github.io/prenomics00-intro/">dedicated set of webpages</a> via <a href="https://pages.github.com/">GitHub Pages</a>.</p>
+</section>
+<section id="interoperable" class="level3">
+<h3 class="anchored" data-anchor-id="interoperable"><strong>Interoperable</strong></h3>
+<p>Interoperability means ensuring that computers can understand and open a resource. We do this by providing data for analysis in de facto file standards such as FASTQ and using <a href="https://www.markdownguide.org/getting-started/">Markdown</a> (a widely-used and platform-independent text formatting language for writing resources) for course material.</p>
+<p>We also help computers to understand how our resources fit into a bigger picture by using an ‘ontology’ to describe the topics of our courses. This forms part of the metadata and helps people to filter and understand what our resources are about. For example, we use the <a href="https://edamontology.org/page">EDAM ontology of bioscientific data analysis and data management</a>. We’ve labelled our Prenomics course as falling under topics <a href="https://bioportal.bioontology.org/ontologies/EDAM?p=classes&amp;conceptid=topic_3372">3372 (software engineering)</a> and <a href="https://bioportal.bioontology.org/ontologies/EDAM?p=classes&amp;conceptid=topic_0622">0622 (genomics)</a>.</p>
+</section>
+<section id="reusable" class="level3">
+<h3 class="anchored" data-anchor-id="reusable"><strong>Reusable</strong></h3>
+<p>All of the things just described help promote reusability. In particular, we promote reusability by tagging our resources with rich metadata - we use the <a href="https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE">Bioschemas Training Material protocol</a> which suggests a list of metadata properties for biosciences training materials.</p>
+<p>We also help people reuse our materials by applying a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution (CC-BY)</a> licence, which means anyone can distribute, remix, adapt or build on our work as long as they credit us. We include details of this licence in our metadata, <a href="https://github.com/Cloud-SPAN/cloud-span-theme/blob/main/_includes/cs-common-content/LICENSE.md">in our GitHub repositories</a> and at the bottom of our course pages so it’s clear to everyone what the rules are.</p>
+</section>
+<section id="over-to-you" class="level3">
+<h3 class="anchored" data-anchor-id="over-to-you"><strong>Over to you!</strong></h3>
+<p>What steps are you taking to make your data and other digital resources as FAIR as possible? There are some great resources available online to help you if you’re not sure where to start - try <a href="https://howtofair.dk/">howtofair.dk</a> or the <a href="https://faircookbook.elixir-europe.org/content/home.html">FAIR Cookbook</a> for helpful articles, videos and step-by-step guides!</p>
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="Group image Code Retreat.jpeg" class="img-fluid figure-img" alt="" width="600"></p>
-<figcaption class="figure-caption">Image: Instructors and course alumni at April’s code retreat.</figcaption>
+<p><img src="../../images/logo_cloud_only.PNG" class="img-fluid figure-img" alt="A graphic showing the Cloud-SPAN logo." width="600"></p>
+<figcaption class="figure-caption">.</figcaption>
 </figure>
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

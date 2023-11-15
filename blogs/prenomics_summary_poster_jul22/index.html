@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Evelyn Greeves">
-<meta name="dcterms.date" content="2022-06-14">
+<meta name="dcterms.date" content="2022-07-06">
 
-<title>Cloud-SPAN - Cloud-SPAN April Code Retreat</title>
+<title>Cloud-SPAN - Making the Prenomics summary poster</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -62,7 +62,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-77HC85CPEX"></script>
@@ -136,7 +137,7 @@ cookieconsent.run({
   </li>
   <li class="nav-item">
     <a class="nav-link" href="../../self_study_courses.html" rel="" target="">
- <span class="menu-text">self_study_courses.html</span></a>
+ <span class="menu-text">Self-study Courses</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../upcoming_courses.html" rel="" target="">
@@ -163,10 +164,11 @@ cookieconsent.run({
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Cloud-SPAN April Code Retreat</h1>
+<h1 class="title">Making the Prenomics summary poster</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Announcements</div>
-    <div class="quarto-category">Open science</div>
+    <div class="quarto-category">Prenomics</div>
+    <div class="quarto-category">Behind-the-scenes</div>
+    <div class="quarto-category">Resources</div>
   </div>
   </div>
 
@@ -184,7 +186,7 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2022-06-14</p>
+      <p class="date">2022-07-06</p>
     </div>
   </div>
   
@@ -194,29 +196,63 @@ cookieconsent.run({
 
 </header>
 
-<p><strong>In April we held our first code retreat event: a chance for course alumni to come together and work on their own data problems with the support of Cloud-SPAN instructors. The event took place at the University of York, with several participants travelling from other institutions for the day.</strong></p>
-<p>Some people took the opportunity to revisit course materials and ask questions about the topics they didn’t understand. There were plenty of helpers on hand to answer questions and test understanding.</p>
-<p>Others chose to apply the workflows and analyses taught in the Genomics course to their own datasets. Again, helpers were on hand to discuss topics such as:</p>
-<ul>
-<li><p>how to organise bioinformatics projects;</p></li>
-<li><p>which tools are most effective;</p></li>
-<li><p>how to approach a problem;</p></li>
-<li><p>what analysis is best for a certain type of data;</p></li>
-</ul>
-<p>as well as many others.&nbsp;</p>
-<p>Some participants knew what help they needed and had specific questions to address during the day. Those with a less clear understanding of their problem benefited from talking through their data and getting guidance from our experienced instructors. Some even tried out new software tools not discussed during the course.</p>
-<p>Finally, some participants decided to trial our new self-study course on creating your own Amazon Web Services cloud instance. They were able to ask questions about the content and provided valuable feedback on which parts of the course needed improvement.</p>
-<p>Everyone enjoyed the chance to meet new people and find out about each others’ research. It was a great chance to network and build some community amongst course alumni.</p>
-<p>Our next code retreat for Cloud-SPAN course alumni will be on <strong>July 6th</strong> at the <strong>University of York</strong>. We cover travel expenses and lunch is provided. We’re looking forward to meeting more of our community members and providing valuable one-to-one support!</p>
-<p><strong>Contact us at</strong> <u><strong>cloud-span-project@york.ac.uk</strong></u> <strong>to sign up.</strong></p>
-<div class="quarto-figure quarto-figure-left">
+<p>I recently designed a poster that acts as a “cheat sheet” for Cloud-SPAN’s Prenomics course. Here I’ll give a quick overview of my thought process while making the poster and how I chose what to include.</p>
+<section id="command-cheatsheet" class="level3">
+<h3 class="anchored" data-anchor-id="command-cheatsheet"><strong>Command cheatsheet</strong></h3>
+<p>I started with the command cheatsheet, which is a bit back-to-front given that the command line comes chronologically last in the course. However, it seemed like an easy entry point. I had previously produced a <a href="https://cloudspan.peerboard.com/post/2007971196">glossary</a> for Prenomics, so I took this and organised the commands into logical groupings based on their function.&nbsp;</p>
+<p>I ended up with four groups: navigating files, viewing files, editing files and searching files. There were two commands which didn’t fit into these groups, which were history and man. I tried to find a way to include them, but ultimately left them out as I decided they were not crucial knowledge.</p>
+<p>I tried to format the commands in a way that made it clear how to use them while still keeping it general and easily readable. I used colour to clarify which parts of the command corresponded to which parts of the explanation. For example:</p>
+<div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="Group image Code Retreat.jpeg" class="img-fluid figure-img" alt="" width="600"></p>
-<figcaption class="figure-caption">Image: Instructors and course alumni at April’s code retreat.</figcaption>
+<p><img src="prenomics poster command closeup.png" class="img-fluid figure-img" alt="A graphic showing an example of the mv command" width="600"></p>
+<figcaption class="figure-caption">.</figcaption>
+</figure>
+</div>
+<p>In this case ‘file’ (the file to be moved) is pale blue while ‘directory’ (the location to which the file should be moved) is dark blue. I also used underlining to indicate where the command came from - in this case, mv comes from the m and the v of ‘move’. My aim here was to aid recall of the command in future, as hopefully it will help the reader make a stronger mental connection between the command <code>mv</code> and its function (‘move a file’).</p>
+</section>
+<section id="files-paths-and-file-types" class="level3">
+<h3 class="anchored" data-anchor-id="files-paths-and-file-types"><strong>Files, paths and file types</strong></h3>
+<p>The command line makes up a significant portion of the Prenomics course, but it could be summarised in a relatively small amount of space. To work out what else should be included, I looked at the course more holistically. The first lesson of the course is about files and directories, so it was clear to me that there needed to be a section about this. This lesson also covers the file types used in the course, including .FASTQ and .PEM files which are likely to be new to most learners, so I wanted to include this too.</p>
+<p>I found it difficult to summarise the information about file paths and directories into a mostly graphical format. In particular, I found that I couldn’t rely on giving examples as much as we do in the course itself, due to the need to reduce text as much as possible. I ended up just including definitions of absolute and relative paths, along with a diagram of the file system inside the Cloud-SPAN AWS instance.</p>
+<p>If I’d had space, I would have included more information on working directories and examples of how the file system diagram can be represented with file paths.</p>
+</section>
+<section id="why-use" class="level3">
+<h3 class="anchored" data-anchor-id="why-use"><strong>Why use…?</strong></h3>
+<p>The next sections I designed were the ‘Why learn command line?’ and ‘Why use the cloud?’ sections.</p>
+<p>The question of why the command line is useful is covered in <a href="https://cloud-span.github.io/prenomics01-file-directories/03-shell-introduction/index.html">episode three of the first day of Prenomics</a>, as part of the introduction to the shell. I distilled the reasons given here down into four main themes: automation of repetitive tasks, reducing human error (as a result of automation), improving reproducibility and the ability to access new tools (either because the command line offers more functionality or because it opens up use of high performance computing systems (HPC) such as the cloud).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="prenomics command line only.png" class="img-fluid figure-img" alt="A graphic showing various icons representing the benefits of knowing the command line." width="600"></p>
+<figcaption class="figure-caption">.</figcaption>
+</figure>
+</div>
+<p>The other question- why cloud computing is useful- is not technically covered in Prenomics material. However, it is <a href="https://cloud-span.github.io/01genomics/04-why-cloud-computing/index.html">discussed in our Genomics course</a>, where the three reasons given for using HPC are lack of resources needed to run analyses, analyses taking a long time to run and problems installing software. These reasons align closely with three of the challenges identified by Cloud-SPAN project lead, James Chong, as facing the field of metagenomics (hardware, time and software).</p>
+<p>However, these reasons could actually be used as a reason to use any kind of HPC resource, not just the cloud. I wanted to include reasons specific to the cloud. The two major reasons I came across were the ability to share software or data containers across different institutions, and use of the cloud when other HPC is inaccessible.&nbsp;</p>
+<p>In an earlier version of the poster, the ‘why use cloud?’ section was framed in terms of challenges that users might face, such as long analysis times or issues installing software. I reworded this section to match the framing of the ‘why learn command line?’ section; that is, a solutions-oriented summary, with ‘shorten analysis times’ replacing ‘long analysis times’ and ‘use pre-installed software’’ replacing ‘issues installing software’.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="prenomics why cloud only.png" class="img-fluid figure-img" alt="A graphic showing various icons representing the benefits of using cloud computing" width="600"></p>
+<figcaption class="figure-caption">.</figcaption>
+</figure>
+</div>
+</section>
+<section id="file-types" class="level3">
+<h3 class="anchored" data-anchor-id="file-types"><strong>File types</strong></h3>
+<p>Lastly I wanted to include a brief summary of the file types used in the Prenomics course, as it is likely that two out of three of these will be new to learners. This part was quite easy - I just wrote a short sentence to describe each file type and paired it with the relevant file extension.</p>
+<p>In the course a significant amount of time is dedicated to introducing the .fastq file structure, which codes sequencing data into a text format with four lines per read. I considered including this information but I didn’t have room.</p>
+</section>
+<section id="the-big-reveal" class="level3">
+<h3 class="anchored" data-anchor-id="the-big-reveal"><strong>The big reveal…</strong></h3>
+<p>And finally, here’s the full poster! You can download a high-res version of the poster for your own enjoyment <a href="https://drive.google.com/file/d/1WTdycnsieJ0QXjUDaiNsegbEtm_UIaIl/view?usp=sharing">here</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Prenomics poster small.png" class="img-fluid figure-img" alt="A graphic showing the last version of Prenomics Summary Poster" width="800"></p>
+<figcaption class="figure-caption">.</figcaption>
 </figure>
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
