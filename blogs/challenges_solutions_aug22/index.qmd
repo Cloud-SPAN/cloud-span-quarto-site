@@ -3,7 +3,7 @@ title: "Our Solutions to Challenges in Environmental 'Omics"
 date: 2022/08/31
 author: Evelyn Greeves
 categories:
-  - Environmental Omics
+  - Environmental omics
   - Behind-the-scenes
 ---
 
