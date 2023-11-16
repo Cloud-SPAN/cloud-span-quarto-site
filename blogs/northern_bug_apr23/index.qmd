@@ -4,7 +4,7 @@ date: 2023/04/19
 author: Sarah Dowsland
 categories:
  - Announcements
- - Open science
+ - External opportunities
 ---
 
 ### **Hi everyone!**

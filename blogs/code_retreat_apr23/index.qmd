@@ -4,7 +4,6 @@ date: 2023/04/19
 author: Sarah Dowsland
 categories:
  - Announcements
- - Open science
 ---
 
 We are excited to announce that our next Code Retreat will take place at 10:30-15:00 on 31st May 2023 at the University of York. It provides a chance for course alumni to come together and work on their own data problems with the support of Cloud-SPAN instructors. 

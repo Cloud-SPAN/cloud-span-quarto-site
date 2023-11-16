@@ -3,11 +3,13 @@ title: "In depth: course feedback"
 date: 2023/02/02
 author: Evelyn Greeves
 categories:
- - Announcements
- - Open science
+ - Prenomics
+ - Genomics
+ - Metagenomics
+ - Behind-the-scenes
 ---
 
-We\'ve finished our analysis of the feedback from our courses held at the end of last year: Prenomics, Genomics and Metagenomics. We\'re pleased to see that on average participants saw an improvement across all of the learning outcomes for all of our courses - if they didn\'t we\'d be doing something wrong!
+We've finished our analysis of the feedback from our courses held at the end of last year: Prenomics, Genomics and Metagenomics. We're pleased to see that on average participants saw an improvement across all of the learning outcomes for all of our courses - if they didn\'t we\'d be doing something wrong!
 
 ### **Methodology**
 
