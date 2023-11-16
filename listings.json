@@ -3,13 +3,12 @@
     "listing": "/blogs.html",
     "items": [
       "/blogs/Prenomics-Dec-2023/index.html",
-      "/blogs/2023-05-11/index.html",
-      "/blogs/2023-05-09/index.html",
-      "/blogs/2023-04-26/index.html",
-      "/blogs/2023-04-19a/index.html",
-      "/blogs/2023-04-19b/index.html",
-      "/blogs/2023-02-02/index.html",
-      "/blogs/2022-12-16b/index.html",
+      "/blogs/R_intro_may23/index.html",
+      "/blogs/oracle_fellow_apr23/index.html",
+      "/blogs/northern_bug_apr23/index.html",
+      "/blogs/code_retreat_apr23/index.html",
+      "/blogs/course_feedback_feb23/index.html",
+      "/blogs/code_retreat_dec22/index.html",
       "/blogs/northern_bug_dec22/index.html",
       "/blogs/supporting_learners_nov22/index.html",
       "/blogs/prenomics_lowering_barriers_oct22/index.html",
@@ -30,14 +29,6 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
-    "listing": "/self_study_courses.html",
-    "items": []
-  },
-  {
     "listing": "/upcoming_courses.html",
     "items": [
       "/upcoming/Code Retreat/index.html",
@@ -46,5 +37,13 @@
       "/upcoming/Core R/index.html",
       "/upcoming/NERC Metagenomics/index.html"
     ]
+  },
+  {
+    "listing": "/self_study_courses.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": []
   }
 ]
