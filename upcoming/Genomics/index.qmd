@@ -42,7 +42,7 @@ Software: view the required [software set-up](https://cloud-span.github.io/00gen
 |                       |               |  • Learn how to automate commonly used workflows <br> • Organise your file system for a new project  <br> • Use command-line tools for quality control.|
 | Monday 23 January 2024 | 10:00 - 13:00 | Session 3 - Assessing read quality; trimming and filtering reads.|
 |                       |               | • Trimming and filtering <br> • Learn how to filter out poor quality data <br> • Assessing read quality |
-| Wednesday 25 January 2024 | 11:00 - 14:00 | Session 4 - Finding sequence variants                         |
+| Wednesday 24 January 2024 | 11:00 - 14:00 | Session 4 - Finding sequence variants                         |
 |                       |               | • Understand the steps involved in variant calling <br> • Describe the types of data formats encountered during variant calling <br> • Use command line tools to perform variant calling <br> • Instructors will give a demonstration on how to use the Integrative Genomics Viewer (IGV), an interactive tool for the visual exploration of genomic data. |
 
 ## Learning outcomes 
