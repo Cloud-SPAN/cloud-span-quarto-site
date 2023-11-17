@@ -6,7 +6,7 @@ description: Join us for a code retreat to apply your new skills to your own dat
 ---
 ::: {.callout-note appearance="tip"}
 
-# Register for the  using the [8th December 2023](https://forms.gle/UAMxQeDdmBTcgsLt7) and [25th January 2024](https://forms.gle/2LsvUvb6SY39ppSd8)
+# Register for the Code Retreats [8th December 2023](https://forms.gle/UAMxQeDdmBTcgsLt7) and [25th January 2024](https://forms.gle/2LsvUvb6SY39ppSd8)
 :::
 
 Info about the Code Retreats
