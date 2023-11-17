@@ -1,7 +1,7 @@
 ---
 title: "Genomics"
 image: genomics-card-narrow.png
-description: Learn data management and analytical skills for genomic research
+description: Learn data management and analytical skills for genomics research
 ---
 
 ::: {.callout-note appearance="tip"}
