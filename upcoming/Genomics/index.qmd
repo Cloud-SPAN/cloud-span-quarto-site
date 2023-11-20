@@ -17,7 +17,7 @@ Genomics teaches data management and analysis for genomics research including:
 - use of command-line tools for data preparation, 
 - use of command-line tools to analyze sequence quality and perform and automate variant calling.
 
-The next online Genomics workshop will take place from 15-25 January 2024.
+The next online Genomics workshop will take place from 15-24 January 2024.
 
 ## Target audience 
 - Learners who have completed the Prenomics Course 
