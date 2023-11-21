@@ -1,0 +1,22 @@
+---
+title: "Additional funding to expand training courses"
+date: 2023/11/21
+author: Sarah Dowsland  
+categories:
+ - Announcements
+---
+
+## Join the team! 
+
+We are currently recruiting for a Research Training Lead to join us on a 6 month contract, with the opportunity to work remotely or on campus at the University of York. 
+
+You will be responsible for the development and (mainly online) delivery of teaching covering the skills required to generate and analyse omics data using Cloud HPC resources. Our current set of courses can be seen here: https://github.com/Cloud-SPAN. The role could be carried out by two part-time appointments.
+
+- Are you a data enthusiast who loves to share their expertise? 
+- Want to improve the UK’s capacity to address global challenges such as environmental protection, bio-remediation and resource recovery? 
+
+We really  welcome and encourage applications from people without the listed desirable attributes but who love learning new skills. Empathy for learners and a willingness and demonstrated ability to learn new skills are more important than extensive experience!
+
+Further details can be found on the [University of York's Website](https://jobs.york.ac.uk/vacancy/research-training-lead-cloudspan-543233.html).
+
+![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
