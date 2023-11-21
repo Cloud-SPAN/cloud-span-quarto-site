@@ -1,1 +1,25 @@
+---
+title: "Additional funding to expand training courses"
+date: 2023/11/21
+author: Emma Rand  
+categories:
+ - Announcements
+---
 
+## **Continued funding for the Cloud-SPAN project!**
+
+Fantastic news for Cloud-SPAN which has been awarded an additional ~£200,000. Cloud-SPAN is led by Emma Rand and James Chong and trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC). Cloud-SPAN courses are highly accessible and free and we offer scholarships to cover the costs of attending online or in-person training including accessibility needs, travel, childcare, second monitors and lost pay.
+
+Initially funded in 2021 for two years under the UKRI innovation scholars award (MR/V038680/1), this extension award along with two NERC grants (NE/X006999/1 and NE/Y003527/1) allows the project to run an additional 18 months until September 2024. Huge thanks to those who have attended courses and provided the feedback we need to apply for additional funding.
+
+## **How to Get Involved**
+
+If you like the sound of all this, why not sign up for one of our **free self-study courses** today? Our full catalogue of courses is [listed on our website](https://cloud-span.york.ac.uk/self_study_courses.html).
+
+### **Upcoming Courses**
+
+[Prenomics](https://cloud-span.github.io/prenomics00-intro/) ➡ 6-7 December 2023 (online workshop or complete via self-study)
+
+[Genomics](https://cloud-span.github.io/00genomics/) ➡ 15-24 January 2024 (online workshop or complete via self-study)
+
+![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
