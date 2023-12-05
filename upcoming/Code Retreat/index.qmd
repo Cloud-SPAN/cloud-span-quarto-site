@@ -11,7 +11,7 @@ description: Join us for a code retreat to apply your new skills to your own dat
 
 Info about the Code Retreats
 
-Our next Code Retreats will take place 12 till 2 pm on Friday 8th December 2023 via zoom and 11:00 am till 2pm on Thursday 25th January 2024 at the University of York. Our instructors will be on hand to help you problem-solve the issues that arise as you work. For the event in January lunch will be provided and funding is available to support travel to the Code Retreat.
+Our next Code Retreats will take place 1 till 3 pm on Friday 8th December 2023 via zoom and 11:00 am till 2pm on Thursday 25th January 2024 at the University of York. Our instructors will be on hand to help you problem-solve the issues that arise as you work. For the event in January lunch will be provided and funding is available to support travel to the Code Retreat.
 
 Cloud-SPAN Alumni please register here for the Code Retreats [8th December 2023](https://forms.gle/UAMxQeDdmBTcgsLt7) and [25th January 2024](https://forms.gle/2LsvUvb6SY39ppSd8)
 
