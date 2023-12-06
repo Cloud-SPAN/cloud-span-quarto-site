@@ -5,7 +5,7 @@ description: Learn the basics of command-line programming.
 ---
 ::: {.callout-note appearance="tip"}
 
-# Register using the [online form](https://forms.gle/MnuYycBuBfkpX7R18)
+# Registration has now closed please contact cloud-span-project@york.ac.uk for further information on future courses. 
 :::
 
 Prenomics teaches the basics of command-line programming, including: 
@@ -14,7 +14,6 @@ Prenomics teaches the basics of command-line programming, including:
 - use of command-line utilities to connect to and use cloud computing and storage resources 
 - basic shell commands for file navigation and basic script writing. 
 
-The next online Prenomics workshop will take place on the 6-7 December 2023. 
 
 ## Target audience 
 - Learners who are intending to do bioinformatics but do not have any prior experience. 
@@ -22,7 +21,10 @@ The next online Prenomics workshop will take place on the 6-7 December 2023.
 - Learners who wish to complete the Genomics Course
 
 ## Registration
-There are 30 places available for this online workshop, please register using the [online form](https://forms.gle/MnuYycBuBfkpX7R18). This course is free of charge. 
+
+Registration has now closed please contact cloud-span-project@york.ac.uk for further information on future courses.
+
+There are 30 places available for this online workshop. This course is free of charge. 
 
 ## Pre-requisites 
 Knowledge: To ensure that you would benefit from participating in this course please complete the short self-assessment quiz [self-assessment quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/). 
@@ -63,6 +65,6 @@ The scholarship scheme can cover approximately £150 per application, for costs 
 - other costs that might otherwise prevent participation
 - second monitors and headsets.
 
-To request a scholarship please indicate this in the registration form, before 12 noon on Wednesday, 29 November 2023. Submissions after this date will not be considered.
-We will contact you by Friday 1st  December to confirm whether you have been awarded a scholarship.
+To request a scholarship please indicate this in the registration form, before the given deadline. Submissions after this date will not be considered.
+We will contact you within a week after the deadline to confirm whether you have been awarded a scholarship.
 
