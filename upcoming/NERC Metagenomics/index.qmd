@@ -40,7 +40,7 @@ There are 30 places available and this workshop is free of charge.
 
 # Programme
 
-We start by teaching the essential tools used in High Performance computing such as file systems and the command-line to connect to and use cloud computing for file navigation and script writing. We then introduce metagenomics and building a metagenomic assembly.  During the sessions a soil microbiome example is used however all principles are relevant to any metagenomic analsyis. In the second week, you will learn how to improve your assembly by 'polishing', separate your assembled metagenome into individual genomes (MAGS) and conduct taxonomic assignment and analysis. But if you can't get something to work, we have a Slack channel and a weekly drop-in to help.
+We start by teaching the essential tools used in High Performance computing such as file systems and the command-line to connect to and use cloud computing for file navigation and script writing. We then introduce metagenomics and building a metagenomic assembly.  During the sessions a soil microbiome example is used however all principles are relevant to any metagenomic analysis. In the second week, you will learn how to improve your assembly by 'polishing', separate your assembled metagenome into individual genomes (MAGS) and conduct taxonomic assignment and analysis. But if you can't get something to work, we have a Slack channel and a weekly drop-in to help.
 
 *Happy learning!*
 
