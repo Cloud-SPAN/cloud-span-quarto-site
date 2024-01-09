@@ -36,9 +36,9 @@ Software: view the required [software set-up](https://cloud-span.github.io/00gen
 
 |                     |               |                                                                |
 |------------------|------------------|------------------------------------|
-| Wednesday 6 December 2023 | 10:00 - 12:30 | Session 1 - Project management for cloud genomics  |
+| Day 1 | 10:00 - 12:30 | Session 1 - Project management for cloud genomics  |
 |                       |               | • Intro to local and remote files, hierarchical structure of files and folders <br> • Intro to the files which will be used in the Genomics course <br> • Logging onto the Cloud <br> • Introducing the Shell. |
-| Thursday 7 December 2023  | 10:00 - 12:30 | Session 2 - Using the command line               |
+| Day 2  | 10:00 - 12:30 | Session 2 - Using the command line               |
 |                       |               |  • Navigating Files and Directories <br> • Working with Files and Directories <br> • Redirection |
 
 ## Learning outcomes 
