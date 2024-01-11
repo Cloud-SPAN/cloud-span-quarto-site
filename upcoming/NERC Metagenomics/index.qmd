@@ -57,7 +57,7 @@ We start by teaching the essential tools used in High Performance computing such
 
 |                       |               |                                                   |
 |------------------|------------------|------------------------------------|
-| Monday 13 February    | 13:00 - 14:00 | Online troubleshooting drop-in session (optional) |
+| Monday 19 February    | 13:00 - 14:00 | Online troubleshooting drop-in session (optional) |
 | Wednesday 21 February | 13:00 - 14:30 | Polishing your metagenome assembly.               |
 |                       |               | Offline time for the polishing to complete        |
 | Friday 23 February    | 14:00 - 15:00 | Online troubleshooting drop-in session (optional) |
