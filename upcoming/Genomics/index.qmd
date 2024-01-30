@@ -6,7 +6,7 @@ description: Learn data management and analytical skills for genomics research
 
 ::: {.callout-note appearance="tip"}
 
-# Register using the [online form](https://forms.gle/Jwf4Hg1Kk6UKwbRo9)
+# Register using the [online form]
 
 :::
 
@@ -17,7 +17,7 @@ Genomics teaches data management and analysis for genomics research including:
 - use of command-line tools for data preparation, 
 - use of command-line tools to analyze sequence quality and perform and automate variant calling.
 
-The next online Genomics workshop will take place from 15-24 January 2024.
+Dates for the next Genomics workshop will be finalised shortly. 
 
 ## Target audience 
 - Learners who have completed the Prenomics Course 
@@ -25,7 +25,7 @@ The next online Genomics workshop will take place from 15-24 January 2024.
 - This course would be appropriate for learners with experience using the command line, who are expecting to generate a dataset in the future or those who already have a dataset and would like guidance on how to analyse it. 
 
 ## Registration
-There are 30 places available for this online workshop, please register using the [online form](https://forms.gle/Jwf4Hg1Kk6UKwbRo9). This course is free of charge. 
+There are 30 places available for this online workshop, please register using the [online form]. This course is free of charge. 
 
 ## Pre-requisites 
 Knowledge: learners should have completed the Prenomics course or be able to successfully complete the [self-assessment quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/). 
@@ -36,13 +36,13 @@ Software: view the required [software set-up](https://cloud-span.github.io/00gen
 
 |                     |               |                                                                |
 |------------------|------------------|------------------------------------|
-| Monday 15 January 2024 | 10:00 - 13:00 | Session 1 - Project management for cloud genomics  |
+| Monday | 10:00 - 13:00 | Session 1 - Project management for cloud genomics  |
 |                       |               | • Learn how to structure your data and metadata <br> •  Plan for an NGS project <br> •  Learn about the benefits of cloud computing |
-| Wednesday 17 January 2024  | 10:00 - 12:30 | Session 2 - Data preparation and organisation               |
+| Wednesday | 10:00 - 12:30 | Session 2 - Data preparation and organisation               |
 |                       |               |  • Learn how to automate commonly used workflows <br> • Organise your file system for a new project  <br> • Use command-line tools for quality control.|
-| Monday 23 January 2024 | 10:00 - 13:00 | Session 3 - Assessing read quality; trimming and filtering reads.|
+| Monday | 10:00 - 13:00 | Session 3 - Assessing read quality; trimming and filtering reads.|
 |                       |               | • Trimming and filtering <br> • Learn how to filter out poor quality data <br> • Assessing read quality |
-| Wednesday 24 January 2024 | 11:00 - 14:00 | Session 4 - Finding sequence variants                         |
+| Wednesday | 11:00 - 14:00 | Session 4 - Finding sequence variants                         |
 |                       |               | • Understand the steps involved in variant calling <br> • Describe the types of data formats encountered during variant calling <br> • Use command line tools to perform variant calling <br> • Instructors will give a demonstration on how to use the Integrative Genomics Viewer (IGV), an interactive tool for the visual exploration of genomic data. |
 
 ## Learning outcomes 
@@ -68,7 +68,7 @@ The scholarship scheme can cover approximately £150 per application, for costs 
 
 You will need to reclaim these expenses by completing a form and submitting receipts after participation in the course. 
 
-To request a scholarship please indicate this in the registration form, before 9 am on Monday, 8 January 2024. Submissions after this date will not be considered.
-We will contact you by Wednesday 10 January to confirm whether you have been awarded a scholarship.
+To request a scholarship please indicate this in the registration form, before the given deadline. Submissions after this date will not be considered.
+We will contact you one week after the deadline to confirm whether you have been awarded a scholarship.
 
 
