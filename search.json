@@ -256,7 +256,14 @@
     "href": "upcoming/How to manage AWS Instances/index.html",
     "title": "Instructor Training: How to manage AWS Instances",
     "section": "",
-    "text": "To schedule a workshop between March and June 2024, contact us on cloud-span-project@york.ac.uk This workshop is free of charge.\nIntroduction"
+    "text": "Note\n\n\n\nTo schedule a workshop between March and June 2024, contact us on cloud-span-project@york.ac.uk This workshop is free of charge."
+  },
+  {
+    "objectID": "upcoming/How to manage AWS Instances/index.html#introduction",
+    "href": "upcoming/How to manage AWS Instances/index.html#introduction",
+    "title": "Instructor Training: How to manage AWS Instances",
+    "section": "Introduction",
+    "text": "Introduction"
   },
   {
     "objectID": "upcoming/How to manage AWS Instances/index.html#target-audience",
@@ -284,7 +291,7 @@
     "href": "upcoming/How to manage AWS Instances/index.html#learning-outcomes",
     "title": "Instructor Training: How to manage AWS Instances",
     "section": "Learning outcomes",
-    "text": "Learning outcomes\nFollowing completion of this course, learners will be able to\n\nhow to configure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting\nhow to create, manage and configure AMI templates (from which instances are created) with your own data and software analysis tools\nhow the scripts work so you can customise them."
+    "text": "Learning outcomes\nFollowing completion of this course, learners will be able to\n\nconfigure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting\ncreate, manage and configure AMI templates (from which instances are created) with their own data and software analysis tools\nunderstand how the scripts work so they can customise them."
   },
   {
     "objectID": "contact-us.html",
