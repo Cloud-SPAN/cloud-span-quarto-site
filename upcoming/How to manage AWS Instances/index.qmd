@@ -6,11 +6,11 @@ description: Learn how to configure, create, manage, and delete, one or multiple
 
 ::: {.callout-note appearance="tip"}
 
-# To schedule a workshop between March and June 2024, contact us on cloud-span-project@york.ac.uk This workshop is free of charge. 
+To schedule a workshop between March and June 2024, contact us on cloud-span-project@york.ac.uk This workshop is free of charge. 
 
 :::
 
-Introduction
+## Introduction
 
 ## Target audience 
 The target audience of the course is anyone in charge of, or interested in, deploying and managing cloud resources. While the module is focused on AWS, and particularly Elastic Compute Cloud (EC2) instances, the scripts can be adapted for use with other cloud providers and other types of cloud services.
@@ -25,8 +25,8 @@ The workshop teaches the method we have used for over 2 years to efficiently man
 ## Learning outcomes 
 Following completion of this course, learners will be able to
 
-(1) how to configure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting
-(2) how to create, manage and configure AMI templates (from which instances are created) with your own data and software analysis tools
-(3) how the scripts work so you can customise them.
+- configure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting
+- create, manage and configure AMI templates (from which instances are created) with their own data and software analysis tools
+- understand how the scripts work so they can customise them.
 
 
