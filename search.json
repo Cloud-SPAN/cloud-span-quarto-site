@@ -284,7 +284,7 @@
     "href": "upcoming/How to manage AWS Instances/index.html#programme",
     "title": "Instructor Training: How to manage AWS Instances",
     "section": "Programme",
-    "text": "Programme\nThe workshop teaches the method we have used for over 2 years to efficiently manage AWS instances for our workshops using a set of Bash scripts. Creating over 30 instances takes 10-15 minutes. The workshop is aimed at those who need or plan to manage similar cloud resources for training such as Research Software Engineers or Bioinformatics Units Support Staff."
+    "text": "Programme\nTopic 1 Setting up the work environment - Learn how to set up your working environment, your AWS account and your shell terminal configuration, to be able to run the scripts. Topic 2 Managing AWS instances - Learn some best practices to deploy and manage AWS instances for a course, for testing software configurations, for creating new AMIs. Topic 3 Managing AMIs, Scripts - Learn the blurry bits of the scripts, how to control changes to the scripts with GitHub, the Cloud-SPAN AMIs, when and how to create and control AMI versions, updating an AMI Linux and software tools, and more."
   },
   {
     "objectID": "upcoming/How to manage AWS Instances/index.html#learning-outcomes",
