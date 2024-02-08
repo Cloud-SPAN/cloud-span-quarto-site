@@ -4,7 +4,7 @@
     "href": "upcoming_courses.html",
     "title": "Upcoming Courses",
     "section": "",
-    "text": "Code Retreat\n\n\nJoin us for a code retreat to apply your new skills to your own data and network with other genomics researchers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrenomics\n\n\nLearn the basics of command-line programming.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCore R\n\n\nLearn about R and RStudio in this introductory course.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics\n\n\nLearn data management and analytical skills for genomics research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetagenomics\n\n\nLearn more about metagenomics, a way to explore all the genetic material in an environmental sample.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Code Retreat\n\n\nJoin us for a code retreat to apply your new skills to your own data and network with other genomics researchers.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstructor Training: How to manage AWS Instances\n\n\nLearn how to configure, create, manage, and delete, one or multiple instances\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrenomics\n\n\nLearn the basics of command-line programming.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCore R\n\n\nLearn about R and RStudio in this introductory course.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics\n\n\nLearn data management and analytical skills for genomics research\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetagenomics\n\n\nLearn more about metagenomics, a way to explore all the genetic material in an environmental sample.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "self_study/Metagenomics for Microbiologists/index.html",
@@ -250,6 +250,41 @@
     "title": "Core R",
     "section": "",
     "text": "Info about Core R\nThis online two-hour workshop is an introduction to R for complete beginners. It teaches you how to find your way round RStudio, use the basic data types and structures in R and how to organise your work with scripts and projects. It also teaches you how to import data, summarise it and create and format a graph. The workshop assumes no prior experience of coding.\n\nLearning outcomes\nBy the end of the course you will be able to;\n\nfind your way around RStudio\nuse the basic data types and structures in R\norganise your work with scripts and projects\nimport data, summarise it and create and format a graph\nThe workshop assumes no prior experience of coding.\n\n\n\nRegistration\nRegistration for this course is now closed.\nThere are 30 places available for this online course. Priority will be given to NERC funded students and researchers, as well as researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.\nApplication deadline: 12pm Monday 5th June. Applicants will be notified by Tuesday 6th June if they have been allocated a place. Scholarships and funding for headsets and monitors will be available. Scholarships and additional support\nWe recommend workshop participants have a second monitor and a headset. Dual monitors allow you to engage with the trainers, view materials shared on screen and other participants on one monitor while doing the activities on another. To support you with your learning we have funding to provide you with a headset and a monitor if you require this. To request this additional funding please indicate this in the registration form. Funds for the monitors and headsets will be distributed at the end of workshop to those participants who attend the session.\nWe offer Scholarships to enable members of underrepresented groups and those with financial difficulties to participate in our training courses. To apply for a scholarship please complete the relevant questions in the registration form before the deadline. Submissions after this date will not be considered. All applicants will be notified of the results 2-3 days after the submission deadline."
+  },
+  {
+    "objectID": "upcoming/How to manage AWS Instances/index.html",
+    "href": "upcoming/How to manage AWS Instances/index.html",
+    "title": "Instructor Training: How to manage AWS Instances",
+    "section": "",
+    "text": "To schedule a workshop between March and June 2024, contact us on cloud-span-project@york.ac.uk This workshop is free of charge.\nIntroduction"
+  },
+  {
+    "objectID": "upcoming/How to manage AWS Instances/index.html#target-audience",
+    "href": "upcoming/How to manage AWS Instances/index.html#target-audience",
+    "title": "Instructor Training: How to manage AWS Instances",
+    "section": "Target audience",
+    "text": "Target audience\nThe target audience of the course is anyone in charge of, or interested in, deploying and managing cloud resources. While the module is focused on AWS, and particularly Elastic Compute Cloud (EC2) instances, the scripts can be adapted for use with other cloud providers and other types of cloud services."
+  },
+  {
+    "objectID": "upcoming/How to manage AWS Instances/index.html#pre-requisites",
+    "href": "upcoming/How to manage AWS Instances/index.html#pre-requisites",
+    "title": "Instructor Training: How to manage AWS Instances",
+    "section": "Pre-requisites",
+    "text": "Pre-requisites\nThe workshop assumes no prior experience with the AWS concepts and tools covered but you will need experience of the Linux Terminal (Shell/Command Line Interface)."
+  },
+  {
+    "objectID": "upcoming/How to manage AWS Instances/index.html#programme",
+    "href": "upcoming/How to manage AWS Instances/index.html#programme",
+    "title": "Instructor Training: How to manage AWS Instances",
+    "section": "Programme",
+    "text": "Programme\nThe workshop teaches the method we have used for over 2 years to efficiently manage AWS instances for our workshops using a set of Bash scripts. Creating over 30 instances takes 10-15 minutes. The workshop is aimed at those who need or plan to manage similar cloud resources for training such as Research Software Engineers or Bioinformatics Units Support Staff."
+  },
+  {
+    "objectID": "upcoming/How to manage AWS Instances/index.html#learning-outcomes",
+    "href": "upcoming/How to manage AWS Instances/index.html#learning-outcomes",
+    "title": "Instructor Training: How to manage AWS Instances",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\nFollowing completion of this course, learners will be able to\n\nhow to configure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting\nhow to create, manage and configure AMI templates (from which instances are created) with your own data and software analysis tools\nhow the scripts work so you can customise them."
   },
   {
     "objectID": "contact-us.html",
