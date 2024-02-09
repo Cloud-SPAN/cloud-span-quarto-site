@@ -1,6 +1,6 @@
 ---
 title: "Instructor Training: How to manage AWS Instances"
-image: genomics-card-narrow.png
+image: aws-admin-card-narrow.png
 description: Learn how to configure, create, manage, and delete, one or multiple instances 
 ---
 
