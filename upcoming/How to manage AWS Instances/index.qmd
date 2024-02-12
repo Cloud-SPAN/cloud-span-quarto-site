@@ -6,11 +6,15 @@ description: Learn how to configure, create, manage, and delete, one or multiple
 
 ::: {.callout-note appearance="tip"}
 
-To schedule a workshop between March and June 2024, contact us on cloud-span-project@york.ac.uk This workshop is free of charge. 
+To schedule a workshop between March and May 2024, contact us on cloud-span-project@york.ac.uk This workshop is free of charge. 
 
 :::
 
 ## Introduction
+
+## Registration 
+To schedule a workshop between March and May 2024, contact us on cloud-span-project@york.ac.uk 
+This workshop is free of charge.
 
 ## Target audience 
 The target audience of the course is anyone in charge of, or interested in, deploying and managing cloud resources. While the module is focused on AWS, and particularly Elastic Compute Cloud (EC2) instances, the scripts can be adapted for use with other cloud providers and other types of cloud services.
