@@ -31,6 +31,10 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
     "listing": "/upcoming_courses.html",
     "items": [
       "/upcoming/Core R/index.html",
@@ -40,10 +44,6 @@
       "/upcoming/Prenomics/index.html",
       "/upcoming/NERC Metagenomics/index.html"
     ]
-  },
-  {
-    "listing": "/index.html",
-    "items": []
   },
   {
     "listing": "/self_study_courses.html",
