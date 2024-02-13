@@ -3,3 +3,5 @@ title: "Automated Management of AWS Instances"
 image: aws-admin-card-narrow.png
 description: Learn how to configure, create, manage, and delete, one or multiple instances
 ---
+
+Info about AWS
