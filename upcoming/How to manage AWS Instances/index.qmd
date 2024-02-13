@@ -10,7 +10,7 @@ description: Learn how to configure, create, manage, and delete, one or multiple
 
 We have created instructor training for anyone interested in deploying and managing cloud resources. This workshop will enable you to facilitate training at your own institution or workplace utilising the Cloud-SPAN learning materials. This module teaches how to manage Amazon Web Services (AWS) instances — each instance being a Linux virtual machine. Using Bash Shell scripts, it is shown how to configure, create, stop, start, and delete, one or multiple instances with a single invocation of a script.
 
-Cloud-SPAN instructors are available to deliver this 3 hour training session at your institution at no cost to you. They can teach you and your team the method we have used for over 2 years to efficiently manage AWS instances and AMIs for many workshops. For the training session participants only need the Terminal/Shell and ssh programs on their laptops.
+Cloud-SPAN instructors are available to deliver this 3 hour training session at your institution at no cost to you. They can teach you and your team the method they have used for over 2 years to efficiently manage AWS instances and AMIs for many workshops. For the training session participants only need the Terminal/Shell and ssh programs on their laptops.
 
 ## How to schedule a training workshop? 
 To schedule a workshop between March and May 2024, please contact us on cloud-span-project@york.ac.uk 
