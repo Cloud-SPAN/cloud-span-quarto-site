@@ -19,19 +19,17 @@ This workshop is an introduction to R for complete beginners.
 
 Check out testimonials from previous attendees!
 
-> !I had some background knowledge in R, but needed to refresh my memory for my PhD data analysis. I expected a dull and slow course, but instead was pleasantly surprised when the course was easy to follow, snappy and very informative! I left the workshop feeling confident using R going forward - I definitely recommend this course for anyone who needs to use R!"
+> "I would definitely recommend this course to any beginner in R. An insightful and comprehensive foundation to coding."
 
+> "I had some background knowledge in R, but needed to refresh my memory for my PhD data analysis. I expected a dull and slow course, but instead was pleasantly surprised when the course was easy to follow, snappy and very informative! I left the workshop feeling confident using R going forward - I definitely recommend this course for anyone who needs to use R!"
 
 > "This course was a very good introduction to the basic workings of R and RStudio. After completing this course I now feel comfortable with basic scripting, reading/summarising data and creating/exporting plots. Two hours very well spent!"
 
-> "I would definitely recommend this course to any beginner in R. An insightful and comprehensive foundation to coding."
-
-> "This course was fantastic in both helping me to understand the concepts behind metagenomic polishing/assembly processes and in actually learning how to do it ourselves. I have learnt a lot that I can confidently go and apply to my own research."
-
-
 # Registration 
 
+::: {.callout-note appearance="tip"}
 Register using the [online form](https://forms.gle/Pz5bsZhnX5BtHDTZ6)
+:::
 
 There are 30 places available for this online course. Priority will be given to researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
 
