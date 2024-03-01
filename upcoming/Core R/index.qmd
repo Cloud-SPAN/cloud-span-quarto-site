@@ -9,11 +9,11 @@ description: Learn about R and RStudio in this introductory course.
 
 :::
 
-Info about Core R
+This online two-hour workshop is an introduction to R for complete beginners. 
 
-This online two-hour workshop is an introduction to R for complete beginners. It teaches you how to find your way round RStudio, use the basic data types and structures in R and how to organise your work with scripts and projects. It also teaches you how to import data, summarise it and create and format a graph. The workshop assumes no prior experience of coding.
+It teaches you how to find your way round RStudio, use the basic data types and structures in R and how to organise your work with scripts and projects. It also teaches you how to import data, summarise it and create and format a graph. The workshop assumes no prior experience of coding.
 
-The next workshop will take place from 2-4pm on the 25th April 2024. 
+The next workshop will take place from 2-4pm on Thursday 25th April 2024. 
 
 # Learning outcomes
 
