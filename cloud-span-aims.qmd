@@ -4,7 +4,7 @@ title-block-banner: false
 max-width: 1400px
 ---
 ::: home-sub
-Challenges in Environmental 'Omics
+Challenges in 'Omics
 :::
 
 ::: {.responsive .gallery .gallery-center}
