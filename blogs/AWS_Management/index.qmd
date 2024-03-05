@@ -48,6 +48,7 @@ A Cloud-SPAN instructor will travel to your institution and deliver the 3 hour i
 
 **Get in touch!** 
 
+
 To schedule a workshop between March and May 2024, please contact us on cloud-span-project@york.ac.uk or view the [website](https://cloud-span.york.ac.uk/upcoming/How%20to%20manage%20AWS%20Instances/) for further details. 
 
 ![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
