@@ -18,9 +18,11 @@ You can consider it like having your own server machine in the cloud. Cloud-SPAN
 
 ## Advantages of using an instance
 
-- **Convenient for participants** Learners just have to log into the cloud instance, and they will have access to all of the required software and data. The learner doesn’t have to download any software or data sets.
-- **Easier way to teach** The instances all start out identical, so the file structure always looks the same which makes troubleshooting during a training course much easier!
-- **Time efficient** There isn’t any queuing for resources as the instances run on borrowed resources. This can save a lot of time for large analyses, and is especially useful for teaching.
+-  **Convenient for participants** Learners just have to log into the cloud instance, and they will have access to all of the required software and data. The learner doesn’t have to download any software or data sets.
+
+-  **Easier way to teach** The instances all start out identical, so the file structure always looks the same which makes troubleshooting during a training course much easier!
+
+-  **Time efficient** There isn’t any queuing for resources as the instances run on borrowed resources. This can save a lot of time for large analyses, and is especially useful for teaching.
 
 ## Cloud-SPAN Instructor training course: How to Manage AWS Instances
 
@@ -33,9 +35,11 @@ The workshop assumes no prior experience with the AWS concepts and tools covered
 **Programme**
 
 Learning objectives
-- how to configure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting
-- how to create, manage and configure AMI templates (from which instances are created) with your own data and software analysis tools
-- how the scripts work so you can customise them.
+-  how to configure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting
+
+-  how to create, manage and configure AMI templates (from which instances are created) with your own data and software analysis tools
+
+-  how the scripts work so you can customise them.
 
 **Format**
 
@@ -43,6 +47,7 @@ A Cloud-SPAN instructor will travel to your institution and deliver the 3 hour i
 
 
 **Get in touch!** 
+
 To schedule a workshop between March and May 2024, please contact us on cloud-span-project@york.ac.uk or view the [website](https://cloud-span.york.ac.uk/upcoming/How%20to%20manage%20AWS%20Instances/) for further details. 
 
 ![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
