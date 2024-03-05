@@ -35,6 +35,7 @@ The workshop assumes no prior experience with the AWS concepts and tools covered
 **Programme**
 
 Learning objectives
+
 -  how to configure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting
 
 -  how to create, manage and configure AMI templates (from which instances are created) with your own data and software analysis tools
