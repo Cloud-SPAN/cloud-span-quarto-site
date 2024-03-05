@@ -262,8 +262,8 @@
     "objectID": "blogs/AWS_Management/index.html#advantages-of-using-an-instance",
     "href": "blogs/AWS_Management/index.html#advantages-of-using-an-instance",
     "title": "Why use AWS instances?",
-    "section": "Advantages of using an instance?",
-    "text": "Advantages of using an instance?\nConvenient for participants Learners just have to log into the cloud instance, and they will have access to all of the required software and data. The learner doesn’t have to download any software or data sets. Easier way to teach The instances all start out identical, so the file structure always looks the same which makes troubleshooting during a training course much easier! Time efficient There isn’t any queuing for resources as the instances run on borrowed resources. This can save a lot of time for large analyses, and is especially useful for teaching."
+    "section": "Advantages of using an instance",
+    "text": "Advantages of using an instance\nConvenient for participants Learners just have to log into the cloud instance, and they will have access to all of the required software and data. The learner doesn’t have to download any software or data sets. Easier way to teach The instances all start out identical, so the file structure always looks the same which makes troubleshooting during a training course much easier! Time efficient There isn’t any queuing for resources as the instances run on borrowed resources. This can save a lot of time for large analyses, and is especially useful for teaching."
   },
   {
     "objectID": "blogs/AWS_Management/index.html#cloud-span-instructor-training-course-how-to-manage-aws-instances",
