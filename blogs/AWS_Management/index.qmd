@@ -16,7 +16,7 @@ Using an AWS cloud instance to run a workshop has many benefits for you as a wor
 
 You can consider it like having your own server machine in the cloud. Cloud-SPAN courses are taught inside a containerised instance, which is a virtual environment containing pre-loaded software and files. The instance runs on hardware borrowed from a commercial provider (in our case, Amazon Web Services; other providers are available).You are able to create and manage your own virtual server instance in the cloud computing environment. The Cloud-SPAN instructor workshop has been developed to guide you through how to configure and run the scripts to create and manage instances.
 
-## Advantages of using an instance?
+## Advantages of using an instance
 
 Convenient for participants Learners just have to log into the cloud instance, and they will have access to all of the required software and data. The learner doesn’t have to download any software or data sets.
 Easier way to teach The instances all start out identical, so the file structure always looks the same which makes troubleshooting during a training course much easier!
