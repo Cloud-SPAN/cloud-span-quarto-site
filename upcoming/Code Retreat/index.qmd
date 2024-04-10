@@ -9,12 +9,9 @@ description: Join us for a code retreat to apply your new skills to your own dat
 # Register for our next Code Retreat using the online form 
 :::
 
-Info about the Code Retreats
-
 Dates for our next Code Retreat will be confimred shortly. 
-Our instructors will be on hand to help you problem-solve the issues that arise as you work. Lunch will be provided and funding is available to support travel to the Code Retreat.
 
-Cloud-SPAN Alumni please register here for the Code Retreats
+Our instructors will be on hand to help you problem-solve the issues that arise as you work. Lunch will be provided and funding is available to support travel to the Code Retreat.
 
 ## What could you achieve?
 
