@@ -1,15 +1,26 @@
 [
   {
+    "listing": "/upcoming_courses.html",
+    "items": [
+      "/upcoming/Code Retreat/index.html",
+      "/upcoming/NERC Metagenomics/index.html",
+      "/upcoming/Prenomics/index.html",
+      "/upcoming/Genomics/index.html",
+      "/upcoming/How to manage AWS Instances/index.html",
+      "/upcoming/Core R/index.html"
+    ]
+  },
+  {
     "listing": "/blogs.html",
     "items": [
       "/blogs/AWS_Management/index.html",
-      "/blogs/Additional_funding_Dec23/index.html",
       "/blogs/Join_the_team/index.html",
+      "/blogs/Additional_funding_Dec23/index.html",
       "/blogs/Prenomics-Dec-2023/index.html",
       "/blogs/R_intro_may23/index.html",
       "/blogs/oracle_fellow_apr23/index.html",
-      "/blogs/code_retreat_apr23/index.html",
       "/blogs/northern_bug_apr23/index.html",
+      "/blogs/code_retreat_apr23/index.html",
       "/blogs/course_feedback_feb23/index.html",
       "/blogs/code_retreat_dec22/index.html",
       "/blogs/northern_bug_dec22/index.html",
@@ -32,22 +43,11 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/self_study_courses.html",
     "items": []
   },
   {
-    "listing": "/upcoming_courses.html",
-    "items": [
-      "/upcoming/Core R/index.html",
-      "/upcoming/Code Retreat/index.html",
-      "/upcoming/How to manage AWS Instances/index.html",
-      "/upcoming/Genomics/index.html",
-      "/upcoming/Prenomics/index.html",
-      "/upcoming/NERC Metagenomics/index.html"
-    ]
-  },
-  {
-    "listing": "/self_study_courses.html",
+    "listing": "/index.html",
     "items": []
   }
 ]
