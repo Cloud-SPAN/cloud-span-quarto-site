@@ -6,7 +6,10 @@ description: Learn the basics of command-line programming.
 ::: {.callout-note appearance="tip"}
 
 # Registration has now closed please contact cloud-span-project@york.ac.uk for further information on future courses. 
+
 :::
+
+Dates for the next Prenomics workshop will be finalised shortly.
 
 Prenomics teaches the basics of command-line programming, including: 
 
