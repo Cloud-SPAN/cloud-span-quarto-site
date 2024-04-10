@@ -5,13 +5,15 @@ description: Learn more about metagenomics, a way to explore all the genetic mat
 ---
 ::: {.callout-note appearance="tip"}
 
-## This course is now fully booked - to be added to the waiting list please complete the [online form](https://forms.gle/WZCDADQcisbjmVpX9) 
+## Register for this course using the [online form] 
 
 :::
 
+Registration for this course is now closed and new dates will be finalised shortly.
+
 Metagenomics explores all the genetic material in an environmental sample. It can be used to characterise the taxonomic characteristics of microbial communities.
 
-This online module will be delivered over a three-week period from 13 February - 1 March 2024.
+This online module will be delivered over a three-week period. 
 
 Metagenomics analyses involve a lot of data and can take hours to days to complete! But don't worry! The format of the workshop takes account of this. For longer analyses there will be scheduled online zoom sessions to cover concepts and get started followed by offline time for the analysis run and for you to complete some exercises. These will be supported by online drop-ins and a Slack channel for trouble-shooting.
 
@@ -29,11 +31,13 @@ Check out testimonials from previous attendees!
 
 # Registration
 
-::: {.callout-note appearance="default"}
+::: {.callout-note appearance="tip"}
 
-## This course is now fully booked - to be added to the waiting list please complete the [online form](https://forms.gle/WZCDADQcisbjmVpX9) 
+## Register for this course using the [online form] 
 
 :::
+
+Registration for this course is now closed and new dates will be finalised shortly.
 
 There are 30 places available and this workshop is free of charge.
 
@@ -48,30 +52,30 @@ We start by teaching the essential tools used in High Performance computing such
 
 |                     |               |                                                                |
 |------------------|------------------|------------------------------------|
-| Tuesday 13 February  | 9:30 - 11:30 | Command-line programming: file systems, files and directories  |
-| Wednesday 14 February | 9:30 - 11:30 | Command-line programming: using the command line               |
-| Friday 16 February | 9:30 - 13:00 | An introduction to metagenomics, quality control and assembly. |
+| Tuesday | 9:30 - 11:30 | Command-line programming: file systems, files and directories  |
+| Wednesday | 9:30 - 11:30 | Command-line programming: using the command line               |
+| Friday| 9:30 - 13:00 | An introduction to metagenomics, quality control and assembly. |
 |                     |               | Offline time for assembly to complete.                         |
 
 **Week 2**
 
 |                       |               |                                                   |
 |------------------|------------------|------------------------------------|
-| Monday 19 February    | 13:00 - 14:00 | Online troubleshooting drop-in session (optional) |
-| Wednesday 21 February | 13:00 - 14:30 | Polishing your metagenome assembly.               |
+| Monday    | 13:00 - 14:00 | Online troubleshooting drop-in session (optional) |
+| Wednesday  | 13:00 - 14:30 | Polishing your metagenome assembly.               |
 |                       |               | Offline time for the polishing to complete        |
-| Friday 23 February    | 14:00 - 15:00 | Online troubleshooting drop-in session (optional) |
+| Friday    | 14:00 - 15:00 | Online troubleshooting drop-in session (optional) |
 
 **Week 3**
 
 |                     |               |                                                              |
 |------------------|------------------|------------------------------------|
-| Tuesday 27 February | 9:30 - 11:00 | Binning a metagenome assembly into individual genomes (MAGS) |
+| Tuesday | 9:30 - 11:00 | Binning a metagenome assembly into individual genomes (MAGS) |
 |                     |               | Offline time for the binning to complete                     |
-| Thursday 29 February| 9:30 - 10:30 | Online troubleshooting drop-in session (optional)            |
-| Friday 1 March  | 9:30 - 12:30 | Taxonomic Assignment and Analysis                            |
+| Thursday | 9:30 - 10:30 | Online troubleshooting drop-in session (optional)            |
+| Friday | 9:30 - 12:30 | Taxonomic Assignment and Analysis                            |
 
-If you are unable to attend an online session, recordings will be distributed. You will have access to your instance until Friday 8 March (one week after the course is completed) to give you time to consolidate your learning. Usage of the instances will be monitored; instances which are inactive will be closed down as a daily charge is incurred.
+If you are unable to attend an online session, recordings will be distributed. You will have access to your instance one week after the final taught session to give you time to consolidate your learning. Usage of the instances will be monitored; instances which are inactive will be closed down as a daily charge is incurred.
 
 
 
@@ -109,4 +113,4 @@ The scholarship scheme can cover approximately £150 per application, for costs 
 - other costs that might otherwise prevent participation
 - second monitors and headsets.
 
-To request a scholarship please indicate this in the registration form, before 12 noon on 1st February 2024. Submissions after this date will not be considered. We will contact you 2-3 days after the deadline to confirm whether you have been awarded a scholarship.
+To request a scholarship please indicate this in the registration form by the deadline. Submissions after this date will not be considered. We will contact you 2-3 days after the deadline to confirm whether you have been awarded a scholarship.
