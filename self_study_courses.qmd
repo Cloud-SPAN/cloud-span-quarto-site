@@ -15,7 +15,7 @@ listing:
       image: images/genomics-card-narrow.png
       description: Learn about data management and analytical skills for genomic research. 
     - path: https://cloud-span.github.io/nerc-metagenomics00-overview/
-      title: "Metagenomics for Environmental Scientists"
+      title: "Metagenomics"
       image: images/metagenomics-microbio-card-narrow.png
       description: "Learn more about metagenomics, a way to explore all the genetic material in an environmental sample."
     - path: https://github.com/Cloud-SPAN/core-r
