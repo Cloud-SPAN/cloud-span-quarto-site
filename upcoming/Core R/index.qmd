@@ -5,7 +5,7 @@ description: Learn about R and RStudio in this introductory course.
 ---
 ::: {.callout-note appearance="tip"}
 
-# Register using the [online form](https://forms.gle/Pz5bsZhnX5BtHDTZ6)
+# Registration is now closed.
 
 :::
 
@@ -28,7 +28,7 @@ Check out testimonials from previous attendees!
 # Registration 
 
 ::: {.callout-note appearance="tip"}
-Register using the [online form](https://forms.gle/Pz5bsZhnX5BtHDTZ6)
+Registration is now closed.
 :::
 
 There are 30 places available for this online course. Priority will be given to researchers from underrepresented groups, although we encourage everyone to apply. This course is free of charge.
