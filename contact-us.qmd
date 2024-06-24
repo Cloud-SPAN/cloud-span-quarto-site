@@ -8,5 +8,5 @@ Email us at **cloud-span-project@york.ac.uk** if you have any questions or would
 
 ### Follow us 
 - Connect with us on [LinkedIn](https://www.linkedin.com/in/cloud-span/)
-- Follow us on [Twitter](https://twitter.com/SpanCloud) for updates on upcoming courses, blog posts and recent news on Genomics
+- Follow us on [Twitter](https://twitter.com/SpanCloud) for updates on upcoming courses, blog posts and recent news 
 - View our courses on [GitHub](https://github.com/Cloud-SPAN/)
