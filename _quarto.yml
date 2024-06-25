@@ -32,6 +32,7 @@ website:
       - self_study_courses.qmd
       - upcoming_courses.qmd
       - blogs.qmd
+      - contact-us.qmd
           
   page-footer:
     left: 
