@@ -27,8 +27,7 @@ website:
             href: cloud-span-aims.qmd
           - text: DaSH Partners
             href: DaSH.qmd
-          - text: Contact us
-            href: contact-us.qmd
+
       - self_study_courses.qmd
       - upcoming_courses.qmd
       - blogs.qmd
