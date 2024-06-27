@@ -17,6 +17,9 @@ The training opportunities were very accessible with a range of delivery modes a
 
 ![Project Themes](project_themes_final.png){width=600}
 
+<img src="before_after_dumbbell.png" alt="A dumbbell plot with themes Command Line, Genomics and Project Organisation each having two dumbbells, one representing Genomics without Prenomics and one representing Genomics with Prenomics. The graph indicates the rating given before the course was taken and the score after, with a line joining the two. For all themes the score increases, usually by two or so points. The increase is greater for the 'with prenomics' dumbbells." width="800" height="auto"/>
+
+
 # Learn more about the projects 
 
 [Data CAMPP](https://www.nottingham.ac.uk/research/groups/cvl/projects/data-cammp/data-cammp.aspx)
