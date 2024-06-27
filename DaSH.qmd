@@ -15,6 +15,8 @@ The training opportunities were very accessible with a range of delivery modes a
 
 ![.](../../images/project_themes_final.png){fig-alt="A graphic showing the themes." width="600"} 
 
+![Project Themes](project_themes_final.png){width=600}
+
 # Learn more about the projects 
 
 [Data CAMPP](https://www.nottingham.ac.uk/research/groups/cvl/projects/data-cammp/data-cammp.aspx)
