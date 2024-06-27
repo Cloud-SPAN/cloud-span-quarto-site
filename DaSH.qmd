@@ -13,7 +13,8 @@ The project teams have fulfilled UKRI’s brief to deliver innovative training p
 
 The training opportunities were very accessible with a range of delivery modes and styles. Nearly 5900 person-training episodes have occurred over 108 events. All projects have enhanced community engagement using innovative technology or approaches and several had dedicated Community leads. Some successful examples include development around a metaverse training centre (L2D), code retreats, hackathons and mentoring (IDEAS, ELIXIR-UK DaSH, Cloud-SPAN), live coding (IDEAS, Ed-DaSH, Cloud-SPAN, L2D) and deployment on the FutureLearn platform (DataCAMPP & KCL Enabling the big data revolution through skills training).*
 
-![Project Themes](project_themes_final.png){width=600}
+
+!(project_themes_final.png){width=600}
 
 # Learn more about the projects 
 
