@@ -15,7 +15,7 @@ The training opportunities were very accessible with a range of delivery modes a
 
 # Learn more about the projects 
 
-[Data CAMPP](ttps://www.nottingham.ac.uk/research/groups/cvl/projects/data-cammp/data-cammp.aspx)
+[Data CAMPP](https://www.nottingham.ac.uk/research/groups/cvl/projects/data-cammp/data-cammp.aspx)
 Innovative training in data capture, analysis and management for plant phenotyping. 
 
 [Ed-DaSH](https://edcarp.github.io/Ed-DaSH/)
@@ -24,19 +24,19 @@ Data driven life science skills development – equipping society for the future
 [ELIXIR-UK: FAIR data stewardship training](https://elixiruknode.org/activities/elixir-dash-fellowship/)
 Professionalising data stewardship in the life sciences
 
-[Health and bioscience IDEAS] (https://healthbioscienceideas.github.io/)
+[Health and bioscience IDEAS](https://healthbioscienceideas.github.io/)
 Imaging, data structures, genetics and analytical strategies 
 
-[Innovation Scholars Programme - Big Data Skills Training] (https://innovationscholars.er.kcl.ac.uk/training/)
+[Innovation Scholars Programme - Big Data Skills Training](https://innovationscholars.er.kcl.ac.uk/training/)
 
-[Learn to Discover] (https://learntodiscover.ai/)
+[Learn to Discover](https://learntodiscover.ai/)
 A training platform in data sciences and machine learning for biomedicine and health researchers
 
-[Radiance] (https://radiance.org.uk/)
+[Radiance](https://radiance.org.uk/)
 Rigorous training in longitudinal data science 
 
-[T3connect] (https://t3connect.org/)
+[T3connect](https://t3connect.org/)
 Train the trainer in data science for pathogen genomics and surveillance. Expanding pathogen genomics expertise across the UK 
 
 
-* Data collated from Cloud-SPAN, Data CAMPP, Ed-DaSH, IDEAS, ELIXIR-UK FAIR Data Fellowship, Innovation Scholars Programme - Big Data Skills Training, L2D, Radiance, T3connect, projects in April 2023 
+*Data collated from Cloud-SPAN, Data CAMPP, Ed-DaSH, IDEAS, ELIXIR-UK FAIR Data Fellowship, Innovation Scholars Programme - Big Data Skills Training, L2D, Radiance, T3connect, projects in April 2023 
