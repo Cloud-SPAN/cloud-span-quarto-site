@@ -6,23 +6,25 @@ max-width: 1400px
 
 Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.
 
-#### Genomics Course
+# Learning Paths 
+You will have the flexibility to select different modules which differ in starting point and length to cater to researchers at a variety of careers stages with differing levels of previous experience. 
+
+#### Core Skills 
 This course is based on Carpentries materials introduces the foundations of Genomics andbBioinformatics and will take place three times, after which point it will be available as a self-study course. View further information on the [Genomics course](self_study/Genomics/index.qmd).
 
-#### Advanced Modules
-Advanced modules covering specialised knowledge and skills required to generate and analyse 'omics data using Cloud HPC resources will be delivered three times. These will include experimental design, statistical modules and deployment of cloud-based containerised instances for exemplar workflows. They will form a complete teaching and training resource that can be used for online tutor-led workshops or self-paced learning.
+#### Specialised Course 
+Specialised modules covering advanced knowledge and skills required to generate and analyse 'omics data using Cloud HPC resources will be delivered three times. These will include experimental design, statistical modules and deployment of cloud-based containerised instances for exemplar workflows. They will form a complete teaching and training resource that can be used for online tutor-led workshops or self-paced learning.
 
 ####  Cloud Administration Guides
 Cloud Administration Guides will enable HPC workflows as "production" instances which can be used by institutional RSE, RDM or HPC Teams to run or support specialised skills modules with their own resources. The Guides will be supported by in person training by Cloud-SPAN systems administrators. 
 
-#### Learning Paths 
-You will have the flexibility to select different modules which differ in starting point and length to cater to researchers at a variety of careers stages with differing levels of previous experience. 
+# Scholarships
+Underrepresented groups in research and HPC will be eligible to apply for financial support in order to participate in online or in-person training. 
 
-#### Diversity Scholarships
-Underrepresented groups in research and HPC will be eligible to apply for financial support in order to participate in online or in-person training. View further information on scholarships. 
+# Community
+We have etablished a welcoming online community to support learners, including self-paced learners, in the application of training materials to their own research data. 
 
-#### Code Retreats and Mentoring
+#### Code Retreats
 Learners will have have the opportunity to attend code retreats and benefit from mentoring to provide them both the skills and the self-confidence to apply methods to their own research questions and data. 
-
-#### Community of Practice
-We hope to establish a welcoming online community to support learners, including self-paced learners, in the application of training materials to their own research data. 
+#### Weekly online help session 
+#### Slack channel 
