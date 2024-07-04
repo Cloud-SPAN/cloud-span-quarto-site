@@ -22,4 +22,4 @@ If you like the sound of all this, why not sign up for one of our **free self-st
 
 [Genomics](https://cloud-span.github.io/00genomics/) ➡ 15-24 January 2024 (online workshop or complete via self-study)
 
-![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
+![.](News-icon.png){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
