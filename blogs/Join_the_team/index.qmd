@@ -19,4 +19,4 @@ We really  welcome and encourage applications from people without the listed des
 
 Further details can be found on the [University of York's Website](https://jobs.york.ac.uk/vacancy/research-training-lead-cloudspan-543233.html).
 
-![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
+![.](News-icon.png){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
