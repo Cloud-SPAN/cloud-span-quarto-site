@@ -37,4 +37,4 @@ We also help people reuse our materials by applying a [Creative Commons Attribut
 
 What steps are you taking to make your data and other digital resources as FAIR as possible? There are some great resources available online to help you if you're not sure where to start - try [howtofair.dk](https://howtofair.dk/) or the [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html) for helpful articles, videos and step-by-step guides!
 
-![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
+![.](fair-twitter.png){fig-alt="A graphic showing the FAIR acronym." width="600"} 
