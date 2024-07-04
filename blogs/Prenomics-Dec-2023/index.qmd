@@ -33,4 +33,4 @@ Genomics is taught over 4 sessions and teaches best practice for organization of
 
 View the [course materials.](https://cloud-span.github.io/00genomics/)  
 
-![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
+![.](variant-calling.png){fig-alt="A graphic showing variant calling." width="600"} 
