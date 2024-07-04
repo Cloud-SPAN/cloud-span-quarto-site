@@ -15,4 +15,4 @@ We have scholarships to cover travel expenses for **five** of our Cloud-SPAN 'gr
 
 If you are interested in attending our [free training courses](https://cloud-span.york.ac.uk/self_study_courses.html) please visit our website for further information.
 
-![.](NorthernBUG%20scholarships%20graphic-02.png){fig-alt="A graphic NortherBUG meeting." width="600"} 
+![.](NorthernBUGscholarships.png){fig-alt="A graphic NortherBUG meeting." width="600"} 
