@@ -28,4 +28,4 @@ then this workshop is for you. You can [read more about the workshop here](https
 
 [Genomics self-study](https://cloud-span.york.ac.uk/train-with-us/specialised-skills#h.l54d9e9aw5vk): registration now open - start at anytime
 
-![.](../../images/logo_cloud_only.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
+![.](FAIR-large.png.PNG){fig-alt="A graphic showing the Cloud-SPAN logo." width="600"} 
