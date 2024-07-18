@@ -21,9 +21,9 @@ We host live training workshops and have also created educational training mater
 
 # Our learning resources
 
-**Core skills** - Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills. 
+**Core skills** Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills. 
 
-**Specialised skills** - Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them. 
+Specialised skills Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them. 
 
 ::: callout-note
 The only course which requires significant prior experience in programming is [Automated Management of AWS Instances](#cloud-admin) which is aimed at computing professionals and research software engineers.
