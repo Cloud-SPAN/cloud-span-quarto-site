@@ -21,13 +21,13 @@ We host live training workshops and have also created educational training mater
 
 # Our learning resources
 
-**Core skills** Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills. 
+**Core skills**
 
-Specialised skills Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them. 
+Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills. 
 
-::: callout-note
-The only course which requires significant prior experience in programming is [Automated Management of AWS Instances](#cloud-admin) which is aimed at computing professionals and research software engineers.
-:::
+**Specialised skills**
+
+Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An [online assessment](https://shiny.york.ac.uk/er13/prenomics-quiz/#section-why) was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them. These modules enhancing specialised skills provide researchers with the advanced knowledge and skills required to generate and analyse 'omics data using Cloud HPC resources.
 
 # Core Skills
 
@@ -90,6 +90,10 @@ This course shows you how to [create and manage an Amazon Web Service instance](
 [Automated Management of AWS Instances](https://cloud-span.github.io/cloud-admin-guide-v2q/) is aimed at experienced command line users who have an interest in deploying and managing cloud resources for training purposes.
 
 No prior knowledge of AWS concepts or tools is needed but learners should have significant experience with the Unix terminal and programming with Bash.
+
+::: callout-note
+The only course which requires significant prior experience in programming is [Automated Management of AWS Instances](#cloud-admin) which is aimed at computing professionals and research software engineers.
+:::
 
 # Community 
 We have established a welcoming online community to support learners, including self-paced learners, in the application of training materials to their own research data.
