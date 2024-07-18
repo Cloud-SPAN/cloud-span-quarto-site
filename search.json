@@ -375,7 +375,56 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About\nCloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.\nCloud-SPAN hosts live training workshops and has also created educational training materials on topics such as using the command line, genomic analysis and whole metagenome sequencing (WMS) workflows. All of the training materials and live workshops are offered free of charge.\n\n\nOur approach\n\nInclusive to anyone interested in big data, we remove barriers that may have prevented learners from participating before. Only a laptop and an internet connection is required to access the materials and participate in workshops.\nLearning materials are designed to be as accessible as possible to beginners, with lots of guidance and reassurance along the way.\nDuring the live workshops learners participate in live- coding, learning by doing and providing practical hands-on experience with tutor support\nParticipants in taught workshops receive free access to an AWS instance containing all the software and data you’ll need for the duration of the teaching period.\nThe learning environment at live workshops is very welcoming, encouraging and inclusive. A lot of our learners are complete beginners or new to this world of big data, command line and cloud computing.\nScholarships are available to enable members of underrepresented groups and those with financial difficulties to participate in our training courses.\n\n\n\nOur learning resources\nCore skills - Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills.\nSpecialised skills - Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them. The workshop on Statistically Useful Experimental Design was developed to help researchers to understand the issues underpinning good experimental design, to ensure that reproducible techniques are used to produce data.\n\n\n\n\n\n\nNote\n\n\n\nThe only course which requires significant prior experience in programming is Automated Management of AWS Instances which is aimed at computing professionals and research software engineers.\n\n\nCommunity We have established a welcoming online community to support learners, including self-paced learners, in the application of training materials to their own research data. Slack Code Retreats Handbook X and LinkedIn Links to Doctoral Training Partnerships"
+    "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.\nWe host live training workshops and have also created educational training materials on topics such as using the command line, genomic analysis and whole metagenome sequencing (WMS) workflows. All of the training materials and live workshops are offered free of charge."
+  },
+  {
+    "objectID": "about.html#core-skills---core-r-and-prenomics-were-created-to-introduce-the-fundamentals-of-the-command-line-and-to-help-learners-gain-confidence-in-their-programming-skills.",
+    "href": "about.html#core-skills---core-r-and-prenomics-were-created-to-introduce-the-fundamentals-of-the-command-line-and-to-help-learners-gain-confidence-in-their-programming-skills.",
+    "title": "About",
+    "section": "Core skills - Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills.",
+    "text": "Core skills - Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills."
+  },
+  {
+    "objectID": "about.html#specialised-skills---learners-who-were-already-confident-with-their-command-line-abilities-were-encouraged-to-complete-genomics-and-metagenomics.-an-online-assessment-was-developed-for-learners-to-self-assess-their-level-of-knowledge-and-help-them-to-gauge-which-course-would-be-most-appropriate-for-them.",
+    "href": "about.html#specialised-skills---learners-who-were-already-confident-with-their-command-line-abilities-were-encouraged-to-complete-genomics-and-metagenomics.-an-online-assessment-was-developed-for-learners-to-self-assess-their-level-of-knowledge-and-help-them-to-gauge-which-course-would-be-most-appropriate-for-them.",
+    "title": "About",
+    "section": "Specialised skills - Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them.",
+    "text": "Specialised skills - Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them.\n\n\n\n\n\n\nNote\n\n\n\nThe only course which requires significant prior experience in programming is Automated Management of AWS Instances which is aimed at computing professionals and research software engineers."
+  },
+  {
+    "objectID": "about.html#core-r",
+    "href": "about.html#core-r",
+    "title": "About",
+    "section": "Core R",
+    "text": "Core R\nThis short 2 hour course provides a whistle-stop tour of the R programming language and RStudio environment for total beginners. You will learn how to navigate RStudio, use the manual, import data and summarise/visualise it with a plot.\n\nGenomics\nGenomics is a practical, tutor-led course taking place over 4 half days or 2 full days (roughly twelve hours of content). It teaches data management and analytical skills using cloud resources for genomic research.\nTopics covered include:\n\nproject management for cloud genomics\nwriting shell scripts\nassessing read quality\ntrimming/filtering reads\nfinding sequence variants.\n\nA basic knowledge of the shell is required, which can be obtained by attending/self-studying the Prenomics course."
+  },
+  {
+    "objectID": "about.html#metagenomics",
+    "href": "about.html#metagenomics",
+    "title": "About",
+    "section": "Metagenomics",
+    "text": "Metagenomics\nMetagenomics teaches data analysis for metagenomics projects. It runs asynchronously with a mixture of taught sessions, offline self-study and drop-in sessions.\nTopics covered include:\n\nan introduction to metagenomics and what it can be used for\nperforming quality control on long and short reads\nimproving your assembly with polishing\nbinning into species/metagenome-assembled genomes (MAGs)\ntaxonomic assignment and functional annotation\n\nNo prior knowledge of the shell is required as this course includes two sessions of Prenomics material."
+  },
+  {
+    "objectID": "about.html#Statistically-Useful-Experimental-Design",
+    "href": "about.html#Statistically-Useful-Experimental-Design",
+    "title": "About",
+    "section": "Statistically Useful Experimental Design",
+    "text": "Statistically Useful Experimental Design\nThe workshop was developed to help researchers to:\n\nunderstand the issues underpinning good experimental design\nto ensure that reproducible techniques are used to produce data."
+  },
+  {
+    "objectID": "about.html#create-aws",
+    "href": "about.html#create-aws",
+    "title": "About",
+    "section": "Create Your Own AWS Instance",
+    "text": "Create Your Own AWS Instance\nThis course shows you how to create and manage an Amazon Web Service instance like the ones used in all our courses, in order to:\n\nstudy course materials further\nperform more complex analyses on your own data."
+  },
+  {
+    "objectID": "about.html#cloud-admin",
+    "href": "about.html#cloud-admin",
+    "title": "About",
+    "section": "Automated Management of AWS Instances",
+    "text": "Automated Management of AWS Instances\nAutomated Management of AWS Instances is aimed at experienced command line users who have an interest in deploying and managing cloud resources for training purposes.\nNo prior knowledge of AWS concepts or tools is needed but learners should have significant experience with the Unix terminal and programming with Bash."
   },
   {
     "objectID": "blogs/UKRN_FAIR_workshop_oct22/index.html",
