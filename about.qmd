@@ -4,27 +4,47 @@ title-block-banner: false
 max-width: 1400px
 ---
 
+#### About
+
 Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.
 
-# Learning Paths 
-You will have the flexibility to select different modules which differ in starting point and length to cater to researchers at a variety of careers stages with differing levels of previous experience. 
+Cloud-SPAN hosts live training workshops and has also created educational training materials on topics such as using the command line, genomic analysis and whole metagenome sequencing (WMS) workflows. All of the  training materials and live workshops are offered **free of charge**.
 
-#### Core Skills 
-This course is based on Carpentries materials introduces the foundations of Genomics andbBioinformatics and will take place three times, after which point it will be available as a self-study course. View further information on the [Genomics course](self_study/Genomics/index.qmd).
 
-#### Specialised Course 
-Specialised modules covering advanced knowledge and skills required to generate and analyse 'omics data using Cloud HPC resources will be delivered three times. These will include experimental design, statistical modules and deployment of cloud-based containerised instances for exemplar workflows. They will form a complete teaching and training resource that can be used for online tutor-led workshops or self-paced learning.
+# Our approach 
 
-####  Cloud Administration Guides
-Cloud Administration Guides will enable HPC workflows as "production" instances which can be used by institutional RSE, RDM or HPC Teams to run or support specialised skills modules with their own resources. The Guides will be supported by in person training by Cloud-SPAN systems administrators. 
+- **Inclusive** to anyone interested in big data, we remove barriers that may have prevented learners from participating before. Only a laptop and an internet connection is required to access the materials and participate in workshops.
+- Learning materials are designed to be as **accessible** as possible to beginners, with lots of guidance and reassurance along the way.
+- During the live workshops learners participate in **live- coding**, learning by doing and providing practical hands-on experience with tutor support
+- Participants in taught workshops receive **free access** to an AWS instance containing all the software and data you'll need for the duration of the teaching period. 
+- The learning environment at live workshops is **very welcoming**, encouraging and inclusive. A lot of our learners are complete beginners or new to this world of big data, command line and cloud computing. 
+- **Scholarships** are available to enable members of underrepresented groups and those with financial difficulties to participate in our training courses.
 
-# Scholarships
-Underrepresented groups in research and HPC will be eligible to apply for financial support in order to participate in online or in-person training. 
+# Our learning resources
 
-# Community
-We have etablished a welcoming online community to support learners, including self-paced learners, in the application of training materials to their own research data. 
+**Core skills** - Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills. 
 
-#### Code Retreats
-Learners will have have the opportunity to attend code retreats and benefit from mentoring to provide them both the skills and the self-confidence to apply methods to their own research questions and data. 
-#### Weekly online help session 
-#### Slack channel 
+**Specialised skills** - Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them. The workshop on Statistically Useful Experimental Design was developed to help researchers to understand the issues underpinning good experimental design, to ensure that reproducible techniques are used to produce data.
+
+::: callout-note
+The only course which requires significant prior experience in programming is [Automated Management of AWS Instances](#cloud-admin) which is aimed at computing professionals and research software engineers.
+:::
+
+Community 
+We have established a welcoming online community to support learners, including self-paced learners, in the application of training materials to their own research data.
+Slack 
+Code Retreats 
+Handbook 
+X and LinkedIn 
+Links to Doctoral Training Partnerships
+
+
+
+
+
+
+
+
+
+
+
