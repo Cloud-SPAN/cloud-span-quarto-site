@@ -4,33 +4,94 @@ title-block-banner: false
 max-width: 1400px
 ---
 
-#### About
-
 Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.
 
-Cloud-SPAN hosts live training workshops and has also created educational training materials on topics such as using the command line, genomic analysis and whole metagenome sequencing (WMS) workflows. All of the  training materials and live workshops are offered **free of charge**.
+
+We host live training workshops and have also created educational training materials on topics such as using the command line, genomic analysis and whole metagenome sequencing (WMS) workflows. All of the  training materials and live workshops are offered **free of charge**.
 
 
 # Our approach 
 
-- **Inclusive** to anyone interested in big data, we remove barriers that may have prevented learners from participating before. Only a laptop and an internet connection is required to access the materials and participate in workshops.
+- **Inclusive** to anyone interested in big data, we remove barriers that may have prevented learners from studying before. Only a laptop and an internet connection are required to access the materials and participate in workshops.
 - Learning materials are designed to be as **accessible** as possible to beginners, with lots of guidance and reassurance along the way.
-- During the live workshops learners participate in **live- coding**, learning by doing and providing practical hands-on experience with tutor support
+- During the live workshops learners participate in **live-coding**, learning by doing and are provided with practical hands-on experience with tutor support.
 - Participants in taught workshops receive **free access** to an AWS instance containing all the software and data you'll need for the duration of the teaching period. 
 - The learning environment at live workshops is **very welcoming**, encouraging and inclusive. A lot of our learners are complete beginners or new to this world of big data, command line and cloud computing. 
-- **Scholarships** are available to enable members of underrepresented groups and those with financial difficulties to participate in our training courses.
+- **Scholarships** are available to enable members of underrepresented groups and those with financial difficulties to participate in our training courses. Funding can be used to cover expenses such as childcare, equipment or travel to in-person events. 
 
 # Our learning resources
 
-**Core skills** - Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills. 
+## **Core skills** - Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills. 
 
-**Specialised skills** - Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them. The workshop on Statistically Useful Experimental Design was developed to help researchers to understand the issues underpinning good experimental design, to ensure that reproducible techniques are used to produce data.
+## **Specialised skills** - Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them. 
 
 ::: callout-note
 The only course which requires significant prior experience in programming is [Automated Management of AWS Instances](#cloud-admin) which is aimed at computing professionals and research software engineers.
 :::
 
-Community 
+# Core Skills
+
+### Prenomics {#prenomics}
+[Prenomics](https://cloud-span.github.io/prenomics00-intro/) is an interactive online course on understanding file systems and using the command line which takes place over 2 half days (roughly six hours of content). We developed this course after finding that people taking the Genomics course vary in their experiencing of navigating file systems and the command line (shell).
+
+Topics covered include:
+
+- file directory structure
+- logging onto a cloud instance
+- basic shell commands
+- using the shell to manipulate and search files
+
+NO prior experience is necessary.
+
+## Core R {#core-r}
+This [short 2 hour course](https://cloud-span.github.io/core-r/02_intro_to_r_and_working_with_data.html#1) provides a whistle-stop tour of the R programming language and RStudio environment for total beginners. You will learn how to navigate RStudio, use the manual, import data and summarise/visualise it with a plot.
+
+### Genomics {#genomics}
+[Genomics](https://cloud-span.github.io/00genomics/) is a practical, tutor-led course taking place over 4 half days or 2 full days (roughly twelve hours of content). It teaches data management and analytical skills using cloud resources for genomic research.
+
+Topics covered include:
+
+- project management for cloud genomics
+- writing shell scripts
+- assessing read quality
+- trimming/filtering reads
+- finding sequence variants.
+
+A basic knowledge of the shell is required, which can be obtained by attending/self-studying the Prenomics course.
+
+# Specialised Skills
+
+## Metagenomics {#metagenomics}
+[Metagenomics](https://cloud-span.github.io/nerc-metagenomics-v2q/) teaches data analysis for metagenomics projects. It runs asynchronously with a mixture of taught sessions, offline self-study and drop-in sessions.
+
+Topics covered include:
+
+- an introduction to metagenomics and what it can be used for
+- performing quality control on long and short reads
+- improving your assembly with polishing
+- binning into species/metagenome-assembled genomes (MAGs)
+- taxonomic assignment and functional annotation
+
+No prior knowledge of the shell is required as this course includes two sessions of [Prenomics](#prenomics) material.
+
+## Statistically Useful Experimental Design {#Statistically-Useful-Experimental-Design}
+The workshop was developed to help researchers to:
+
+- understand the issues underpinning good experimental design
+- to ensure that reproducible techniques are used to produce data.
+
+## Create Your Own AWS Instance {#create-aws}
+This course shows you how to [create and manage an Amazon Web Service instance](https://cloud-span.github.io/create-aws-instance-0-overview/) like the ones used in all our courses, in order to:
+
+- study course materials further
+- perform more complex analyses on your own data.
+
+## Automated Management of AWS Instances {#cloud-admin}
+[Automated Management of AWS Instances](https://cloud-span.github.io/cloud-admin-guide-v2q/) is aimed at experienced command line users who have an interest in deploying and managing cloud resources for training purposes.
+
+No prior knowledge of AWS concepts or tools is needed but learners should have significant experience with the Unix terminal and programming with Bash.
+
+# Community 
 We have established a welcoming online community to support learners, including self-paced learners, in the application of training materials to their own research data.
 Slack 
 Code Retreats 
