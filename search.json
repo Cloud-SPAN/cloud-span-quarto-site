@@ -410,7 +410,7 @@
     "href": "about.html#cloud-admin",
     "title": "About",
     "section": "Automated Management of AWS Instances",
-    "text": "Automated Management of AWS Instances\nAutomated Management of AWS Instances is aimed at experienced command line users who have an interest in deploying and managing cloud resources for training purposes.\nNo prior knowledge of AWS concepts or tools is needed but learners should have significant experience with the Unix terminal and programming with Bash."
+    "text": "Automated Management of AWS Instances\nAutomated Management of AWS Instances is aimed at experienced command line users who have an interest in deploying and managing cloud resources for training purposes.\nNo prior knowledge of AWS concepts or tools is needed but learners should have significant experience with the Unix terminal and programming with Bash.\n\n\n\n\n\n\nNote\n\n\n\nThe only course which requires significant prior experience in programming is Automated Management of AWS Instances which is aimed at computing professionals and research software engineers."
   },
   {
     "objectID": "blogs/UKRN_FAIR_workshop_oct22/index.html",
