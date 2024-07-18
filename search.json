@@ -378,20 +378,6 @@
     "text": "Cloud-SPAN trains researchers, and the research software engineers that support them, to run specialised analyses on cloud-based high-performance computing (HPC) infrastructure.\nWe host live training workshops and have also created educational training materials on topics such as using the command line, genomic analysis and whole metagenome sequencing (WMS) workflows. All of the training materials and live workshops are offered free of charge."
   },
   {
-    "objectID": "about.html#core-skills---core-r-and-prenomics-were-created-to-introduce-the-fundamentals-of-the-command-line-and-to-help-learners-gain-confidence-in-their-programming-skills.",
-    "href": "about.html#core-skills---core-r-and-prenomics-were-created-to-introduce-the-fundamentals-of-the-command-line-and-to-help-learners-gain-confidence-in-their-programming-skills.",
-    "title": "About",
-    "section": "Core skills - Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills.",
-    "text": "Core skills - Core R and Prenomics were created to introduce the fundamentals of the command line and to help learners gain confidence in their programming skills."
-  },
-  {
-    "objectID": "about.html#specialised-skills---learners-who-were-already-confident-with-their-command-line-abilities-were-encouraged-to-complete-genomics-and-metagenomics.-an-online-assessment-was-developed-for-learners-to-self-assess-their-level-of-knowledge-and-help-them-to-gauge-which-course-would-be-most-appropriate-for-them.",
-    "href": "about.html#specialised-skills---learners-who-were-already-confident-with-their-command-line-abilities-were-encouraged-to-complete-genomics-and-metagenomics.-an-online-assessment-was-developed-for-learners-to-self-assess-their-level-of-knowledge-and-help-them-to-gauge-which-course-would-be-most-appropriate-for-them.",
-    "title": "About",
-    "section": "Specialised skills - Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them.",
-    "text": "Specialised skills - Learners who were already confident with their command line abilities were encouraged to complete Genomics and Metagenomics. An online assessment was developed for learners to self assess their level of knowledge and help them to gauge which course would be most appropriate for them.\n\n\n\n\n\n\nNote\n\n\n\nThe only course which requires significant prior experience in programming is Automated Management of AWS Instances which is aimed at computing professionals and research software engineers."
-  },
-  {
     "objectID": "about.html#core-r",
     "href": "about.html#core-r",
     "title": "About",
