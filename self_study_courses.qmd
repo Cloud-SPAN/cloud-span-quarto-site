@@ -22,7 +22,7 @@ listing:
       title: "Core R"
       image: images/R-card-narrow.png
       description: "Learn about R and RStudio in this introductory course."
-    - path: https://cloud-span.github.io/cloud-admin-guide-0-overview/
+    - path: https://cloud-span.github.io/cloud-admin-guide-v2q/
       title: "Automated Management of AWS Instances"
       image: images/aws-admin-card-narrow.png
       description: "Learn how to configure, create, manage, and delete, one or multiple instances"
