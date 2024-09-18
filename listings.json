@@ -32,10 +32,6 @@
     ]
   },
   {
-    "listing": "/self_study_courses.html",
-    "items": []
-  },
-  {
     "listing": "/upcoming_courses.html",
     "items": [
       "/upcoming/Genomics/index.html",
@@ -45,6 +41,10 @@
       "/upcoming/Core R/index.html",
       "/upcoming/Code Retreat/index.html"
     ]
+  },
+  {
+    "listing": "/self_study_courses.html",
+    "items": []
   },
   {
     "listing": "/index.html",
