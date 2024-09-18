@@ -25,6 +25,8 @@ website:
             href: about.qmd
           - text: Our aims
             href: cloud-span-aims.qmd
+          - text: Impact
+            href: Impact.qmd
           - text: DaSH Partners
             href: DaSH.qmd
 
