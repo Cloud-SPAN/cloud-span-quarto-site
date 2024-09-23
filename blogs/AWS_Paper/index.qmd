@@ -24,6 +24,8 @@ Amazon Web Services (AWS) instances provide a convenient way to run training on 
 For details on AWS management please view our [paper in gigabyte](https://gigabytejournal.com/articles/133) and [online training resources](https://cloud-span.github.io/cloud-admin-guide-v2q/).
 They provide a step by step guide on how to set up and use an AWS account and the scripts, and how to customise AWS instance templates with other software tools and data. We anticipate that others offering similar training may benefit from using the scripts regardless of the analyses being taught.
 
+![Impact](gigabyte133.pdf){width=600}
+
 ## Advantages of using an instance
 
 -  **Convenient for participants** Learners just have to log into the cloud instance, and they will have access to all of the required software and data. The learner doesn’t have to download any software or data sets.
