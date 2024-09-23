@@ -1,1 +1,44 @@
 
+---
+title: "AWS instances"
+date: 2024/09/23
+author: Sarah Dowsland
+categories:
+  - Announcements
+  - Open science
+  - Resources
+---
+
+## Learn how to automatically manage multiple Amazon Web Services instances!
+
+We present a set of Bash scripts that make it quick and easy to manage Linux AWS instances pre-configured with all the software analysis tools and data needed for a course, and accessible using encrypted login keys and optional domain names. Creating over 30 instances takes 10–15 minutes.
+
+## Why use cloud instances to run a workshop?
+
+Using an AWS cloud instance to run a workshop has many benefits for you as a workshop organiser and for your course participants! It allows you to easily teach non-experts to do analyses on big data without them having to download software or data sets. You can run high performance computing workloads on instances, such as distributed analytics, machine learning algorithms, batch processing,and scientific modelling.
+
+Amazon Web Services (AWS) instances provide a convenient way to run training on complex ‘omics data analysis workflows without requiring participants to install software packages or store large data volumes locally. However, efficiently managing dozens of instances is challenging for training providers.
+
+## View our paper and learning resources
+
+For details on AWS management please view our [paper in gigabyte](https://gigabytejournal.com/articles/133) and [online training resources](https://cloud-span.github.io/cloud-admin-guide-v2q/).
+They provide a step by step guide on how to set up and use an AWS account and the scripts, and how to customise AWS instance templates with other software tools and data. We anticipate that others offering similar training may benefit from using the scripts regardless of the analyses being taught.
+
+## Advantages of using an instance
+
+-  **Convenient for participants** Learners just have to log into the cloud instance, and they will have access to all of the required software and data. The learner doesn’t have to download any software or data sets.
+
+-  **Easier way to teach** The instances all start out identical, so the file structure always looks the same which makes troubleshooting during a training course much easier!
+
+-  **Time efficient** There isn’t any queuing for resources as the instances run on borrowed resources. This can save a lot of time for large analyses, and is especially useful for teaching.
+
+## Learn how
+
+-  to configure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting
+
+-  to create, manage and configure AMI templates (from which instances are created) with your own data and software analysis tools
+
+-  the scripts work so you can customise them.
+
+![.](aws-admin-card-narrow.png){fig-alt="Logo for AWS instances." width="600"} 
+
