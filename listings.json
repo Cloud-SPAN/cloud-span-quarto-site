@@ -4,10 +4,6 @@
     "items": []
   },
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
     "listing": "/upcoming_courses.html",
     "items": [
       "/upcoming/Genomics/index.html",
@@ -19,9 +15,14 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
     "listing": "/blogs.html",
     "items": [
       "/blogs/AWS_paper.html",
+      "/blogs/AWS_Paper/index.html",
       "/blogs/AWS_Management/index.html",
       "/blogs/Join_the_team/index.html",
       "/blogs/Additional_funding_Dec23/index.html",
