@@ -10,7 +10,7 @@ based high performance computing.
 
 View the impact report.
 
-![.][Impact](Impact.png){width=600}
+![Impact](Impact.png){width=600}
 
 
 ![Impact Report](Impact_report.pdf){width=300}
