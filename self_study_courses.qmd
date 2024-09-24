@@ -1,5 +1,5 @@
 ---
-title: "Self-Study Learning Resources"
+title: "Learning Resources"
 listing:
   contents:
     - path: https://cloud-span.github.io/create-aws-instance-0-overview/
@@ -34,7 +34,7 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-Start learning for free with our online modules covering different subjects! You can work through the online materials at your own pace. 
+Start learning for free with our online self-study modules covering different subjects! You can work through the online materials at your own pace. 
 
 ::: {#self_study_courses}
 :::
