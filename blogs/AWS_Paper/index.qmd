@@ -1,6 +1,6 @@
 
 ---
-title: "AWS instances"
+title: "AWS instances Gigabyte Journal Article"
 date: 2024/09/23
 author: Sarah Dowsland
 categories:
@@ -33,14 +33,6 @@ They provide a step by step guide on how to set up and use an AWS account and th
 -  **Easier way to teach** The instances all start out identical, so the file structure always looks the same which makes troubleshooting during a training course much easier!
 
 -  **Time efficient** There isn’t any queuing for resources as the instances run on borrowed resources. This can save a lot of time for large analyses, and is especially useful for teaching.
-
-## Learn how
-
--  to configure and run the scripts to create and manage instances for workshops, manage late registrations and cancellations, and troubleshooting
-
--  to create, manage and configure AMI templates (from which instances are created) with your own data and software analysis tools
-
--  the scripts work so you can customise them.
 
 ![.](aws-admin-card-narrow.png){fig-alt="Logo for AWS instances." width="600"} 
 
