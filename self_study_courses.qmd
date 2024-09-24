@@ -1,5 +1,5 @@
 ---
-title: "Self-study Courses"
+title: "Self-Study Learning Resources"
 listing:
   contents:
     - path: https://cloud-span.github.io/create-aws-instance-0-overview/
