@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: "Workshops"
 listing:
   contents: upcoming
   type: grid
@@ -9,4 +9,4 @@ page-layout: full
 title-block-banner: true
 ---
   
-The Cloud-SPAN project was scheduled to run until June 2024, therefore we do not have any courses available at the moment. New dates and courses will be released when we have secured additional funding. 
+The Cloud-SPAN project was scheduled to run until June 2024, therefore we do not have any workshops available at the moment. New dates and courses will be released when additional funding has been secured. 
