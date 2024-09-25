@@ -35,7 +35,7 @@ A collection of open access online resources for learning and teaching 'omics wi
 :::
 
 ::: content-container
-Cloud-SPAN was initially established in March 2021 as a 2-year collaboration between the University of York and The Software Sustainability Institute, funded by the UKRI Innovation Scholars award (project reference: MR/V038680/1). Additional funding from the Natural Environment Research Council (project references: NE/X006999/1 and NE/Y003527/1) allows the project to be extended until August 2024.
+Cloud-SPAN was initially established in March 2021 as a 2-year collaboration between the University of York and The Software Sustainability Institute, funded by the UKRI Innovation Scholars award (project reference: MR/V038680/1). Additional funding from the Natural Environment Research Council (project references: NE/X006999/1 and NE/Y003527/1) allowed the project to be extended until August 2024.
 :::
 
 ::: content-container
