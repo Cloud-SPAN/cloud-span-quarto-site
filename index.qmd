@@ -24,7 +24,6 @@ Cloud-SPAN trains researchers, and the research software engineers that support 
 
 A collection of open access online resources for learning and teaching 'omics with Cloud-based High Performance Computing has been created. The 8 modules hosted via [GitHub](https://github.com/Cloud-SPAN/) are aimed at both bioscience researchers and the research computing teams that support them. FAIR principles were applied during the preparation of all the training resources to ensure that they can be reused and remixed by others for their own teaching purposes. 
 
-Scholarships are available to enable members of underrepresented groups and those with financial difficulties to participate in our training courses.
 :::
 :::
 :::
