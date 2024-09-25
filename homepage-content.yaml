@@ -6,6 +6,6 @@
     - title: Impact
       href: https://cloud-span.github.io/cloud-span-quarto-site/impact.html
       thumbnail: images/courses_thumbnail.png
-    - title: Recent blog posts
-      href: https://cloud-span.github.io/cloud-span-quarto-site/blogs.html
-      thumbnail: images/blog_graphic.png
+    - title: Learning Resources
+      href: https://cloud-span.github.io/cloud-span-quarto-site/self_study_courses.html
+      thumbnail: images/cloud_icon.png
