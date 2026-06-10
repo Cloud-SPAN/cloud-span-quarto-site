@@ -18,6 +18,10 @@ listing:
       title: "Metagenomics"
       image: images/metagenomics-microbio-card-narrow.png
       description: "Learn more about metagenomics, a way to explore all the genetic material in an environmental sample."
+    - path: https://cloud-span.github.io/metatranscriptomics/
+      title: "Metatranscriptomics"
+      image: images/metatranscriptomics-card-narrow.png
+      description: "Learn more about metatranscriptomics, a method to examine genes expresses in a sample."
     - path: https://github.com/Cloud-SPAN/core-r
       title: "Core R"
       image: images/R-card-narrow.png
