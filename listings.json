@@ -1,22 +1,18 @@
 [
   {
-    "listing": "/self_study_courses.html",
-    "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
     "listing": "/upcoming_courses.html",
     "items": [
-      "/upcoming/Genomics/index.html",
-      "/upcoming/Code Retreat/index.html",
+      "/upcoming/NERC Metagenomics/index.html",
+      "/upcoming/How to manage AWS Instances/index.html",
       "/upcoming/Core R/index.html",
       "/upcoming/Prenomics/index.html",
-      "/upcoming/NERC Metagenomics/index.html",
-      "/upcoming/How to manage AWS Instances/index.html"
+      "/upcoming/Genomics/index.html",
+      "/upcoming/Code Retreat/index.html"
     ]
+  },
+  {
+    "listing": "/self_study_courses.html",
+    "items": []
   },
   {
     "listing": "/blogs.html",
@@ -35,8 +31,8 @@
       "/blogs/northern_bug_dec22/index.html",
       "/blogs/supporting_learners_nov22/index.html",
       "/blogs/prenomics_lowering_barriers_oct22/index.html",
-      "/blogs/UKRN_FAIR_workshop_oct22/index.html",
       "/blogs/scholarships_oct22/index.html",
+      "/blogs/UKRN_FAIR_workshop_oct22/index.html",
       "/blogs/NERC_funding_sep22/index.html",
       "/blogs/challenges_solutions_aug22/index.html",
       "/blogs/northern_bug_scholarships_jul22/index.html",
@@ -50,5 +46,9 @@
       "/blogs/genomics_self_study_may22/index.html",
       "/blogs/genomics_reflection_dec21/index.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
   }
 ]
