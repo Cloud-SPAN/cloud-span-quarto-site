@@ -16,27 +16,27 @@ listing:
       title: "Prenomics"
       image: images/prenomics-card-narrow.png
       description: "Learn how to use the command line to navigate a file system and carry out simple tasks."
-      categories: [self-study, AWS instance required]
+      categories: [AWS instance required]
     - path: https://cloud-span.github.io/00genomics/
       title: "Genomics"
       image: images/genomics-card-narrow.png
       description: "Learn about data management and analytical skills for genomic research."
-      categories: [self-study, AWS instance required]
+      categories: [AWS instance required]
     - path: https://cloud-span.github.io/nerc-metagenomics-v2q/
       title: "Metagenomics"
       image: images/metagenomics-microbio-card-narrow.png
       description: "Learn more about metagenomics, a way to explore all the genetic material in an environmental sample."
-      categories: [self-study, AWS instance required]
+      categories: [AWS instance required]
     - path: https://cloud-span.github.io/metatranscriptomics/
       title: "Metatranscriptomics"
       image: images/metatranscriptomics_card_narrow.png
       description: "Learn more about metatranscriptomics, a method to examine gene expression in a sample."
-      categories: [self-study, AWS instance required]
+      categories: [AWS instance required]
     - path: https://cloud-span.github.io/cloud-admin-guide-v2q/
       title: "Automated Management of AWS Instances"
       image: images/aws-admin-card-narrow.png
       description: "Learn how to configure, create, manage, and delete, one or multiple instances"
-      categories: [self-study, AWS instance required]
+      categories: [AWS instance required]
   type: grid
   sort: "date desc"
   categories: false
@@ -46,6 +46,7 @@ page-layout: full
 title-block-banner: true
 ---
 Start learning for free with our online self-study modules covering different subjects! You can work through the online materials at your own pace. 
+"Self-Study" courses can be completed without an AWS instance. "AWS Instance Required" courses require an instance set up with our course-specific image (provided on taught sessions).
 ```{=html}
 <style>
 .listing-category {
