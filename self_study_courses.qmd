@@ -6,12 +6,10 @@ listing:
       title: "Create Your Own AWS Instance"
       image: images/aws-card-narrow.png
       description: "Learn how to set up an Amazon Web Services instance."
-      <span class="course-chip">Self-study</span>
     - path: https://cloud-span.github.io/core-r/02_intro_to_r_and_working_with_data.html
       title: "Core R"
       image: images/R-card-narrow.png
       description: "Learn about R and RStudio in this introductory course."
-      <span class="course-chip">Self-study</span>
     - path: https://cloud-span.github.io/prenomics00-intro/
       title: "Prenomics"
       image: images/prenomics-card-narrow.png
@@ -40,25 +38,6 @@ listing:
   id: self_study_courses
 page-layout: full
 title-block-banner: true
-
-<style>
-.course-chip {
-  display: inline-block;
-  padding: 0.2rem 0.55rem;
-  margin: 0 0.25rem 0.35rem 0;
-  border-radius: 999px;
-  background-color: #e8f0fe;
-  color: #234a85;
-  font-size: 0.75rem;
-  font-weight: 600;
-  line-height: 1.4;
-}
-
-.aws-chip {
-  background-color: #fff0d9;
-  color: #8a4b08;
-}
-</style>
 ---
 Start learning for free with our online self-study modules covering different subjects! You can work through the online materials at your own pace. 
 
