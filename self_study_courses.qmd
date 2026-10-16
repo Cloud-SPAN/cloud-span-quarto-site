@@ -40,6 +40,7 @@ listing:
   type: grid
   sort: "date desc"
   categories: true
+  fields: [image, title, description, categories]
   id: self_study_courses
 page-layout: full
 title-block-banner: true
