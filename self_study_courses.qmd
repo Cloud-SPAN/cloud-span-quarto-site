@@ -1,22 +1,4 @@
 ---
-<style>
-.course-chip {
-  display: inline-block;
-  padding: 0.2rem 0.55rem;
-  margin: 0 0.25rem 0.35rem 0;
-  border-radius: 999px;
-  background-color: #e8f0fe;
-  color: #234a85;
-  font-size: 0.75rem;
-  font-weight: 600;
-  line-height: 1.4;
-}
-
-.aws-chip {
-  background-color: #fff0d9;
-  color: #8a4b08;
-}
-</style>
 title: "Learning Resources"
 listing:
   contents:
@@ -58,6 +40,25 @@ listing:
   id: self_study_courses
 page-layout: full
 title-block-banner: true
+
+<style>
+.course-chip {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  margin: 0 0.25rem 0.35rem 0;
+  border-radius: 999px;
+  background-color: #e8f0fe;
+  color: #234a85;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.aws-chip {
+  background-color: #fff0d9;
+  color: #8a4b08;
+}
+</style>
 ---
 Start learning for free with our online self-study modules covering different subjects! You can work through the online materials at your own pace. 
 
