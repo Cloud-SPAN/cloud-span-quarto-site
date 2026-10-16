@@ -269,6 +269,7 @@ window.Quarto = {
 
 <p>Start learning for free with our online self-study modules covering different subjects! You can work through the online materials at your own pace.</p>
 <style>
+#quarto-margin-sidebar,
 .quarto-listing-category {
   display: none;
 }
@@ -276,8 +277,10 @@ window.Quarto = {
   font-weight: 600;
   font-size: 0.8rem;
 }
-#quarto-margin-sidebar {
-  display: none;
+/* let the content use the full width */
+#quarto-content,
+main.content {
+  grid-template-columns: [page-start] 1fr [body-start] minmax(0, 1fr) [body-end] 1fr [page-end] !important;
 }
 </style>
 <div id="listing-self_study_courses" class="quarto-listing quarto-listing-container-grid">
