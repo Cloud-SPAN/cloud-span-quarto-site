@@ -46,7 +46,8 @@ page-layout: full
 title-block-banner: true
 ---
 Start learning for free with our online self-study modules covering different subjects! You can work through the online materials at your own pace. 
-"Self-Study" courses can be completed without an AWS instance. "AWS Instance Required" courses require an instance set up with our course-specific image (provided on taught sessions).
+
+"Self-Study" courses can be completed without an AWS instance. "AWS Instance Required" courses require an instance set up with our course-specific image.
 ```{=html}
 <style>
 .listing-category {
