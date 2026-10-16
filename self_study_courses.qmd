@@ -39,7 +39,7 @@ listing:
       categories: [self-study, AWS instance required]
   type: grid
   sort: "date desc"
-  categories: true
+  categories: false
   fields: [image, title, description, categories]
   id: self_study_courses
 page-layout: full
@@ -48,18 +48,9 @@ title-block-banner: true
 Start learning for free with our online self-study modules covering different subjects! You can work through the online materials at your own pace. 
 ```{=html}
 <style>
-#quarto-margin-sidebar,
-.quarto-listing-category {
-  display: none;
-}
 .listing-category {
   font-weight: 600;
   font-size: 0.8rem;
-}
-/* let the content use the full width */
-#quarto-content,
-main.content {
-  grid-template-columns: [page-start] 1fr [body-start] minmax(0, 1fr) [body-end] 1fr [page-end] !important;
 }
 </style>
 ```
