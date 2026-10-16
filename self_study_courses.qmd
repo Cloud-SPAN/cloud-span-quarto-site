@@ -55,6 +55,9 @@ Start learning for free with our online self-study modules covering different su
   font-weight: 600;
   font-size: 0.8rem;
 }
+.quarto-margin-sidebar {
+  display: none;
+}
 </style>
 ```
 ::: {#self_study_courses}
